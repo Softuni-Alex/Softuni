@@ -1,0 +1,6 @@
+D:\Coding\Softuni HomeWork\Tech\Basics\04.Lists Matrix\ListsMatrix\RemoveNegativeReverse\bin\Debug\RemoveNegativeReverse.exe.config
+D:\Coding\Softuni HomeWork\Tech\Basics\04.Lists Matrix\ListsMatrix\RemoveNegativeReverse\bin\Debug\RemoveNegativeReverse.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\04.Lists Matrix\ListsMatrix\RemoveNegativeReverse\bin\Debug\RemoveNegativeReverse.pdb
+D:\Coding\Softuni HomeWork\Tech\Basics\04.Lists Matrix\ListsMatrix\RemoveNegativeReverse\obj\Debug\RemoveNegativeReverse.csprojResolveAssemblyReference.cache
+D:\Coding\Softuni HomeWork\Tech\Basics\04.Lists Matrix\ListsMatrix\RemoveNegativeReverse\obj\Debug\RemoveNegativeReverse.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\04.Lists Matrix\ListsMatrix\RemoveNegativeReverse\obj\Debug\RemoveNegativeReverse.pdb

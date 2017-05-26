@@ -1,0 +1,16 @@
+C:\Alex\Softuni\C# Web\10.Twitter-Like-Mvc\TwitterLike\TwitterLike\Shouter\bin\Debug\Shouter.exe.config
+C:\Alex\Softuni\C# Web\10.Twitter-Like-Mvc\TwitterLike\TwitterLike\Shouter\bin\Debug\Shouter.exe
+C:\Alex\Softuni\C# Web\10.Twitter-Like-Mvc\TwitterLike\TwitterLike\Shouter\bin\Debug\Shouter.pdb
+C:\Alex\Softuni\C# Web\10.Twitter-Like-Mvc\TwitterLike\TwitterLike\Shouter\obj\Debug\Shouter.exe
+C:\Alex\Softuni\C# Web\10.Twitter-Like-Mvc\TwitterLike\TwitterLike\Shouter\obj\Debug\Shouter.pdb
+C:\Alex\Softuni\C# Web\10.Twitter-Like-Mvc\TwitterLike\TwitterLike\Shouter\bin\Debug\Resources\Pages\404.html
+C:\Alex\Softuni\C# Web\10.Twitter-Like-Mvc\TwitterLike\TwitterLike\Shouter\bin\Debug\Resources\Pages\500.html
+C:\Alex\Softuni\C# Web\10.Twitter-Like-Mvc\TwitterLike\TwitterLike\Shouter\bin\Debug\EntityFramework.dll
+C:\Alex\Softuni\C# Web\10.Twitter-Like-Mvc\TwitterLike\TwitterLike\Shouter\bin\Debug\EntityFramework.SqlServer.dll
+C:\Alex\Softuni\C# Web\10.Twitter-Like-Mvc\TwitterLike\TwitterLike\Shouter\bin\Debug\SimpleHttpServer.dll
+C:\Alex\Softuni\C# Web\10.Twitter-Like-Mvc\TwitterLike\TwitterLike\Shouter\bin\Debug\SimpleMVC.dll
+C:\Alex\Softuni\C# Web\10.Twitter-Like-Mvc\TwitterLike\TwitterLike\Shouter\bin\Debug\SimpleHttpServer.pdb
+C:\Alex\Softuni\C# Web\10.Twitter-Like-Mvc\TwitterLike\TwitterLike\Shouter\bin\Debug\SimpleMVC.pdb
+C:\Alex\Softuni\C# Web\10.Twitter-Like-Mvc\TwitterLike\TwitterLike\Shouter\bin\Debug\EntityFramework.xml
+C:\Alex\Softuni\C# Web\10.Twitter-Like-Mvc\TwitterLike\TwitterLike\Shouter\bin\Debug\EntityFramework.SqlServer.xml
+C:\Alex\Softuni\C# Web\10.Twitter-Like-Mvc\TwitterLike\TwitterLike\Shouter\obj\Debug\Shouter.csprojResolveAssemblyReference.cache

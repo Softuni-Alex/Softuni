@@ -1,0 +1,1 @@
+C:\Alex\Softuni\DB-Advanced\02.ADO.Net-Advanced\MiniORMLive\MiniORMLive\bin\Debug\MiniORMLive.exe.config

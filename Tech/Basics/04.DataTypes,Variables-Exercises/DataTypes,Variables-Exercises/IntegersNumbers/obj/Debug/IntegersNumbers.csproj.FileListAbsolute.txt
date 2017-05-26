@@ -1,0 +1,7 @@
+D:\Coding\Tech\Basics\03.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\IntegersNumbers\bin\Debug\IntegersNumbers.exe.config
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\IntegersNumbers\bin\Debug\IntegersNumbers.exe.config
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\IntegersNumbers\bin\Debug\IntegersNumbers.exe
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\IntegersNumbers\bin\Debug\IntegersNumbers.pdb
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\IntegersNumbers\obj\Debug\IntegersNumbers.csprojResolveAssemblyReference.cache
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\IntegersNumbers\obj\Debug\IntegersNumbers.exe
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\IntegersNumbers\obj\Debug\IntegersNumbers.pdb

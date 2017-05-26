@@ -1,0 +1,5 @@
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\ComparingFloats\bin\Debug\ComparingFloats.exe.config
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\ComparingFloats\bin\Debug\ComparingFloats.exe
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\ComparingFloats\bin\Debug\ComparingFloats.pdb
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\ComparingFloats\obj\Debug\ComparingFloats.exe
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\ComparingFloats\obj\Debug\ComparingFloats.pdb

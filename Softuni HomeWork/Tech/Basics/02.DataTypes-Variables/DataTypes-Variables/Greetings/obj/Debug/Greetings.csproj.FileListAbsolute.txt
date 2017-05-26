@@ -1,0 +1,6 @@
+D:\Coding\Softuni HomeWork\Tech\Basics\02.DataTypes-Variables\DataTypes-Variables\Greetings\bin\Debug\Greetings.exe.config
+D:\Coding\Softuni HomeWork\Tech\Basics\02.DataTypes-Variables\DataTypes-Variables\Greetings\bin\Debug\Greetings.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\02.DataTypes-Variables\DataTypes-Variables\Greetings\bin\Debug\Greetings.pdb
+D:\Coding\Softuni HomeWork\Tech\Basics\02.DataTypes-Variables\DataTypes-Variables\Greetings\obj\Debug\Greetings.csprojResolveAssemblyReference.cache
+D:\Coding\Softuni HomeWork\Tech\Basics\02.DataTypes-Variables\DataTypes-Variables\Greetings\obj\Debug\Greetings.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\02.DataTypes-Variables\DataTypes-Variables\Greetings\obj\Debug\Greetings.pdb

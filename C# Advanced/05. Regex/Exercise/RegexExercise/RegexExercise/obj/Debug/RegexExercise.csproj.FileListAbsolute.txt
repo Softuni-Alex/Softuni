@@ -1,0 +1,6 @@
+D:\Coding\C# Advanced\05. Regex\Exercise\RegexExercise\RegexExercise\bin\Debug\RegexExercise.exe.config
+D:\Coding\C# Advanced\05. Regex\Exercise\RegexExercise\RegexExercise\bin\Debug\RegexExercise.exe
+D:\Coding\C# Advanced\05. Regex\Exercise\RegexExercise\RegexExercise\bin\Debug\RegexExercise.pdb
+D:\Coding\C# Advanced\05. Regex\Exercise\RegexExercise\RegexExercise\obj\Debug\RegexExercise.csprojResolveAssemblyReference.cache
+D:\Coding\C# Advanced\05. Regex\Exercise\RegexExercise\RegexExercise\obj\Debug\RegexExercise.exe
+D:\Coding\C# Advanced\05. Regex\Exercise\RegexExercise\RegexExercise\obj\Debug\RegexExercise.pdb

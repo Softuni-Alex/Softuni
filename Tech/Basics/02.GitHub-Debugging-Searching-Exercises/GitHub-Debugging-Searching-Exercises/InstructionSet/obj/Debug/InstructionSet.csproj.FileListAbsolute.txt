@@ -1,0 +1,6 @@
+D:\Coding\Tech\Basics\02.GitHub-Debugging-Searching-Exercises\GitHub-Debugging-Searching-Exercises\InstructionSet\bin\Debug\InstructionSet.exe.config
+D:\Coding\Tech\Basics\02.GitHub-Debugging-Searching-Exercises\GitHub-Debugging-Searching-Exercises\InstructionSet\bin\Debug\InstructionSet.exe
+D:\Coding\Tech\Basics\02.GitHub-Debugging-Searching-Exercises\GitHub-Debugging-Searching-Exercises\InstructionSet\bin\Debug\InstructionSet.pdb
+D:\Coding\Tech\Basics\02.GitHub-Debugging-Searching-Exercises\GitHub-Debugging-Searching-Exercises\InstructionSet\obj\Debug\InstructionSet.csprojResolveAssemblyReference.cache
+D:\Coding\Tech\Basics\02.GitHub-Debugging-Searching-Exercises\GitHub-Debugging-Searching-Exercises\InstructionSet\obj\Debug\InstructionSet.exe
+D:\Coding\Tech\Basics\02.GitHub-Debugging-Searching-Exercises\GitHub-Debugging-Searching-Exercises\InstructionSet\obj\Debug\InstructionSet.pdb

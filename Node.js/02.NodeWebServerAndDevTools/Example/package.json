@@ -1,0 +1,15 @@
+{
+  "name": "example",
+  "engine": "6.6.0",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alex",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "standard": "8.1.0"
+  }
+}

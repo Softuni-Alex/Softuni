@@ -1,0 +1,1 @@
+C:\Alex\Softuni\C# Web\13.Exam\Exam\SoftuniStore\bin\Debug\SoftuniStore.exe.config

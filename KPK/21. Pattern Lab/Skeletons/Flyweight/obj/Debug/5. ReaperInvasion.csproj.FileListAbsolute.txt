@@ -1,0 +1,13 @@
+D:\Coding\KPK\21. Pattern Lab\Skeletons\Flyweight\bin\Debug\FlyweightGame.exe.config
+D:\Coding\KPK\21. Pattern Lab\Skeletons\Flyweight\bin\Debug\FlyweightGame.exe
+D:\Coding\KPK\21. Pattern Lab\Skeletons\Flyweight\bin\Debug\FlyweightGame.pdb
+D:\Coding\KPK\21. Pattern Lab\Skeletons\Flyweight\obj\Debug\5. ReaperInvasion.csprojResolveAssemblyReference.cache
+D:\Coding\KPK\21. Pattern Lab\Skeletons\Flyweight\obj\Debug\MainWindow.baml
+D:\Coding\KPK\21. Pattern Lab\Skeletons\Flyweight\obj\Debug\MainWindow.g.cs
+D:\Coding\KPK\21. Pattern Lab\Skeletons\Flyweight\obj\Debug\App.g.cs
+D:\Coding\KPK\21. Pattern Lab\Skeletons\Flyweight\obj\Debug\FlyweightGame_MarkupCompile.cache
+D:\Coding\KPK\21. Pattern Lab\Skeletons\Flyweight\obj\Debug\FlyweightGame.g.resources
+D:\Coding\KPK\21. Pattern Lab\Skeletons\Flyweight\obj\Debug\FlyweightGame.Properties.Resources.resources
+D:\Coding\KPK\21. Pattern Lab\Skeletons\Flyweight\obj\Debug\5. ReaperInvasion.csproj.GenerateResource.Cache
+D:\Coding\KPK\21. Pattern Lab\Skeletons\Flyweight\obj\Debug\FlyweightGame.exe
+D:\Coding\KPK\21. Pattern Lab\Skeletons\Flyweight\obj\Debug\FlyweightGame.pdb

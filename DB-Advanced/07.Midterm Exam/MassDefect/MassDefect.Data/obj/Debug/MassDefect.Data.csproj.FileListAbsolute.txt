@@ -1,0 +1,14 @@
+C:\Alex\Softuni\DB-Advanced\07.Midterm Exam\MassDefect\MassDefect.Data\bin\Debug\MassDefect.Data.dll.config
+C:\Alex\Softuni\DB-Advanced\07.Midterm Exam\MassDefect\MassDefect.Data\bin\Debug\MassDefect.Data.dll
+C:\Alex\Softuni\DB-Advanced\07.Midterm Exam\MassDefect\MassDefect.Data\bin\Debug\MassDefect.Data.pdb
+C:\Alex\Softuni\DB-Advanced\07.Midterm Exam\MassDefect\MassDefect.Data\bin\Debug\EntityFramework.dll
+C:\Alex\Softuni\DB-Advanced\07.Midterm Exam\MassDefect\MassDefect.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Alex\Softuni\DB-Advanced\07.Midterm Exam\MassDefect\MassDefect.Data\bin\Debug\MassDefect.Models.dll
+C:\Alex\Softuni\DB-Advanced\07.Midterm Exam\MassDefect\MassDefect.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Alex\Softuni\DB-Advanced\07.Midterm Exam\MassDefect\MassDefect.Data\bin\Debug\MassDefect.Models.pdb
+C:\Alex\Softuni\DB-Advanced\07.Midterm Exam\MassDefect\MassDefect.Data\bin\Debug\EntityFramework.xml
+C:\Alex\Softuni\DB-Advanced\07.Midterm Exam\MassDefect\MassDefect.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Alex\Softuni\DB-Advanced\07.Midterm Exam\MassDefect\MassDefect.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Alex\Softuni\DB-Advanced\07.Midterm Exam\MassDefect\MassDefect.Data\obj\Debug\MassDefect.Data.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni\DB-Advanced\07.Midterm Exam\MassDefect\MassDefect.Data\obj\Debug\MassDefect.Data.dll
+C:\Alex\Softuni\DB-Advanced\07.Midterm Exam\MassDefect\MassDefect.Data\obj\Debug\MassDefect.Data.pdb

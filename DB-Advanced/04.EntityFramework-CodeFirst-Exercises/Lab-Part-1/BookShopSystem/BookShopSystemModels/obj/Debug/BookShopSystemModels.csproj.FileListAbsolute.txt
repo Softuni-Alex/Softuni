@@ -1,0 +1,10 @@
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\Lab-Part-1\BookShopSystem\BookShopSystemModels\bin\Debug\BookShopSystemModels.dll.config
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\Lab-Part-1\BookShopSystem\BookShopSystemModels\bin\Debug\BookShopSystemModels.dll
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\Lab-Part-1\BookShopSystem\BookShopSystemModels\bin\Debug\BookShopSystemModels.pdb
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\Lab-Part-1\BookShopSystem\BookShopSystemModels\bin\Debug\EntityFramework.dll
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\Lab-Part-1\BookShopSystem\BookShopSystemModels\bin\Debug\EntityFramework.SqlServer.dll
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\Lab-Part-1\BookShopSystem\BookShopSystemModels\bin\Debug\EntityFramework.xml
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\Lab-Part-1\BookShopSystem\BookShopSystemModels\bin\Debug\EntityFramework.SqlServer.xml
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\Lab-Part-1\BookShopSystem\BookShopSystemModels\obj\Debug\BookShopSystemModels.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\Lab-Part-1\BookShopSystem\BookShopSystemModels\obj\Debug\BookShopSystemModels.dll
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\Lab-Part-1\BookShopSystem\BookShopSystemModels\obj\Debug\BookShopSystemModels.pdb

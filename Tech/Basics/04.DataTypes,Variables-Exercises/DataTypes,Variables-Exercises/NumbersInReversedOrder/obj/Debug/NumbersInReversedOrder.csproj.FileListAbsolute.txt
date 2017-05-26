@@ -1,0 +1,5 @@
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\NumbersInReversedOrder\bin\Debug\NumbersInReversedOrder.exe.config
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\NumbersInReversedOrder\bin\Debug\NumbersInReversedOrder.exe
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\NumbersInReversedOrder\bin\Debug\NumbersInReversedOrder.pdb
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\NumbersInReversedOrder\obj\Debug\NumbersInReversedOrder.exe
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\NumbersInReversedOrder\obj\Debug\NumbersInReversedOrder.pdb

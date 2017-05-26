@@ -1,0 +1,6 @@
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Memory-Stream\bin\Debug\Memory-Stream.exe.config
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Memory-Stream\bin\Debug\Memory-Stream.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Memory-Stream\bin\Debug\Memory-Stream.pdb
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Memory-Stream\obj\Debug\Memory-Stream.csprojResolveAssemblyReference.cache
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Memory-Stream\obj\Debug\Memory-Stream.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Memory-Stream\obj\Debug\Memory-Stream.pdb

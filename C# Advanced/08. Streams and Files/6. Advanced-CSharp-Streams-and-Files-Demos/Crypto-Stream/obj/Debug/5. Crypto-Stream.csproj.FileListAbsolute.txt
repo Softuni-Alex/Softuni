@@ -1,0 +1,6 @@
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Crypto-Stream\bin\Debug\Crypto-Stream.exe.config
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Crypto-Stream\obj\Debug\Crypto-Stream.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Crypto-Stream\obj\Debug\Crypto-Stream.pdb
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Crypto-Stream\bin\Debug\Crypto-Stream.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Crypto-Stream\bin\Debug\Crypto-Stream.pdb
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Crypto-Stream\obj\Debug\5. Crypto-Stream.csprojResolveAssemblyReference.cache

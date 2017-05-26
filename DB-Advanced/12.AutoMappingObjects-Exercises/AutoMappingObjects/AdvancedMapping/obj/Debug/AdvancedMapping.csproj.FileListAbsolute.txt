@@ -1,0 +1,8 @@
+C:\Alex\Softuni\DB-Advanced\12.AutoMappingObjects-Exercises\AutoMappingObjects\AdvancedMapping\bin\Debug\AdvancedMapping.exe.config
+C:\Alex\Softuni\DB-Advanced\12.AutoMappingObjects-Exercises\AutoMappingObjects\AdvancedMapping\bin\Debug\AdvancedMapping.exe
+C:\Alex\Softuni\DB-Advanced\12.AutoMappingObjects-Exercises\AutoMappingObjects\AdvancedMapping\bin\Debug\AdvancedMapping.pdb
+C:\Alex\Softuni\DB-Advanced\12.AutoMappingObjects-Exercises\AutoMappingObjects\AdvancedMapping\bin\Debug\AutoMapper.dll
+C:\Alex\Softuni\DB-Advanced\12.AutoMappingObjects-Exercises\AutoMappingObjects\AdvancedMapping\bin\Debug\AutoMapper.xml
+C:\Alex\Softuni\DB-Advanced\12.AutoMappingObjects-Exercises\AutoMappingObjects\AdvancedMapping\obj\Debug\AdvancedMapping.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni\DB-Advanced\12.AutoMappingObjects-Exercises\AutoMappingObjects\AdvancedMapping\obj\Debug\AdvancedMapping.exe
+C:\Alex\Softuni\DB-Advanced\12.AutoMappingObjects-Exercises\AutoMappingObjects\AdvancedMapping\obj\Debug\AdvancedMapping.pdb

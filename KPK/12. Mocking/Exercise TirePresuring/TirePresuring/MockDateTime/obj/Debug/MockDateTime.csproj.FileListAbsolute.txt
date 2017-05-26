@@ -1,0 +1,8 @@
+D:\Coding\KPK\12. Mocking\Exercise TirePresuring\TirePresuring\MockDateTime\bin\Debug\MockDateTime.dll
+D:\Coding\KPK\12. Mocking\Exercise TirePresuring\TirePresuring\MockDateTime\bin\Debug\MockDateTime.pdb
+D:\Coding\KPK\12. Mocking\Exercise TirePresuring\TirePresuring\MockDateTime\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Coding\KPK\12. Mocking\Exercise TirePresuring\TirePresuring\MockDateTime\bin\Debug\Moq.dll
+D:\Coding\KPK\12. Mocking\Exercise TirePresuring\TirePresuring\MockDateTime\bin\Debug\Moq.xml
+D:\Coding\KPK\12. Mocking\Exercise TirePresuring\TirePresuring\MockDateTime\obj\Debug\MockDateTime.csprojResolveAssemblyReference.cache
+D:\Coding\KPK\12. Mocking\Exercise TirePresuring\TirePresuring\MockDateTime\obj\Debug\MockDateTime.dll
+D:\Coding\KPK\12. Mocking\Exercise TirePresuring\TirePresuring\MockDateTime\obj\Debug\MockDateTime.pdb

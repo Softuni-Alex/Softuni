@@ -1,0 +1,6 @@
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\FoldAndSum\bin\Debug\FoldAndSum.exe.config
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\FoldAndSum\bin\Debug\FoldAndSum.exe
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\FoldAndSum\bin\Debug\FoldAndSum.pdb
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\FoldAndSum\obj\Debug\FoldAndSum.exe
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\FoldAndSum\obj\Debug\FoldAndSum.pdb
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\FoldAndSum\obj\Debug\FoldAndSum.csprojResolveAssemblyReference.cache

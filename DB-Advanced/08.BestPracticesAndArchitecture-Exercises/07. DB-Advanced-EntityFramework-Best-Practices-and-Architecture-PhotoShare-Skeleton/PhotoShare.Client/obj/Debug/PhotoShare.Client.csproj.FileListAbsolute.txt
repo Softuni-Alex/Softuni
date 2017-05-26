@@ -1,0 +1,2 @@
+C:\Alex\Softuni\DB-Advanced\08.BestPracticesAndArchitecture-Exercises\07. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Client\bin\Debug\PhotoShare.Client.exe.config
+C:\Alex\Softuni\DB-Advanced\08.BestPracticesAndArchitecture-Exercises\07. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Client\obj\Debug\PhotoShare.Client.csprojResolveAssemblyReference.cache

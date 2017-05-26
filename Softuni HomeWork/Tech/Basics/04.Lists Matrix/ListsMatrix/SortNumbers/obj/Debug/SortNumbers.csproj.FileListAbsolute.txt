@@ -1,0 +1,5 @@
+D:\Coding\Softuni HomeWork\Tech\Basics\04.Lists Matrix\ListsMatrix\SortNumbers\bin\Debug\SortNumbers.exe.config
+D:\Coding\Softuni HomeWork\Tech\Basics\04.Lists Matrix\ListsMatrix\SortNumbers\bin\Debug\SortNumbers.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\04.Lists Matrix\ListsMatrix\SortNumbers\bin\Debug\SortNumbers.pdb
+D:\Coding\Softuni HomeWork\Tech\Basics\04.Lists Matrix\ListsMatrix\SortNumbers\obj\Debug\SortNumbers.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\04.Lists Matrix\ListsMatrix\SortNumbers\obj\Debug\SortNumbers.pdb

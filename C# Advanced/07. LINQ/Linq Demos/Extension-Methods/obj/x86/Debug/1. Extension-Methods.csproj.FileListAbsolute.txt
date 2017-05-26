@@ -1,0 +1,4 @@
+D:\Coding\C# Advanced\07. LINQ\Linq Demos\Extension-Methods\bin\Debug\Extension-Methods.exe
+D:\Coding\C# Advanced\07. LINQ\Linq Demos\Extension-Methods\bin\Debug\Extension-Methods.pdb
+D:\Coding\C# Advanced\07. LINQ\Linq Demos\Extension-Methods\obj\x86\Debug\Extension-Methods.exe
+D:\Coding\C# Advanced\07. LINQ\Linq Demos\Extension-Methods\obj\x86\Debug\Extension-Methods.pdb

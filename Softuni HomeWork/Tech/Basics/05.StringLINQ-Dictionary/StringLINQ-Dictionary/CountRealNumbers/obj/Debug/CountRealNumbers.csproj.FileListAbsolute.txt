@@ -1,0 +1,5 @@
+D:\Coding\Softuni HomeWork\Tech\Basics\05.StringLINQ-Dictionary\StringLINQ-Dictionary\CountRealNumbers\bin\Debug\CountRealNumbers.exe.config
+D:\Coding\Softuni HomeWork\Tech\Basics\05.StringLINQ-Dictionary\StringLINQ-Dictionary\CountRealNumbers\bin\Debug\CountRealNumbers.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\05.StringLINQ-Dictionary\StringLINQ-Dictionary\CountRealNumbers\bin\Debug\CountRealNumbers.pdb
+D:\Coding\Softuni HomeWork\Tech\Basics\05.StringLINQ-Dictionary\StringLINQ-Dictionary\CountRealNumbers\obj\Debug\CountRealNumbers.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\05.StringLINQ-Dictionary\StringLINQ-Dictionary\CountRealNumbers\obj\Debug\CountRealNumbers.pdb

@@ -1,0 +1,50 @@
+header {
+    height: 33px;
+    background-color: lightsalmon;
+    margin: 0 auto;
+    font-size: 20pt;
+    text-align: center;
+    color: white;
+}
+
+aside{
+    display: inline-block;
+    width:20%;
+}
+
+aside ul {
+    background: lightsalmon;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    width: 92%;
+    padding: 20px 5px;
+    border-radius: 10px;
+    font: bold 12pt Arial;
+    color: white;
+ }
+
+aside ul a{
+    text-decoration: none;
+    color:white;
+}
+
+main{
+    display: inline-block;
+    text-align: left;
+    width: 79%;
+    position: relative;
+}
+
+ul li a:hover{
+    color: white;
+}
+
+footer.footer{
+    height: 20px;
+    background-color: lightsalmon;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 12pt;
+    color: white;
+}

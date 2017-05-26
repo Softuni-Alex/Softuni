@@ -1,0 +1,1 @@
+D:\Coding\C# Advanced\07. LINQ\Linq Demos\DynamicType\bin\Debug\DynamicType.exe.config

@@ -1,0 +1,5 @@
+D:\Coding\KPK\07. High Quality Classes\08. High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.csprojResolveAssemblyReference.cache
+D:\Coding\KPK\07. High Quality Classes\08. High-Quality-Classes-Homework\Abstraction\bin\Debug\Abstraction.exe
+D:\Coding\KPK\07. High Quality Classes\08. High-Quality-Classes-Homework\Abstraction\bin\Debug\Abstraction.pdb
+D:\Coding\KPK\07. High Quality Classes\08. High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.exe
+D:\Coding\KPK\07. High Quality Classes\08. High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.pdb

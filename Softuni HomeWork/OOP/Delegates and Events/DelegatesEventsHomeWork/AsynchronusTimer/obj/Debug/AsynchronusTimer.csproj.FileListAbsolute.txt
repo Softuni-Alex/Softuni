@@ -1,0 +1,6 @@
+D:\Coding\Softuni HomeWork\OOP\Delegates and Events\DelegatesEventsHomeWork\AsynchronusTimer\bin\Debug\AsynchronusTimer.exe.config
+D:\Coding\Softuni HomeWork\OOP\Delegates and Events\DelegatesEventsHomeWork\AsynchronusTimer\bin\Debug\AsynchronusTimer.exe
+D:\Coding\Softuni HomeWork\OOP\Delegates and Events\DelegatesEventsHomeWork\AsynchronusTimer\bin\Debug\AsynchronusTimer.pdb
+D:\Coding\Softuni HomeWork\OOP\Delegates and Events\DelegatesEventsHomeWork\AsynchronusTimer\obj\Debug\AsynchronusTimer.csprojResolveAssemblyReference.cache
+D:\Coding\Softuni HomeWork\OOP\Delegates and Events\DelegatesEventsHomeWork\AsynchronusTimer\obj\Debug\AsynchronusTimer.exe
+D:\Coding\Softuni HomeWork\OOP\Delegates and Events\DelegatesEventsHomeWork\AsynchronusTimer\obj\Debug\AsynchronusTimer.pdb

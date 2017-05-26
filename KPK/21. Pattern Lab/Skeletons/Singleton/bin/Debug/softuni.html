@@ -1,0 +1,846 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0">
+
+    <title>Начало - Софтуерен университет</title>
+
+    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link href="/apple-touch-icon.png" rel="apple-touch-icon" />
+    <link href="/apple-touch-icon-precomposed.png" rel="apple-touch-icon" />
+
+    <link href="/Content/bootstrap/styles?v=4jFDhL8tnPLVZ2-NA0JyLpbIBjoBrHraCB3JHUxz1DM1" rel="stylesheet"/>
+
+
+    
+
+<link href="/Content/kendo/css?v=4AQJ_d1ZFbHTNw1sU55GFhqzqbSL_dNJRxjbdrUKmnk1" rel="stylesheet"/>
+<link href="/Content/styles?v=KPnJkIf2Na0G2UNPJHHtuKv8bPA4IB62fiI6RtCbTHk1" rel="stylesheet"/>
+<link href="/Content/override?v=X4uzvl04gjLBE7YXK1haYcpPct_NwhND6Mao6IcG10k1" rel="stylesheet"/>
+
+    
+    <link href="/Content/home-page-css?v=8Ph9tymaM9s7gMEwlpt-hLaLQ78UC97mm5BJ3IvX3iM1" rel="stylesheet"/>
+
+
+    
+    <style>
+        .home-page-news-description {
+            margin-left: 19px;
+        }
+
+        #carousel-news .thumbnail-img, section .thumbnail-img {
+            width: 100%;
+        }
+
+        .video-resource-wrapper {
+            width: 90%;
+        }
+
+        .upcoming-exams-box-body {
+            height: 308px !important;
+        }
+
+        .courses-list .info-item .info-link{
+            padding-right: 40px;
+        }
+
+        @media only screen and (min-width: 767px) {
+            .news-slider .read-more-btn {
+                margin-left: 19px;
+            }
+        }
+    </style>
+
+
+    <script src="/bundles/modernizr?v=RJWLYuA0p9DAogaZGuFJ_kS1pkG6Kg_B8EJxhHE14M41"></script>
+<script src="/bundles/jquery?v=9hG7_PjovzDKeK3fBKQmccx_Sb_r8MiL6ewEfYWjU_o1"></script>
+
+
+    <script src="/Scripts/jquery.signalR-2.2.0.min.js"></script>
+    <script src="/signalr/hubs"></script>
+    <script src="/Scripts/webshims/polyfiller.js"></script>
+    <script>webshim.polyfill('forms');</script>
+
+    <link rel="canonical" href="/" />
+
+        <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="SoftUni" />
+
+        <meta name="title" content="Софтуерен университет" />
+        <meta name="description" content="Софтуерен университет - курсове по програмиране" />
+        <meta name="Keywords" content="софтуер,университет,програмиране,курсове" />
+
+    
+    
+    <meta name="google-site-verification" content="FuQMn5N4InpU9-Rg9853awE4R7ociJvy0WwgddWWfKE" />
+
+    
+
+    <meta property="fb:app_id" content="1442925725936458">
+    <meta property="og:url" content="https://softuni.bg/" />
+    <meta property="og:site_name" content="SoftUni">
+
+        <meta property="og:title" content="Курсове по програмиране" />
+        <meta property="og:description" content="Software University" />
+        <meta property="og:image" content="https://softuni.bg/Files/UserFiles/ImageGallery/softuni-2.0.jpg" />
+
+        <script>
+            !function (f, b, e, v, n, t, s) {
+                if (f.fbq) return;
+                n = f.fbq = function () {
+                    n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments);
+                };
+                if (!f._fbq) f._fbq = n;
+                n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = []; t = b.createElement(e); t.async = !0;
+                t.src = v; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s);
+            }(window, document, 'script', '//connect.facebook.net/en_US/fbevents.js');
+
+            // Insert Your Custom Audience Pixel ID below.
+            fbq('init', '911920462219791');
+            fbq('track', 'PageView');
+        </script>
+        <noscript>
+            <img height="1" width="1" style="display: none"
+                 src="https://www.facebook.com/tr?id=911920462219791&ev=PageView&noscript=1" />
+        </noscript>
+</head>
+
+<body>
+    <div class="lead-wrapper video-holder">
+        
+
+
+
+<div class="header-wrapper ">
+    <header id="page-header" class="container container-holder">
+        <div class="brand-holder pull-left">
+            <div class="cell">
+                <div class="logo">
+                    <strong>Software University</strong>
+                    <a href="/" title="Software University">
+                        <img class="hidden-md hidden-xs" src="/Content/images/software-university-logo.png" alt="Logo">
+                        <img class="visible-md visible-xs" src="/Content/images/softuni-mobile-logo.png" alt="Logo">
+                    </a>
+                </div>
+            </div>
+        </div>
+
+
+
+        <nav id="header-nav">
+            <div class="toggle-nav toggle-holder">
+                <ul class="nav-list horizontal-list">
+                    <li class="nav-item dropdown-item">
+                        <a href="javascript:;" class="nav-link" data-toggle="dropdown">
+                            <span class="cell">СофтУни</span>
+                        </a>
+
+                        <div class="custom-dropdown">
+                            <div class="container container-holder">
+                                <ul class="dropdown-list row">
+                                    <li class="col-md-3 col-sm-4">
+                                        <a href="/about" class="nav-link">За СофтУни</a>
+                                    </li>
+                                    <li class="col-md-3 col-sm-4">
+                                        <a href="/diplomas-and-certificates" class="nav-link">Сертификати</a>
+                                    </li>
+                                    <li class="col-md-3 col-sm-4">
+                                        <a href="/plans" class="nav-link">Такси и стипендии</a>
+                                    </li>
+                                    <li class="col-md-3 col-sm-4">
+                                        <a href="/university-partners" class="nav-link">Университети партньори</a>
+                                    </li>
+                                    <li class="col-md-3 col-sm-4">
+                                        <a href="/curriculum" class="nav-link">Учебен план</a>
+                                    </li>
+                                    <li class="col-md-3 col-sm-4">
+                                        <a href="/trainers" class="nav-link">Преподаватели</a>
+                                    </li>
+                                    <li class="col-md-3 col-sm-4">
+                                        <a href="/how-to-apply" class="nav-link">Как да кандидатствам</a>
+                                    </li>
+                                    <li class="col-md-3 col-sm-4">
+                                        <a href="/faq" class="nav-link">Често задавани въпроси</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown-item">
+                        <a href="javascript:;" class="nav-link">
+                            <span class="cell">Обучения</span>
+                        </a>
+                        
+
+<div class="custom-dropdown">
+    <div class="container container-holder">
+        <div class="row">
+            <div class="col-md-4">
+
+<div class="category-nav levels-nav">
+    <h2 class="category-title">
+        <a href="/trainings/courses#basic-level">Basic Level</a>
+        <span class="level-num">
+            <span>0</span>
+        </span><!-- End .level-num -->
+    </h2>
+
+    <ul class="category-list">
+        
+<li>
+    <a href="/trainings/1270/programming-basics-december-2015" class="nav-link">Programming Basics - декември 2015</a>
+</li>
+
+<li>
+    <a href="/trainings/1297/programming-basics-january-2016" class="nav-link">Programming Basics - януари 2016</a>
+</li>
+
+    </ul>
+    <!-- End .category-list -->
+</div>
+
+<div class="category-nav levels-nav">
+    <h2 class="category-title">
+        <a href="/trainings/courses#fundamental-level">Fundamental Level</a>
+        <span class="level-num">
+            <span>1</span>
+        </span><!-- End .level-num -->
+    </h2>
+
+    <ul class="category-list">
+        
+<li>
+    <a href="/trainings/1264/teamwork-and-personal-skills-february-2016" class="nav-link">Teamwork and Personal Skills февруари 2016</a>
+</li>
+
+<li>
+    <a href="/trainings/1286/high-quality-code-december-2015" class="nav-link">High-Quality Code декември 2015</a>
+</li>
+
+<li>
+    <a href="/trainings/1314/advanced-csharp-february-2016" class="nav-link">Advanced C# - февруари 2016</a>
+</li>
+
+    </ul>
+    <!-- End .category-list -->
+</div>
+            </div>
+
+            <div class="col-md-4">
+
+<div class="category-nav levels-nav">
+    <h2 class="category-title">
+        <a href="/trainings/courses#advanced-level-front-end">Advanced Level - Front-end</a>
+        <span class="level-num">
+            <span>2</span>
+        </span><!-- End .level-num -->
+    </h2>
+
+    <ul class="category-list">
+        
+<li>
+    <a href="/trainings/1310/advanced-javascript-february-2016" class="nav-link">Advanced JavaScript февруари 2016</a>
+</li>
+
+    </ul>
+    <!-- End .category-list -->
+</div>
+
+<div class="category-nav levels-nav">
+    <h2 class="category-title">
+        <a href="/trainings/courses#advanced-level-back-end">Advanced Level - Back-end</a>
+        <span class="level-num">
+            <span>2</span>
+        </span><!-- End .level-num -->
+    </h2>
+
+    <ul class="category-list">
+        
+    </ul>
+    <!-- End .category-list -->
+</div>
+
+                <div class="category-nav">
+                    <h2 class="category-title">
+                        <a href="/trainings/courses">Всички курсове</a>
+                    </h2>
+                </div>
+                <!-- End .category-nav -->
+            </div>
+
+            <div class="col-md-4">
+                <div class="category-nav">
+                    <h2 class="category-title">
+                        <a href="/trainings/opencourses">Отворени курсове</a>
+                    </h2>
+                    <ul class="category-list">
+                        
+<li>
+    <a href="/trainings/1281/python-programming-january-2016" class="nav-link">Python Programming - януари 2016</a>
+</li>
+
+<li>
+    <a href="/trainings/1284/java-web-development-january-2016" class="nav-link">Java Web Development - януари 2016</a>
+</li>
+
+<li>
+    <a href="/trainings/1291/linux-programming-january-2016" class="nav-link">Linux Programming - януари 2016</a>
+</li>
+
+<li>
+    <a href="/trainings/1288/drupal-back-end-january-2016" class="nav-link">Drupal Back-End - януари 2016</a>
+</li>
+
+<li>
+    <a href="/trainings/1289/drupal-front-end-january-2016" class="nav-link">Drupal Front-Еnd - януари 2016</a>
+</li>
+
+<li>
+    <a href="/trainings/1304/workshop-for-computer-games-html5-level-2-february-2016" class="nav-link">Работилница за компютърни игри: HTML5 - ниво 2 - февруари 2016</a>
+</li>
+
+<li>
+    <a href="/trainings/1296/facebook-marketing-february-2016" class="nav-link">Facebook маркетинг - февруари 2016</a>
+</li>
+
+<li>
+    <a href="/trainings/1300/unity-3d-february-2016" class="nav-link">Unity 3D - февруари 2016</a>
+</li>
+
+<li>
+    <a href="/trainings/1308/data-structures-february-2016" class="nav-link">Структури от данни - февруари 2016</a>
+</li>
+
+<li>
+    <a href="/trainings/1309/multimedia-and-office-applications-february-2016" class="nav-link">Мултимедия и офис приложения - февруари 2016</a>
+</li>
+
+                    </ul>
+                    <!-- End .category-list -->
+                </div>
+                <!-- End .category-nav -->
+
+                <div class="category-nav">
+                    <h2 class="category-title">
+                        <a href="/trainings/seminars">Семинари</a>
+                    </h2>
+                    <ul class="category-list">
+                        
+<li>
+    <a href="/trainings/1287/next-generation-mobile-location-data-technology" class="nav-link">Next Generation Mobile Location Data Technology</a>
+</li>
+
+                    </ul>
+                    <!-- End .category-list -->
+                </div>
+            </div>
+        </div>
+        <!-- End .row -->
+    </div>
+    <!-- End .container-holder -->
+</div>
+<!--  End .custom-dropdown -->
+                    </li>
+                    <li class="nav-item">
+                        <a href="/companies" class="nav-link"><span class="cell">Работа</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/partners" class="nav-link">
+                            <span class="cell">Партньори</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/forum" class="nav-link"><span class="cell">Форум</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/contacts" class="nav-link"><span class="cell">Контакти</span></a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="nav-buttons">
+                <ul class="nav-list">
+                    <li class="nav-item dropdown-item nav-toggle-item btn-item">
+                        <a href="javascript:;" class="icon-btn nav-toggle-btn hidden-lg hidden-md">
+                            <span class="cell">
+                                <i class="fa fa-bars"></i>
+                            </span>
+                        </a>
+                    </li>
+
+                    <li class="nav-item dropdown-item btn-item" id="header-search-item">
+                        
+
+<style>
+    .search-wrap {
+        font-size: 0;
+    }
+
+    @media only screen and (max-width: 702px) {
+        #header-nav .custom-dropdown .filter-wrap {
+            display: block;
+        }
+    }
+</style>
+
+<a href="#" class="icon-btn search-btn">
+    <span class="cell">
+        <i class="fa fa-search"></i>
+    </span>
+</a>
+
+<div class="custom-dropdown toggle-holder">
+    <div class="container container-holder">
+<form action="/search/results" id="header-search-form" method="get">            <div class="search-wrap">
+                <i class="fa fa-search header-search-form-icon"></i>
+                <input class="search-filed" type="text" placeholder="Търси в сайта" name="Query" id="Query" />
+            </div>
+            <div class="filters-holder">
+                <div class="filter-wrap checkbox-wrap">
+                    <input id="Courses" type="checkbox" name="Courses" value="true"
+                           checked="checked" />
+                    <label class="checkbox-label" for="Courses">Курсове</label>
+                </div>
+                <div class="filter-wrap checkbox-wrap">
+                    <input id="FastTracks" type="checkbox" name="FastTracks" value="true"
+                           checked="checked" />
+                    <label class="checkbox-label" for="FastTracks">Отворени курсове</label>
+                </div>
+                <div class="filter-wrap checkbox-wrap">
+                    <input id="Seminars" type="checkbox" name="Seminars" value="true"
+                           checked="checked" />
+                    <label class="checkbox-label" for="Seminars">Семинари</label>
+                </div>
+                <div class="filter-wrap checkbox-wrap">
+                    <input id="Forum" type="checkbox" name="Forum" value="true"
+                           checked="checked" />
+                    <label class="checkbox-label" for="Forum">Форум</label>
+                </div>
+                <div class="filter-wrap checkbox-wrap">
+                    <input id="Users" type="checkbox" name="Users" value="true"
+                           checked="checked" />
+                    <label class="checkbox-label" for="Users">Потребители</label>
+                </div>
+            </div>
+</form>    </div>
+</div>
+
+<script>
+    $('.header-search-form-icon').on('click', function () {
+        $('#header-search-form').submit();
+    })
+</script>
+
+                    </li>
+
+                        <li class="nav-item btn-item">
+                            
+                            <span class="cell login-btn-wrap">
+                                <a href="/login" class="primary-btn base-btn">
+                                    Вход
+                                </a>
+                            </span>
+                        </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+</div>
+
+
+        
+
+
+
+
+
+
+<div class="heading-wrapper table-holder">
+    <div class="cell">
+        <div class="container container-holder">
+            <div class="title-wrap">
+                    <h1 class="page-title">Достъпно и качествено софтуерно образование</h1>
+                    <div class="lead-buttons">
+                        <a href="/apply" class="primary-btn base-btn">Кандидатствай!</a>
+                        <a href="/how-to-apply" class="primary-btn">Как да кандидатствам</a>
+                        <a href="/about" class="primary-btn">За СофтУни</a>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+                <video autoplay loop class="video" poster="/Content/images/leadBG.jpg">
+                    <source src="/Content/video/home-page-video-4.mp4" type="video/mp4" />
+                    <source src="/Content/video/home-page-video-9.webm" type="video/webm" />
+                    <source src="/Content/video/home-page-video-9.ogv" type="video/ogg" />
+                    <img src="/Content/images/leadBG.jpg" alt="Home page background" class="background-picture" />
+                </video>
+    </div>
+
+    <div class="content">
+        
+
+
+
+
+
+
+<div class="container main-container container-holder">
+
+    <div class="row news-sections">
+        <section class="section col-md-4 col-sm-6">
+            <h2 class="section-title">
+                <a href="trainings/opencourses">
+                    Отворени курсове<i class="fa fa-caret-right"></i>
+                </a>
+            </h2>
+            <img class="thumbnail-img img-responsive hidden-xs" src="/Content/images/softuni-home-cover-courses.png"
+                 alt="Active and upcoming open courses">
+            <ul class="posts-list">
+                
+
+
+
+<li class="post-item">
+    <h3 class="post-title" title="Unity 3D - февруари 2016">
+        <a href="/trainings/1300/unity-3d-february-2016">
+            Unity 3D - февруари 2016
+            <span class="date">Начало: 09 февруари 2016 </span>
+            <span class="arrow-decoration"></span>
+        </a>
+    </h3>
+</li>
+
+
+
+
+<li class="post-item">
+    <h3 class="post-title" title="Структури от данни - февруари 2016">
+        <a href="/trainings/1308/data-structures-february-2016">
+            Структури от данни - февруари 2016
+            <span class="date">Начало: 16 февруари 2016 </span>
+            <span class="arrow-decoration"></span>
+        </a>
+    </h3>
+</li>
+
+
+
+
+<li class="post-item">
+    <h3 class="post-title" title="Мултимедия и офис приложения - февруари 2016">
+        <a href="/trainings/1309/multimedia-and-office-applications-february-2016">
+            Мултимедия и офис приложения - февруари 2016
+            <span class="date">Начало: 22 февруари 2016 </span>
+            <span class="arrow-decoration"></span>
+        </a>
+    </h3>
+</li>
+
+            </ul>
+        </section>
+
+        <section class="section col-md-4 col-sm-6">
+            <h2 class="section-title">
+                <a href="/trainings/seminars">
+                    Семинари<i class="fa fa-caret-right"></i>
+                </a>
+            </h2>
+            <img class="thumbnail-img img-responsive hidden-xs" src="/Content/images/softuni-home-cover-seminars.png"
+                 alt="Upcoming seminars">
+            <ul class="posts-list">
+                
+
+
+
+<li class="post-item">
+    <h3 class="post-title" title="Next Generation Mobile Location Data Technology">
+        <a href="/trainings/1287/next-generation-mobile-location-data-technology">
+            Next Generation Mobile Location Data Technology
+            <span class="date">01 март 2016, 19:00</span>
+            <span class="arrow-decoration"></span>
+        </a>
+    </h3>
+</li>
+
+            </ul>
+        </section>
+
+        <section class="news-section col-md-4 col-sm-12">
+            <h2 class="section-title">
+                <a href="/blog">
+                    Блог статии<i class="fa fa-caret-right"></i>
+                </a>
+            </h2>
+
+            <div id="carousel-news" class="carousel slide news-slider" data-ride="carousel">
+                <ol class="carousel-indicators news-indicatiors">
+                    <li data-target="#carousel-news" data-slide-to="0" class="indicator-item active"></li>
+                    <li data-target="#carousel-news" data-slide-to="1" class="indicator-item"></li>
+                    <li data-target="#carousel-news" data-slide-to="2" class="indicator-item"></li>
+                </ol>
+                <div class="carousel-inner" role="listbox">
+                    
+
+
+
+<div class="item">
+    <a href="/blog/5-reasons-to-get-familiar-with-data-structures">
+        <img class="thumbnail-img" src="/Files/Publications/2016/02/DataStructuresImg_174154875.png" alt="5 причини да се запознаете отблизо със структурите от данни ">
+    </a>
+
+    <div>
+        <h3 class="post-title" title="5 причини да се запознаете отблизо със структурите от данни ">
+            <a href="/blog/5-reasons-to-get-familiar-with-data-structures">5 причини да се запознаете отблизо със структурите от данни </a>
+        </h3>
+
+        <p class="home-page-news-description">Най-сигурния начин да спечелите битката със скоростта на изпълнение</p>
+        <a href="/blog/5-reasons-to-get-familiar-with-data-structures" class="primary-btn base-btn read-more-btn">Прочети още</a>
+    </div>
+</div>
+
+
+
+
+<div class="item">
+    <a href="/blog/New-Programming-Basics-Course-20-February-2016">
+        <img class="thumbnail-img" src="/Files/Publications/2016/01/osnovi na programiraneto_14110626.jpg" alt="Безплатен курс за начинаещи програмисти от 20-ти февруари">
+    </a>
+
+    <div>
+        <h3 class="post-title" title="Безплатен курс за начинаещи програмисти от 20-ти февруари">
+            <a href="/blog/New-Programming-Basics-Course-20-February-2016">Безплатен курс за начинаещи програмисти от 20-ти февруари</a>
+        </h3>
+
+        <p class="home-page-news-description">Научете се да програмирате безплатно със СофтУни!</p>
+        <a href="/blog/New-Programming-Basics-Course-20-February-2016" class="primary-btn base-btn read-more-btn">Прочети още</a>
+    </div>
+</div>
+
+
+
+
+<div class="item">
+    <a href="/blog/Creating-Games-with-Unity-3D">
+        <img class="thumbnail-img" src="/Files/Publications/2016/01/unity 3d 2_161052248.jpg" alt="С Unity 3D създаването на игри е „игра“">
+    </a>
+
+    <div>
+        <h3 class="post-title" title="С Unity 3D създаването на игри е „игра“">
+            <a href="/blog/Creating-Games-with-Unity-3D">С Unity 3D създаването на игри е „игра“</a>
+        </h3>
+
+        <p class="home-page-news-description">Невероятният свят на геймърите е по-близо от всякога с платформата Unity 3D</p>
+        <a href="/blog/Creating-Games-with-Unity-3D" class="primary-btn base-btn read-more-btn">Прочети още</a>
+    </div>
+</div>
+
+                </div>
+            </div>
+
+            <script>
+                (function () {
+                    $('#carousel-news .carousel-inner .item:first').addClass('active');
+                }());
+            </script>
+        </section>
+    </div>
+</div>
+
+
+
+    </div>
+
+    
+
+<footer id="page-footer">
+    <div class="container container-holder">
+        <ul class="row">
+            <li class="col-md-3 col-sm-12 col-xs-12 footer-list-wrapper">
+                <h3 class="list-title text-uppercase">Софтуерен университет</h3>
+                <ul class="footer-list">
+                    <li><a href="/about">За СофтУни</a></li>
+                    <li><a href="/curriculum">Учебен план</a></li>
+                    <li><a href="/diplomas-and-certificates">Сертификати</a></li>
+                    <li><a href="/trainers">Преподаватели</a></li>
+                    <li><a href="/plans">Такси и стипендии</a></li>
+                    <li><a href="/how-to-apply">Как да кандидатствам</a></li>
+                    <li><a href="/university-partners">Университети партньори</a></li>
+                    <li><a href="/faq">Често задавани въпроси</a></li>
+                    <li><a href="/Files/TermsAndConditions/Terms-and-Conditions-SoftUni-Students-Contract-rev-20.04.2015.pdf">Общи условия</a></li>
+                </ul>
+            </li>
+            <!-- End .col-md-3 -->
+
+            <li class="col-md-3 col-sm-12 col-xs-12 footer-list-wrapper">
+                <h3 class="list-title text-uppercase">Всички обучения</h3>
+                <ul class="footer-list">
+                    <li>
+                        <a href="/trainings/courses">Курсове</a>
+                    </li>
+                    <li>
+                        <a href="/trainings/opencourses">Отворени курсове</a>
+                    </li>
+                    <li>
+                        <a href="/trainings/seminars">Семинари</a>
+                    </li>
+                    <li>
+                        <a href="/apply" class="primary-btn base-btn">Кандидатствай!</a>
+                    </li>
+                </ul>
+            </li>
+            <!-- End .col-md-3 -->
+
+            <li class="col-md-3 col-sm-12 col-xs-12 footer-list-wrapper">
+                <h3 class="list-title text-uppercase">Нашите партньори</h3>
+                <ul class="footer-list">
+                    <li><a target="_blank" href="http://www.xs-software.com/">XS Software</a></li>
+                    <li><a target="_blank" href="http://smartit.bg/">SmartIT</a></li>
+                    <li><a target="_blank" href="http://komfo.com/">Komfo</a></li>
+                    <li><a target="_blank" href="http://www.softwaregroup-bg.com/bg/">Software Group</a></li>
+                    <li><a target="_blank" href="http://www.superhosting.bg/">SuperHosting.BG</a></li>
+                    <li><a target="_blank" href="http://www.indeavr.com/">Indeavr</a></li>
+                    <li><a target="_blank" href="http://www.infragistics.com/">Infragistics</a></li>
+                    <li><a target="_blank" href="http://netpeak.bg/">Netpeak</a></li>
+                    <li><a target="_blank" href="http://www.paddypower.com/bet">Paddy Power Technology</a></li>
+                    <li><a target="_blank" href="http://www.luxoft.com/">Luxoft</a></li>
+                    <li><a target="_blank" href="http://www.milestonesys.com/">Milestone Systems</a></li>
+                </ul>
+            </li>
+            <!-- End .col-md-3 -->
+
+            <li class="col-md-3 col-sm-12 col-xs-12 footer-list-wrapper">
+                <div class="switch-wrapper vertical">
+                    <input id="lang-switch" type="checkbox" data-role="switch" />
+                    <ul class="lang">
+                        <li class="bg">
+                            <a href="javascript:;" data-lang-id="bg" class="lang-switch-label">Български</a>
+                        </li>
+                        <li class="en">
+                            <a href="javascript:;" data-lang-id="en" class="lang-switch-label">English</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <ul class="social">
+                    <li>
+                        <a href="https://www.facebook.com/SoftwareUniversity" target="_blank" class="icon-btn">
+                            <span class="fa fa-facebook"></span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://twitter.com/softunibg" target="_blank" class="icon-btn">
+                            <span class="fa fa-twitter"></span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://plus.google.com/+SoftuniBg" target="_blank" class="icon-btn">
+                            <span class="fa fa-google-plus"></span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.youtube.com/user/softwareuniversity" target="_blank" class="icon-btn">
+                            <span class="fa fa-youtube-play"></span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/softuni" target="_blank" class="icon-btn">
+                            <span class="fa fa-github"></span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/feed" target="_blank" class="icon-btn">
+                            <span class="fa fa-rss"></span>
+                        </a>
+                    </li>
+                    <li class="visa top-buffer bottom-buffer">
+                        <img src="/Content/images/payments/verified-by-visa.png" alt="Verified by Visa" height="38" />
+                    </li>
+                    <li class="mastercard top-buffer bottom-buffer">
+                        <a href="http://www.mastercardbusiness.com/mcbiz/index.jsp?template=/orphans&content=securecodepopup">
+                            <img src="/Content/images/payments/sclogo_68x37.gif" alt="MasterCard® SecureCode™" height="38"/>
+                        </a>
+                    </li>
+                    
+                </ul>
+
+                <div class="all-rights-reserved">
+                    <p>© 2013-2016 - Software University. All Rights Reserved.</p>
+
+                    <p>Software University Learning System 2.0.5876</p>
+
+                    <p>Designed by <a target="_blank" rel="nofollow" href="http://www.hihype.com/"></a></p>
+                </div>
+            </li>
+        </ul>
+        <!-- End .row -->
+    </div>
+    <!-- End .container -->
+</footer>
+<!-- End #page-footer -->
+
+
+    <a href="#" id="scrollToTop" class="button-to-top"><span class="glyphicon glyphicon-chevron-up"></span></a>
+
+<script>
+    $(document).ready(function () {
+        var offset = 220;
+        var duration = 500;
+        $(window).scroll(function () {
+            if ($(this).scrollTop() > offset) {
+                $('#scrollToTop').fadeIn(duration);
+            } else {
+                $('#scrollToTop').fadeOut(duration);
+            }
+        });
+
+        $('#scrollToTop').click(function (event) {
+            event.preventDefault();
+            $('html, body').animate({ scrollTop: 0 }, 800);
+            return false;
+        });
+    });
+</script>
+
+    <script src="/bundles/jqueryval?v=gG-ki5-ppW9FxbU9YecdJ-YajTACup3or17SoXfXYBY1"></script>
+<script src="/bundles/bootstrap?v=NzP9D5jO6GVMzY8_4Kfk811W0VrrhYdC5doOJzjbWJc1"></script>
+<script src="/bundles/kendo?v=KAmbqLtrmIBoCogjnkuaUK_mfjEjIfgYQ2F3ckvSKig1"></script>
+
+    <script src="/bundles/global?v=IFx_QExO9UhbvYqILpUkMaKZ__3UsA7UVt2mubfp5V81"></script>
+
+
+    <script>
+        // Google analytics
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments);
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m);
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-11309924-7', 'softuni.bg');
+        ga('send', 'pageview');
+    </script>
+
+    <script type="text/javascript">
+        $(function () {
+            Suls.NotificationsHub.initialize();
+            sulsControls.ReferralsControls.checkForReferral();
+        });
+    </script>
+
+    
+
+    
+    <script src="/bundles/perfect-scrollbar?v=emtE9GXiRpIZ0wQH6WZH4nJQTLEoT77vOujPruFJstQ1"></script>
+
+
+</body>
+</html>

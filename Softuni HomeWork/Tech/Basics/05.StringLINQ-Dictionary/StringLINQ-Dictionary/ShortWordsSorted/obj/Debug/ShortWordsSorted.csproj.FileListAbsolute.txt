@@ -1,0 +1,6 @@
+D:\Coding\Softuni HomeWork\Tech\Basics\05.StringLINQ-Dictionary\StringLINQ-Dictionary\ShortWordsSorted\bin\Debug\ShortWordsSorted.exe.config
+D:\Coding\Softuni HomeWork\Tech\Basics\05.StringLINQ-Dictionary\StringLINQ-Dictionary\ShortWordsSorted\bin\Debug\ShortWordsSorted.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\05.StringLINQ-Dictionary\StringLINQ-Dictionary\ShortWordsSorted\bin\Debug\ShortWordsSorted.pdb
+D:\Coding\Softuni HomeWork\Tech\Basics\05.StringLINQ-Dictionary\StringLINQ-Dictionary\ShortWordsSorted\obj\Debug\ShortWordsSorted.csprojResolveAssemblyReference.cache
+D:\Coding\Softuni HomeWork\Tech\Basics\05.StringLINQ-Dictionary\StringLINQ-Dictionary\ShortWordsSorted\obj\Debug\ShortWordsSorted.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\05.StringLINQ-Dictionary\StringLINQ-Dictionary\ShortWordsSorted\obj\Debug\ShortWordsSorted.pdb

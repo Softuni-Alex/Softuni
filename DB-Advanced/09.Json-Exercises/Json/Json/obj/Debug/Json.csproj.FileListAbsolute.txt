@@ -1,0 +1,10 @@
+C:\Alex\Softuni\DB-Advanced\09.Json-Exercises\Json\Json\bin\Debug\Json.exe.config
+C:\Alex\Softuni\DB-Advanced\09.Json-Exercises\Json\Json\bin\Debug\Json.exe
+C:\Alex\Softuni\DB-Advanced\09.Json-Exercises\Json\Json\bin\Debug\Json.pdb
+C:\Alex\Softuni\DB-Advanced\09.Json-Exercises\Json\Json\bin\Debug\EntityFramework.dll
+C:\Alex\Softuni\DB-Advanced\09.Json-Exercises\Json\Json\bin\Debug\EntityFramework.SqlServer.dll
+C:\Alex\Softuni\DB-Advanced\09.Json-Exercises\Json\Json\bin\Debug\EntityFramework.xml
+C:\Alex\Softuni\DB-Advanced\09.Json-Exercises\Json\Json\bin\Debug\EntityFramework.SqlServer.xml
+C:\Alex\Softuni\DB-Advanced\09.Json-Exercises\Json\Json\obj\Debug\Json.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni\DB-Advanced\09.Json-Exercises\Json\Json\obj\Debug\Json.exe
+C:\Alex\Softuni\DB-Advanced\09.Json-Exercises\Json\Json\obj\Debug\Json.pdb

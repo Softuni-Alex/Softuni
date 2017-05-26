@@ -1,0 +1,6 @@
+D:\Coding\C# Advanced\12. Exam\Exam\03.SoftuniNumerals\bin\Debug\03.SoftuniNumerals.exe.config
+D:\Coding\C# Advanced\12. Exam\Exam\03.SoftuniNumerals\bin\Debug\03.SoftuniNumerals.exe
+D:\Coding\C# Advanced\12. Exam\Exam\03.SoftuniNumerals\bin\Debug\03.SoftuniNumerals.pdb
+D:\Coding\C# Advanced\12. Exam\Exam\03.SoftuniNumerals\obj\Debug\03.SoftuniNumerals.csprojResolveAssemblyReference.cache
+D:\Coding\C# Advanced\12. Exam\Exam\03.SoftuniNumerals\obj\Debug\03.SoftuniNumerals.exe
+D:\Coding\C# Advanced\12. Exam\Exam\03.SoftuniNumerals\obj\Debug\03.SoftuniNumerals.pdb

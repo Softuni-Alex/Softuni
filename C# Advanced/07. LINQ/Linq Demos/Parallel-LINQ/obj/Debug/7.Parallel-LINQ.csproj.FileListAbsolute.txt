@@ -1,0 +1,5 @@
+D:\Coding\C# Advanced\07. LINQ\Linq Demos\Parallel-LINQ\bin\Debug\Parallel-LINQ.exe.config
+D:\Coding\C# Advanced\07. LINQ\Linq Demos\Parallel-LINQ\bin\Debug\Parallel-LINQ.exe
+D:\Coding\C# Advanced\07. LINQ\Linq Demos\Parallel-LINQ\bin\Debug\Parallel-LINQ.pdb
+D:\Coding\C# Advanced\07. LINQ\Linq Demos\Parallel-LINQ\obj\Debug\Parallel-LINQ.exe
+D:\Coding\C# Advanced\07. LINQ\Linq Demos\Parallel-LINQ\obj\Debug\Parallel-LINQ.pdb

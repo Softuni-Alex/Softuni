@@ -1,0 +1,6 @@
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\CommonStrings\bin\Debug\CommonStrings.exe.config
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\CommonStrings\bin\Debug\CommonStrings.exe
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\CommonStrings\bin\Debug\CommonStrings.pdb
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\CommonStrings\obj\Debug\CommonStrings.exe
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\CommonStrings\obj\Debug\CommonStrings.pdb
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\CommonStrings\obj\Debug\CommonStrings.csprojResolveAssemblyReference.cache

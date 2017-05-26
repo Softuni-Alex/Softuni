@@ -1,0 +1,6 @@
+D:\Coding\Softuni HomeWork\C# Advanced\02. MultiJaggedArraysDictionaries\HomeWork\FillTheMatrix\FillTheMatrix\bin\Debug\FillTheMatrix.exe.config
+D:\Coding\Softuni HomeWork\C# Advanced\02. MultiJaggedArraysDictionaries\HomeWork\FillTheMatrix\FillTheMatrix\obj\Debug\FillTheMatrix.csprojResolveAssemblyReference.cache
+D:\Coding\Softuni HomeWork\C# Advanced\02. MultiJaggedArraysDictionaries\HomeWork\FillTheMatrix\FillTheMatrix\bin\Debug\FillTheMatrix.exe
+D:\Coding\Softuni HomeWork\C# Advanced\02. MultiJaggedArraysDictionaries\HomeWork\FillTheMatrix\FillTheMatrix\bin\Debug\FillTheMatrix.pdb
+D:\Coding\Softuni HomeWork\C# Advanced\02. MultiJaggedArraysDictionaries\HomeWork\FillTheMatrix\FillTheMatrix\obj\Debug\FillTheMatrix.exe
+D:\Coding\Softuni HomeWork\C# Advanced\02. MultiJaggedArraysDictionaries\HomeWork\FillTheMatrix\FillTheMatrix\obj\Debug\FillTheMatrix.pdb

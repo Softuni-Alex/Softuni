@@ -1,0 +1,6 @@
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\InitialSetup\bin\Debug\InitialSetup.exe.config
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\InitialSetup\bin\Debug\InitialSetup.exe
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\InitialSetup\bin\Debug\InitialSetup.pdb
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\InitialSetup\obj\Debug\InitialSetup.csprojResolveAssemblyReference.cache
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\InitialSetup\obj\Debug\InitialSetup.exe
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\InitialSetup\obj\Debug\InitialSetup.pdb

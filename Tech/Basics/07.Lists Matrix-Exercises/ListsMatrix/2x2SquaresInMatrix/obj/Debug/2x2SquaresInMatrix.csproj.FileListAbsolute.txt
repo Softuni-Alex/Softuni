@@ -1,0 +1,6 @@
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\2x2SquaresInMatrix\bin\Debug\2x2SquaresInMatrix.exe.config
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\2x2SquaresInMatrix\bin\Debug\2x2SquaresInMatrix.exe
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\2x2SquaresInMatrix\bin\Debug\2x2SquaresInMatrix.pdb
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\2x2SquaresInMatrix\obj\Debug\2x2SquaresInMatrix.exe
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\2x2SquaresInMatrix\obj\Debug\2x2SquaresInMatrix.pdb
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\2x2SquaresInMatrix\obj\Debug\2x2SquaresInMatrix.csprojResolveAssemblyReference.cache

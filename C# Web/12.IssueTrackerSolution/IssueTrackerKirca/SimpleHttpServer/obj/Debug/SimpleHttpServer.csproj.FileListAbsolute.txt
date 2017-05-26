@@ -1,0 +1,16 @@
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\10. Issue-Tracker\Issue-Tracker-Solution\SimpleHttpServer\bin\Debug\Resources\Pages\404.html
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\10. Issue-Tracker\Issue-Tracker-Solution\SimpleHttpServer\bin\Debug\Resources\Pages\500.html
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\10. Issue-Tracker\Issue-Tracker-Solution\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll.config
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\10. Issue-Tracker\Issue-Tracker-Solution\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\10. Issue-Tracker\Issue-Tracker-Solution\SimpleHttpServer\bin\Debug\SimpleHttpServer.pdb
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\10. Issue-Tracker\Issue-Tracker-Solution\SimpleHttpServer\obj\Debug\SimpleHttpServer.csprojResolveAssemblyReference.cache
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\10. Issue-Tracker\Issue-Tracker-Solution\SimpleHttpServer\obj\Debug\SimpleHttpServer.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\10. Issue-Tracker\Issue-Tracker-Solution\SimpleHttpServer\obj\Debug\SimpleHttpServer.pdb
+C:\Users\Alex\Desktop\SimpleHttpServer\bin\Debug\Resources\Pages\404.html
+C:\Users\Alex\Desktop\SimpleHttpServer\bin\Debug\Resources\Pages\500.html
+C:\Users\Alex\Desktop\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll.config
+C:\Users\Alex\Desktop\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll
+C:\Users\Alex\Desktop\SimpleHttpServer\bin\Debug\SimpleHttpServer.pdb
+C:\Users\Alex\Desktop\SimpleHttpServer\obj\Debug\SimpleHttpServer.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\SimpleHttpServer\obj\Debug\SimpleHttpServer.dll
+C:\Users\Alex\Desktop\SimpleHttpServer\obj\Debug\SimpleHttpServer.pdb

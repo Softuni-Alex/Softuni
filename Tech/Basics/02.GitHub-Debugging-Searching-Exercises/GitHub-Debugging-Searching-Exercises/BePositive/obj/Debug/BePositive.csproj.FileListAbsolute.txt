@@ -1,0 +1,5 @@
+D:\Coding\Tech\Basics\02.GitHub-Debugging-Searching-Exercises\GitHub-Debugging-Searching-Exercises\BePositive\bin\Debug\BePositive.exe.config
+D:\Coding\Tech\Basics\02.GitHub-Debugging-Searching-Exercises\GitHub-Debugging-Searching-Exercises\BePositive\bin\Debug\BePositive.exe
+D:\Coding\Tech\Basics\02.GitHub-Debugging-Searching-Exercises\GitHub-Debugging-Searching-Exercises\BePositive\bin\Debug\BePositive.pdb
+D:\Coding\Tech\Basics\02.GitHub-Debugging-Searching-Exercises\GitHub-Debugging-Searching-Exercises\BePositive\obj\Debug\BePositive.exe
+D:\Coding\Tech\Basics\02.GitHub-Debugging-Searching-Exercises\GitHub-Debugging-Searching-Exercises\BePositive\obj\Debug\BePositive.pdb

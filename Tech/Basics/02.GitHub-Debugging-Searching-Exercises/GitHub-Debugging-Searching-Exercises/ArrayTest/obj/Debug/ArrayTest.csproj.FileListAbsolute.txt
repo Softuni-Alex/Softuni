@@ -1,0 +1,6 @@
+D:\Coding\Tech\Basics\02.GitHub-Debugging-Searching-Exercises\GitHub-Debugging-Searching-Exercises\ArrayTest\bin\Debug\ArrayTest.exe.config
+D:\Coding\Tech\Basics\02.GitHub-Debugging-Searching-Exercises\GitHub-Debugging-Searching-Exercises\ArrayTest\bin\Debug\ArrayTest.exe
+D:\Coding\Tech\Basics\02.GitHub-Debugging-Searching-Exercises\GitHub-Debugging-Searching-Exercises\ArrayTest\bin\Debug\ArrayTest.pdb
+D:\Coding\Tech\Basics\02.GitHub-Debugging-Searching-Exercises\GitHub-Debugging-Searching-Exercises\ArrayTest\obj\Debug\ArrayTest.csprojResolveAssemblyReference.cache
+D:\Coding\Tech\Basics\02.GitHub-Debugging-Searching-Exercises\GitHub-Debugging-Searching-Exercises\ArrayTest\obj\Debug\ArrayTest.exe
+D:\Coding\Tech\Basics\02.GitHub-Debugging-Searching-Exercises\GitHub-Debugging-Searching-Exercises\ArrayTest\obj\Debug\ArrayTest.pdb

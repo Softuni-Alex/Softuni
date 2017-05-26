@@ -1,0 +1,5 @@
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\EmployeeData\bin\Debug\EmployeeData.exe.config
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\EmployeeData\bin\Debug\EmployeeData.exe
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\EmployeeData\bin\Debug\EmployeeData.pdb
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\EmployeeData\obj\Debug\EmployeeData.exe
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\EmployeeData\obj\Debug\EmployeeData.pdb

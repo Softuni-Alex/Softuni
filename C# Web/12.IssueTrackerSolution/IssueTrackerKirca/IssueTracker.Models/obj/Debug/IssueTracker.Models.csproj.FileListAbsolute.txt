@@ -1,0 +1,5 @@
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\10. Issue-Tracker\Issue-Tracker-Solution\IssueTracker.Models\bin\Debug\IssueTracker.Models.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\10. Issue-Tracker\Issue-Tracker-Solution\IssueTracker.Models\bin\Debug\IssueTracker.Models.pdb
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\10. Issue-Tracker\Issue-Tracker-Solution\IssueTracker.Models\obj\Debug\IssueTracker.Models.csprojResolveAssemblyReference.cache
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\10. Issue-Tracker\Issue-Tracker-Solution\IssueTracker.Models\obj\Debug\IssueTracker.Models.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\10. Issue-Tracker\Issue-Tracker-Solution\IssueTracker.Models\obj\Debug\IssueTracker.Models.pdb

@@ -1,0 +1,18 @@
+﻿@{
+    ViewBag.Title = "ListFiles";
+}
+
+<form action="/Files/ListFiles">
+    Path: <input type="text" name="path"/>
+    <input type="submit"/>
+</form>
+
+<h2>Files in @ViewBag.Path</h2>
+
+<a href="/Files/ListFiles?path=@ViewBag.Parent">...</a>
+@model List<string>
+    
+@foreach (var file in Model)
+{
+    <div><a href="/Files/ListFiles?path=@file">@file</a></div>
+}

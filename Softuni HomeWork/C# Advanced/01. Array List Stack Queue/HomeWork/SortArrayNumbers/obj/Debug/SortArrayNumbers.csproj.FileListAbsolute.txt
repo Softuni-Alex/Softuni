@@ -1,0 +1,6 @@
+D:\Coding\Softuni HomeWork\C# Advanced\01. Array List Stack Queue\HomeWork\SortArrayNumbers\bin\Debug\SortArrayNumbers.exe.config
+D:\Coding\Softuni HomeWork\C# Advanced\01. Array List Stack Queue\HomeWork\SortArrayNumbers\bin\Debug\SortArrayNumbers.exe
+D:\Coding\Softuni HomeWork\C# Advanced\01. Array List Stack Queue\HomeWork\SortArrayNumbers\bin\Debug\SortArrayNumbers.pdb
+D:\Coding\Softuni HomeWork\C# Advanced\01. Array List Stack Queue\HomeWork\SortArrayNumbers\obj\Debug\SortArrayNumbers.csprojResolveAssemblyReference.cache
+D:\Coding\Softuni HomeWork\C# Advanced\01. Array List Stack Queue\HomeWork\SortArrayNumbers\obj\Debug\SortArrayNumbers.exe
+D:\Coding\Softuni HomeWork\C# Advanced\01. Array List Stack Queue\HomeWork\SortArrayNumbers\obj\Debug\SortArrayNumbers.pdb

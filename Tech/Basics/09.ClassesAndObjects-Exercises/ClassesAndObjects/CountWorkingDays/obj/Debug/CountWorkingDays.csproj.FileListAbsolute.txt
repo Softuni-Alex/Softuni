@@ -1,0 +1,6 @@
+D:\Coding\Tech\Basics\09.ClassesAndObjects-Exercises\ClassesAndObjects\CountWorkingDays\bin\Debug\CountWorkingDays.exe.config
+D:\Coding\Tech\Basics\09.ClassesAndObjects-Exercises\ClassesAndObjects\CountWorkingDays\obj\Debug\CountWorkingDays.csprojResolveAssemblyReference.cache
+D:\Coding\Tech\Basics\09.ClassesAndObjects-Exercises\ClassesAndObjects\CountWorkingDays\bin\Debug\CountWorkingDays.exe
+D:\Coding\Tech\Basics\09.ClassesAndObjects-Exercises\ClassesAndObjects\CountWorkingDays\bin\Debug\CountWorkingDays.pdb
+D:\Coding\Tech\Basics\09.ClassesAndObjects-Exercises\ClassesAndObjects\CountWorkingDays\obj\Debug\CountWorkingDays.exe
+D:\Coding\Tech\Basics\09.ClassesAndObjects-Exercises\ClassesAndObjects\CountWorkingDays\obj\Debug\CountWorkingDays.pdb

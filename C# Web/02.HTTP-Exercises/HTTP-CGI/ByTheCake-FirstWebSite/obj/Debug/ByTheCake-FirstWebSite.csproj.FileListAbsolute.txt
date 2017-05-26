@@ -1,0 +1,6 @@
+C:\Alex\Softuni\C# Web\02.HTTP-Exercises\HTTP-CGI\ByTheCake-FirstWebSite\bin\Debug\ByTheCake-FirstWebSite.exe.config
+C:\Alex\Softuni\C# Web\02.HTTP-Exercises\HTTP-CGI\ByTheCake-FirstWebSite\bin\Debug\ByTheCake-FirstWebSite.exe
+C:\Alex\Softuni\C# Web\02.HTTP-Exercises\HTTP-CGI\ByTheCake-FirstWebSite\bin\Debug\ByTheCake-FirstWebSite.pdb
+C:\Alex\Softuni\C# Web\02.HTTP-Exercises\HTTP-CGI\ByTheCake-FirstWebSite\obj\Debug\ByTheCake-FirstWebSite.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni\C# Web\02.HTTP-Exercises\HTTP-CGI\ByTheCake-FirstWebSite\obj\Debug\ByTheCake-FirstWebSite.exe
+C:\Alex\Softuni\C# Web\02.HTTP-Exercises\HTTP-CGI\ByTheCake-FirstWebSite\obj\Debug\ByTheCake-FirstWebSite.pdb

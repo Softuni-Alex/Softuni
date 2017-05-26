@@ -1,0 +1,2 @@
+C:\Users\Jamal\Desktop\Trash\Design Patterns\Creational\Singleton\bin\Debug\Singleton.exe.config
+D:\Coding\KPK\19. Design Pattern Creational, Structural, Behavioural\18. Design-Patterns-Demo\Design Patterns\Creational\Singleton\bin\Debug\Singleton.exe.config

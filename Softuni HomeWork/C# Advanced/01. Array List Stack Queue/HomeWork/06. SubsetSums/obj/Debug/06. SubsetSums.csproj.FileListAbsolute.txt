@@ -1,0 +1,1 @@
+D:\Coding\Softuni HomeWork\C# Advanced\01. Array List Stack Queue\HomeWork\06. SubsetSums\bin\Debug\_06.SubsetSums.exe.config

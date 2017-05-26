@@ -1,0 +1,4 @@
+D:\Coding\C# Advanced\04. Strings\Strings Demos\Extracting-Substrings\bin\Debug\Extracting-Substrings.exe
+D:\Coding\C# Advanced\04. Strings\Strings Demos\Extracting-Substrings\bin\Debug\Extracting-Substrings.pdb
+D:\Coding\C# Advanced\04. Strings\Strings Demos\Extracting-Substrings\obj\Debug\Extracting-Substrings.exe
+D:\Coding\C# Advanced\04. Strings\Strings Demos\Extracting-Substrings\obj\Debug\Extracting-Substrings.pdb

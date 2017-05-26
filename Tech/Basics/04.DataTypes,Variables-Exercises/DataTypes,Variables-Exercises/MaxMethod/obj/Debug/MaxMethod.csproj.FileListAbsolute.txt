@@ -1,0 +1,5 @@
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\MaxMethod\bin\Debug\MaxMethod.exe.config
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\MaxMethod\bin\Debug\MaxMethod.exe
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\MaxMethod\bin\Debug\MaxMethod.pdb
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\MaxMethod\obj\Debug\MaxMethod.exe
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\MaxMethod\obj\Debug\MaxMethod.pdb

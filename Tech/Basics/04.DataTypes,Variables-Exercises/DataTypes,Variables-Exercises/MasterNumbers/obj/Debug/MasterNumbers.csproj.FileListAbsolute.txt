@@ -1,0 +1,6 @@
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\MasterNumbers\bin\Debug\MasterNumbers.exe.config
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\MasterNumbers\bin\Debug\MasterNumbers.exe
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\MasterNumbers\bin\Debug\MasterNumbers.pdb
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\MasterNumbers\obj\Debug\MasterNumbers.csprojResolveAssemblyReference.cache
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\MasterNumbers\obj\Debug\MasterNumbers.exe
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\MasterNumbers\obj\Debug\MasterNumbers.pdb

@@ -1,0 +1,8 @@
+C:\Alex\Softuni\DB-Advanced\12.AutoMappingObjects-Exercises\AutoMappingObjects\SimpleMapping\bin\Debug\SimpleMapping.exe.config
+C:\Alex\Softuni\DB-Advanced\12.AutoMappingObjects-Exercises\AutoMappingObjects\SimpleMapping\bin\Debug\SimpleMapping.exe
+C:\Alex\Softuni\DB-Advanced\12.AutoMappingObjects-Exercises\AutoMappingObjects\SimpleMapping\bin\Debug\SimpleMapping.pdb
+C:\Alex\Softuni\DB-Advanced\12.AutoMappingObjects-Exercises\AutoMappingObjects\SimpleMapping\bin\Debug\AutoMapper.dll
+C:\Alex\Softuni\DB-Advanced\12.AutoMappingObjects-Exercises\AutoMappingObjects\SimpleMapping\bin\Debug\AutoMapper.xml
+C:\Alex\Softuni\DB-Advanced\12.AutoMappingObjects-Exercises\AutoMappingObjects\SimpleMapping\obj\Debug\SimpleMapping.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni\DB-Advanced\12.AutoMappingObjects-Exercises\AutoMappingObjects\SimpleMapping\obj\Debug\SimpleMapping.exe
+C:\Alex\Softuni\DB-Advanced\12.AutoMappingObjects-Exercises\AutoMappingObjects\SimpleMapping\obj\Debug\SimpleMapping.pdb

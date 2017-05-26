@@ -1,0 +1,5 @@
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\IncreaseAgeStoredProcedure\bin\Debug\IncreaseAgeStoredProcedure.exe.config
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\IncreaseAgeStoredProcedure\bin\Debug\IncreaseAgeStoredProcedure.exe
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\IncreaseAgeStoredProcedure\bin\Debug\IncreaseAgeStoredProcedure.pdb
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\IncreaseAgeStoredProcedure\obj\Debug\IncreaseAgeStoredProcedure.exe
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\IncreaseAgeStoredProcedure\obj\Debug\IncreaseAgeStoredProcedure.pdb

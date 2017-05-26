@@ -1,0 +1,6 @@
+D:\Coding\Softuni HomeWork\OOP\Inhiritance  and Abstraction\HomeWork_Inhiritance_Abstraction\CompanyHierarchy\bin\Debug\CompanyHierarchy.exe.config
+D:\Coding\Softuni HomeWork\OOP\Inhiritance  and Abstraction\HomeWork_Inhiritance_Abstraction\CompanyHierarchy\obj\Debug\CompanyHierarchy.csprojResolveAssemblyReference.cache
+D:\Coding\Softuni HomeWork\OOP\Inhiritance  and Abstraction\HomeWork_Inhiritance_Abstraction\CompanyHierarchy\bin\Debug\CompanyHierarchy.exe
+D:\Coding\Softuni HomeWork\OOP\Inhiritance  and Abstraction\HomeWork_Inhiritance_Abstraction\CompanyHierarchy\bin\Debug\CompanyHierarchy.pdb
+D:\Coding\Softuni HomeWork\OOP\Inhiritance  and Abstraction\HomeWork_Inhiritance_Abstraction\CompanyHierarchy\obj\Debug\CompanyHierarchy.exe
+D:\Coding\Softuni HomeWork\OOP\Inhiritance  and Abstraction\HomeWork_Inhiritance_Abstraction\CompanyHierarchy\obj\Debug\CompanyHierarchy.pdb

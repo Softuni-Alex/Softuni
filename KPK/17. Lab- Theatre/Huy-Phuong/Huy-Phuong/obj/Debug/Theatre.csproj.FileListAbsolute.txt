@@ -1,0 +1,5 @@
+D:\Coding\KPK\17. Lab- Theatre\Huy-Phuong\Huy-Phuong\bin\Debug\Huy-Phuong.exe
+D:\Coding\KPK\17. Lab- Theatre\Huy-Phuong\Huy-Phuong\bin\Debug\Huy-Phuong.pdb
+D:\Coding\KPK\17. Lab- Theatre\Huy-Phuong\Huy-Phuong\obj\Debug\Theatre.csprojResolveAssemblyReference.cache
+D:\Coding\KPK\17. Lab- Theatre\Huy-Phuong\Huy-Phuong\obj\Debug\Huy-Phuong.exe
+D:\Coding\KPK\17. Lab- Theatre\Huy-Phuong\Huy-Phuong\obj\Debug\Huy-Phuong.pdb

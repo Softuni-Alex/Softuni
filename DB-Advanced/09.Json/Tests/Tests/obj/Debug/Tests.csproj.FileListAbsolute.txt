@@ -1,0 +1,8 @@
+C:\Alex\Softuni\DB-Advanced\09.Json\Tests\Tests\bin\Debug\Tests.exe.config
+C:\Alex\Softuni\DB-Advanced\09.Json\Tests\Tests\bin\Debug\Tests.exe
+C:\Alex\Softuni\DB-Advanced\09.Json\Tests\Tests\bin\Debug\Tests.pdb
+C:\Alex\Softuni\DB-Advanced\09.Json\Tests\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni\DB-Advanced\09.Json\Tests\Tests\obj\Debug\Tests.exe
+C:\Alex\Softuni\DB-Advanced\09.Json\Tests\Tests\obj\Debug\Tests.pdb
+C:\Alex\Softuni\DB-Advanced\09.Json\Tests\Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Alex\Softuni\DB-Advanced\09.Json\Tests\Tests\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,16 @@
+C:\Alex\Softuni\C# Web\08.MVC-Workshop\MVC-SharpStore-Skeleton\SimpleMVC.App\bin\Debug\SharpStore.exe.config
+C:\Alex\Softuni\C# Web\08.MVC-Workshop\MVC-SharpStore-Skeleton\SimpleMVC.App\bin\Debug\Resources\Pages\404.html
+C:\Alex\Softuni\C# Web\08.MVC-Workshop\MVC-SharpStore-Skeleton\SimpleMVC.App\bin\Debug\Resources\Pages\500.html
+C:\Alex\Softuni\C# Web\08.MVC-Workshop\MVC-SharpStore-Skeleton\SimpleMVC.App\bin\Debug\SharpStore.exe
+C:\Alex\Softuni\C# Web\08.MVC-Workshop\MVC-SharpStore-Skeleton\SimpleMVC.App\bin\Debug\SharpStore.pdb
+C:\Alex\Softuni\C# Web\08.MVC-Workshop\MVC-SharpStore-Skeleton\SimpleMVC.App\bin\Debug\EntityFramework.dll
+C:\Alex\Softuni\C# Web\08.MVC-Workshop\MVC-SharpStore-Skeleton\SimpleMVC.App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Alex\Softuni\C# Web\08.MVC-Workshop\MVC-SharpStore-Skeleton\SimpleMVC.App\bin\Debug\SimpleHttpServer.dll
+C:\Alex\Softuni\C# Web\08.MVC-Workshop\MVC-SharpStore-Skeleton\SimpleMVC.App\bin\Debug\SimpleMVC.dll
+C:\Alex\Softuni\C# Web\08.MVC-Workshop\MVC-SharpStore-Skeleton\SimpleMVC.App\bin\Debug\SimpleHttpServer.pdb
+C:\Alex\Softuni\C# Web\08.MVC-Workshop\MVC-SharpStore-Skeleton\SimpleMVC.App\bin\Debug\SimpleMVC.pdb
+C:\Alex\Softuni\C# Web\08.MVC-Workshop\MVC-SharpStore-Skeleton\SimpleMVC.App\bin\Debug\EntityFramework.xml
+C:\Alex\Softuni\C# Web\08.MVC-Workshop\MVC-SharpStore-Skeleton\SimpleMVC.App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Alex\Softuni\C# Web\08.MVC-Workshop\MVC-SharpStore-Skeleton\SimpleMVC.App\obj\Debug\SharpStore.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni\C# Web\08.MVC-Workshop\MVC-SharpStore-Skeleton\SimpleMVC.App\obj\Debug\SharpStore.exe
+C:\Alex\Softuni\C# Web\08.MVC-Workshop\MVC-SharpStore-Skeleton\SimpleMVC.App\obj\Debug\SharpStore.pdb

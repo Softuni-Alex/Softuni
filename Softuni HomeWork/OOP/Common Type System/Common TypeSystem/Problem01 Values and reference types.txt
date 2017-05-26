@@ -1,0 +1,38 @@
+				   Problem 01. Value and Reference types
+
+
+ 1.Which .NET data types are value types?
+ - Primitive types: like Int,Float,Bool, Structures.
+
+ Which types are reference types?
+ - interface, array, class, dynamic.
+
+ 2. How do value and reference types differ when assigned to a variable? 
+ - The new value types are assigned to the variable.
+
+ 3. How do value and reference types behave when passed as argument to a method?
+ - In Reference types, the variable has only an adress of it in the memory.
+
+ 4. Where in memory are value types allocated? Where are reference types allocated?
+ - In the heap
+
+ 5. What is data mutation?
+ - Data mutation is changing the value within the same variable.
+ 
+ Can value types be mutated?
+ - int double, bool, and etc. are immutable, it means that they cant be mutated.
+
+ Can reference types be mutated?
+ - Yes they can.
+
+ 6. What is the difference between mutating and setting (assigning) a variable? Give examples.
+You cant change int's value, you can only assign a new value to the variable:
+ - x = 10;
+ - x = x - 5;
+
+ 7. What are the out and ref keywords used for?
+ - They indicate passing the parameter by reference.
+ 
+ In what do they differ?
+ - ref causes an argument to be passed by reference, not by value.
+ - When a method uses the out modifier, you can be sure that after you invoke it, your variable is assigned.

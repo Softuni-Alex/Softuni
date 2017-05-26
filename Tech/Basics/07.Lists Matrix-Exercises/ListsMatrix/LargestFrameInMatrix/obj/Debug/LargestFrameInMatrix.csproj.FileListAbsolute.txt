@@ -1,0 +1,5 @@
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\LargestFrameInMatrix\bin\Debug\LargestFrameInMatrix.exe.config
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\LargestFrameInMatrix\bin\Debug\LargestFrameInMatrix.exe
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\LargestFrameInMatrix\bin\Debug\LargestFrameInMatrix.pdb
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\LargestFrameInMatrix\obj\Debug\LargestFrameInMatrix.exe
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\LargestFrameInMatrix\obj\Debug\LargestFrameInMatrix.pdb

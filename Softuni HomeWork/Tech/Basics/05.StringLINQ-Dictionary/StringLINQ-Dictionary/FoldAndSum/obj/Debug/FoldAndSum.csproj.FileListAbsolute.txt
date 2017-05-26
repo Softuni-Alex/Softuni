@@ -1,0 +1,5 @@
+D:\Coding\Softuni HomeWork\Tech\Basics\05.StringLINQ-Dictionary\StringLINQ-Dictionary\FoldAndSum\bin\Debug\FoldAndSum.exe.config
+D:\Coding\Softuni HomeWork\Tech\Basics\05.StringLINQ-Dictionary\StringLINQ-Dictionary\FoldAndSum\bin\Debug\FoldAndSum.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\05.StringLINQ-Dictionary\StringLINQ-Dictionary\FoldAndSum\bin\Debug\FoldAndSum.pdb
+D:\Coding\Softuni HomeWork\Tech\Basics\05.StringLINQ-Dictionary\StringLINQ-Dictionary\FoldAndSum\obj\Debug\FoldAndSum.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\05.StringLINQ-Dictionary\StringLINQ-Dictionary\FoldAndSum\obj\Debug\FoldAndSum.pdb

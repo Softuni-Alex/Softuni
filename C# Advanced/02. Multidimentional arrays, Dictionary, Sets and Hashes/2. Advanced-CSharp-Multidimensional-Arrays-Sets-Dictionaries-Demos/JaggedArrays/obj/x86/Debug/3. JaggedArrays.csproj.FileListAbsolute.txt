@@ -1,0 +1,5 @@
+D:\Coding\C# Advanced\02. Multidimentional arrays, Dictionary, Sets and Hashes\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\JaggedArrays\bin\Debug\JaggedArrays.exe
+D:\Coding\C# Advanced\02. Multidimentional arrays, Dictionary, Sets and Hashes\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\JaggedArrays\bin\Debug\JaggedArrays.pdb
+D:\Coding\C# Advanced\02. Multidimentional arrays, Dictionary, Sets and Hashes\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\JaggedArrays\obj\x86\Debug\3. JaggedArrays.csprojResolveAssemblyReference.cache
+D:\Coding\C# Advanced\02. Multidimentional arrays, Dictionary, Sets and Hashes\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\JaggedArrays\obj\x86\Debug\JaggedArrays.exe
+D:\Coding\C# Advanced\02. Multidimentional arrays, Dictionary, Sets and Hashes\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\JaggedArrays\obj\x86\Debug\JaggedArrays.pdb

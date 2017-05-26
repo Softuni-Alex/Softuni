@@ -1,0 +1,6 @@
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\PhonebookUpgrade\bin\Debug\PhonebookUpgrade.exe.config
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\PhonebookUpgrade\bin\Debug\PhonebookUpgrade.exe
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\PhonebookUpgrade\bin\Debug\PhonebookUpgrade.pdb
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\PhonebookUpgrade\obj\Debug\PhonebookUpgrade.exe
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\PhonebookUpgrade\obj\Debug\PhonebookUpgrade.pdb
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\PhonebookUpgrade\obj\Debug\PhonebookUpgrade.csprojResolveAssemblyReference.cache

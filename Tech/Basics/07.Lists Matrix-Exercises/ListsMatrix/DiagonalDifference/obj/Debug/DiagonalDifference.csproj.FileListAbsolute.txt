@@ -1,0 +1,5 @@
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\DiagonalDifference\bin\Debug\DiagonalDifference.exe.config
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\DiagonalDifference\bin\Debug\DiagonalDifference.exe
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\DiagonalDifference\bin\Debug\DiagonalDifference.pdb
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\DiagonalDifference\obj\Debug\DiagonalDifference.exe
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\DiagonalDifference\obj\Debug\DiagonalDifference.pdb

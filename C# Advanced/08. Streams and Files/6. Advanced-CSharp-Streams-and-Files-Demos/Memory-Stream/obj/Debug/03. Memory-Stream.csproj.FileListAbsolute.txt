@@ -1,0 +1,6 @@
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Memory-Stream\bin\Debug\Memory-Stream.exe.config
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Memory-Stream\obj\Debug\Memory-Stream.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Memory-Stream\obj\Debug\Memory-Stream.pdb
+D:\Coding\C# Advanced\08. Streams and Files\6. Advanced-CSharp-Streams-and-Files-Demos\Memory-Stream\bin\Debug\Memory-Stream.exe.config
+D:\Coding\C# Advanced\08. Streams and Files\6. Advanced-CSharp-Streams-and-Files-Demos\Memory-Stream\obj\Debug\Memory-Stream.exe
+D:\Coding\C# Advanced\08. Streams and Files\6. Advanced-CSharp-Streams-and-Files-Demos\Memory-Stream\obj\Debug\Memory-Stream.pdb

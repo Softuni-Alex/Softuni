@@ -1,0 +1,6 @@
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\ArrayManipulator\bin\Debug\ArrayManipulator.exe.config
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\ArrayManipulator\bin\Debug\ArrayManipulator.exe
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\ArrayManipulator\bin\Debug\ArrayManipulator.pdb
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\ArrayManipulator\obj\Debug\ArrayManipulator.csprojResolveAssemblyReference.cache
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\ArrayManipulator\obj\Debug\ArrayManipulator.exe
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\ArrayManipulator\obj\Debug\ArrayManipulator.pdb

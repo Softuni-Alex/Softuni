@@ -1,0 +1,5 @@
+C:\Users\Maika\Documents\Programming\Homework\CSharpWebDevelopmentBasics\ExamPrep\IssueTracker\IssueTracker.Models\obj\Debug\IssueTracker.Models.csprojResolveAssemblyReference.cache
+C:\Users\Maika\Documents\Programming\Homework\CSharpWebDevelopmentBasics\ExamPrep\IssueTracker\IssueTracker.Models\bin\Debug\IssueTracker.Models.dll
+C:\Users\Maika\Documents\Programming\Homework\CSharpWebDevelopmentBasics\ExamPrep\IssueTracker\IssueTracker.Models\bin\Debug\IssueTracker.Models.pdb
+C:\Users\Maika\Documents\Programming\Homework\CSharpWebDevelopmentBasics\ExamPrep\IssueTracker\IssueTracker.Models\obj\Debug\IssueTracker.Models.dll
+C:\Users\Maika\Documents\Programming\Homework\CSharpWebDevelopmentBasics\ExamPrep\IssueTracker\IssueTracker.Models\obj\Debug\IssueTracker.Models.pdb

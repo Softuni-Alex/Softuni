@@ -1,0 +1,8 @@
+D:\Coding\KPK\12. Mocking\DirectoryTraversal.Tests\bin\Debug\DirectoryTraversal.Tests.dll
+D:\Coding\KPK\12. Mocking\DirectoryTraversal.Tests\bin\Debug\DirectoryTraversal.Tests.pdb
+D:\Coding\KPK\12. Mocking\DirectoryTraversal.Tests\bin\Debug\DirectoryTraversal.exe
+D:\Coding\KPK\12. Mocking\DirectoryTraversal.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Coding\KPK\12. Mocking\DirectoryTraversal.Tests\bin\Debug\DirectoryTraversal.pdb
+D:\Coding\KPK\12. Mocking\DirectoryTraversal.Tests\obj\Debug\DirectoryTraversal.Tests.csprojResolveAssemblyReference.cache
+D:\Coding\KPK\12. Mocking\DirectoryTraversal.Tests\obj\Debug\DirectoryTraversal.Tests.dll
+D:\Coding\KPK\12. Mocking\DirectoryTraversal.Tests\obj\Debug\DirectoryTraversal.Tests.pdb

@@ -1,0 +1,6 @@
+D:\Coding\SoftUni\Lab 20.11.2015\FootballLeague\FootBallLeague\FootBallLeague\bin\Debug\FootBallLeague.exe.config
+D:\Coding\SoftUni\Lab 20.11.2015\FootballLeague\FootBallLeague\FootBallLeague\bin\Debug\FootBallLeague.exe
+D:\Coding\SoftUni\Lab 20.11.2015\FootballLeague\FootBallLeague\FootBallLeague\bin\Debug\FootBallLeague.pdb
+D:\Coding\SoftUni\Lab 20.11.2015\FootballLeague\FootBallLeague\FootBallLeague\obj\Debug\FootBallLeague.csprojResolveAssemblyReference.cache
+D:\Coding\SoftUni\Lab 20.11.2015\FootballLeague\FootBallLeague\FootBallLeague\obj\Debug\FootBallLeague.exe
+D:\Coding\SoftUni\Lab 20.11.2015\FootballLeague\FootBallLeague\FootBallLeague\obj\Debug\FootBallLeague.pdb

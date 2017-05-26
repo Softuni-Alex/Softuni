@@ -1,0 +1,6 @@
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\BooleanVariable\bin\Debug\BooleanVariable.exe
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\BooleanVariable\bin\Debug\BooleanVariable.pdb
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\BooleanVariable\obj\Debug\BooleanVariable.exe
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\BooleanVariable\obj\Debug\BooleanVariable.pdb
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\BooleanVariable\obj\Debug\BooleanVariable.csprojResolveAssemblyReference.cache

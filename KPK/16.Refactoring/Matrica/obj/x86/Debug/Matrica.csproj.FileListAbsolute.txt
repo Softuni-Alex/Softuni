@@ -1,0 +1,5 @@
+D:\Coding\KPK\16.Refactoring\Matrica\bin\Debug\GameFifteen.exe
+D:\Coding\KPK\16.Refactoring\Matrica\bin\Debug\GameFifteen.pdb
+D:\Coding\KPK\16.Refactoring\Matrica\obj\x86\Debug\Matrica.csprojResolveAssemblyReference.cache
+D:\Coding\KPK\16.Refactoring\Matrica\obj\x86\Debug\GameFifteen.exe
+D:\Coding\KPK\16.Refactoring\Matrica\obj\x86\Debug\GameFifteen.pdb

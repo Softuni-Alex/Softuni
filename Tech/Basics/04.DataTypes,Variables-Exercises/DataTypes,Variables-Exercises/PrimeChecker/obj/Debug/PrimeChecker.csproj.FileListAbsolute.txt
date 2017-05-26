@@ -1,0 +1,6 @@
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\PrimeChecker\bin\Debug\PrimeChecker.exe.config
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\PrimeChecker\bin\Debug\PrimeChecker.exe
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\PrimeChecker\bin\Debug\PrimeChecker.pdb
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\PrimeChecker\obj\Debug\PrimeChecker.csprojResolveAssemblyReference.cache
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\PrimeChecker\obj\Debug\PrimeChecker.exe
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\PrimeChecker\obj\Debug\PrimeChecker.pdb

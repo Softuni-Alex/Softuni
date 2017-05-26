@@ -1,0 +1,5 @@
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\MaxPlatform3x3\bin\Debug\MaxPlatform3x3.exe.config
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\MaxPlatform3x3\bin\Debug\MaxPlatform3x3.exe
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\MaxPlatform3x3\bin\Debug\MaxPlatform3x3.pdb
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\MaxPlatform3x3\obj\Debug\MaxPlatform3x3.exe
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\MaxPlatform3x3\obj\Debug\MaxPlatform3x3.pdb

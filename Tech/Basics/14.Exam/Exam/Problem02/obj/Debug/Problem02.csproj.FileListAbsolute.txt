@@ -1,0 +1,5 @@
+D:\Coding\Tech\Basics\14.Exam\Exam\Problem02\bin\Debug\Problem02.exe.config
+D:\Coding\Tech\Basics\14.Exam\Exam\Problem02\bin\Debug\Problem02.exe
+D:\Coding\Tech\Basics\14.Exam\Exam\Problem02\bin\Debug\Problem02.pdb
+D:\Coding\Tech\Basics\14.Exam\Exam\Problem02\obj\Debug\Problem02.exe
+D:\Coding\Tech\Basics\14.Exam\Exam\Problem02\obj\Debug\Problem02.pdb

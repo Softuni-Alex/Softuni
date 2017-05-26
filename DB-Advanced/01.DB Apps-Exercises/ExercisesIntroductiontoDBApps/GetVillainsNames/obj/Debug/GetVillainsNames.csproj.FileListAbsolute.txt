@@ -1,0 +1,6 @@
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\GetVillainsNames\bin\Debug\GetVillainsNames.exe.config
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\GetVillainsNames\bin\Debug\GetVillainsNames.exe
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\GetVillainsNames\bin\Debug\GetVillainsNames.pdb
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\GetVillainsNames\obj\Debug\GetVillainsNames.csprojResolveAssemblyReference.cache
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\GetVillainsNames\obj\Debug\GetVillainsNames.exe
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\GetVillainsNames\obj\Debug\GetVillainsNames.pdb

@@ -1,0 +1,10 @@
+C:\Alex\Softuni\DB-Advanced\03.EntityFramework\Softuni\Softuni\bin\Debug\Softuni.exe.config
+C:\Alex\Softuni\DB-Advanced\03.EntityFramework\Softuni\Softuni\bin\Debug\Softuni.exe
+C:\Alex\Softuni\DB-Advanced\03.EntityFramework\Softuni\Softuni\bin\Debug\Softuni.pdb
+C:\Alex\Softuni\DB-Advanced\03.EntityFramework\Softuni\Softuni\bin\Debug\EntityFramework.dll
+C:\Alex\Softuni\DB-Advanced\03.EntityFramework\Softuni\Softuni\bin\Debug\EntityFramework.SqlServer.dll
+C:\Alex\Softuni\DB-Advanced\03.EntityFramework\Softuni\Softuni\bin\Debug\EntityFramework.xml
+C:\Alex\Softuni\DB-Advanced\03.EntityFramework\Softuni\Softuni\bin\Debug\EntityFramework.SqlServer.xml
+C:\Alex\Softuni\DB-Advanced\03.EntityFramework\Softuni\Softuni\obj\Debug\Softuni.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni\DB-Advanced\03.EntityFramework\Softuni\Softuni\obj\Debug\Softuni.exe
+C:\Alex\Softuni\DB-Advanced\03.EntityFramework\Softuni\Softuni\obj\Debug\Softuni.pdb

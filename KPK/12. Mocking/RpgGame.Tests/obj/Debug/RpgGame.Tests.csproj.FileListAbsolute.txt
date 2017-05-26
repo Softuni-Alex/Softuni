@@ -1,0 +1,10 @@
+D:\Coding\KPK\12. Mocking\RpgGame.Tests\bin\Debug\RpgGame.Tests.dll
+D:\Coding\KPK\12. Mocking\RpgGame.Tests\bin\Debug\RpgGame.Tests.pdb
+D:\Coding\KPK\12. Mocking\RpgGame.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Coding\KPK\12. Mocking\RpgGame.Tests\bin\Debug\Moq.dll
+D:\Coding\KPK\12. Mocking\RpgGame.Tests\bin\Debug\RpgGame.exe
+D:\Coding\KPK\12. Mocking\RpgGame.Tests\bin\Debug\RpgGame.pdb
+D:\Coding\KPK\12. Mocking\RpgGame.Tests\bin\Debug\Moq.xml
+D:\Coding\KPK\12. Mocking\RpgGame.Tests\obj\Debug\RpgGame.Tests.csprojResolveAssemblyReference.cache
+D:\Coding\KPK\12. Mocking\RpgGame.Tests\obj\Debug\RpgGame.Tests.dll
+D:\Coding\KPK\12. Mocking\RpgGame.Tests\obj\Debug\RpgGame.Tests.pdb

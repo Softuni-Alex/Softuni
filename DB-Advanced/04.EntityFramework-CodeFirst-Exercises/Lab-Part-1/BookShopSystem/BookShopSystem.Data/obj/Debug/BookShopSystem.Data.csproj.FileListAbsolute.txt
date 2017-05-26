@@ -1,0 +1,14 @@
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\Lab-Part-1\BookShopSystem\BookShopSystem.Data\bin\Debug\BookShopSystem.Data.dll.config
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\Lab-Part-1\BookShopSystem\BookShopSystem.Data\bin\Debug\BookShopSystem.Data.dll
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\Lab-Part-1\BookShopSystem\BookShopSystem.Data\bin\Debug\BookShopSystem.Data.pdb
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\Lab-Part-1\BookShopSystem\BookShopSystem.Data\bin\Debug\BookShopSystemModels.dll
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\Lab-Part-1\BookShopSystem\BookShopSystem.Data\bin\Debug\EntityFramework.dll
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\Lab-Part-1\BookShopSystem\BookShopSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\Lab-Part-1\BookShopSystem\BookShopSystem.Data\bin\Debug\BookShopSystemModels.pdb
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\Lab-Part-1\BookShopSystem\BookShopSystem.Data\bin\Debug\EntityFramework.xml
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\Lab-Part-1\BookShopSystem\BookShopSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\Lab-Part-1\BookShopSystem\BookShopSystem.Data\obj\Debug\BookShopSystem.Data.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\Lab-Part-1\BookShopSystem\BookShopSystem.Data\obj\Debug\BookShopSystem.Data.dll
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\Lab-Part-1\BookShopSystem\BookShopSystem.Data\obj\Debug\BookShopSystem.Data.pdb
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\Lab-Part-1\BookShopSystem\BookShopSystem.Data\obj\Debug\BookShopSystem.Data.Migrations.InitialCreate.resources
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\Lab-Part-1\BookShopSystem\BookShopSystem.Data\obj\Debug\BookShopSystem.Data.csproj.GenerateResource.Cache

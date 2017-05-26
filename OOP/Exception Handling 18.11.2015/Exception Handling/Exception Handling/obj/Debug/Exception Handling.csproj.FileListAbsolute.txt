@@ -1,0 +1,6 @@
+D:\Coding\SoftUni\Exception Handling 18.11.2015\Exception Handling\Exception Handling\bin\Debug\Exception Handling.exe.config
+D:\Coding\SoftUni\Exception Handling 18.11.2015\Exception Handling\Exception Handling\bin\Debug\Exception Handling.exe
+D:\Coding\SoftUni\Exception Handling 18.11.2015\Exception Handling\Exception Handling\bin\Debug\Exception Handling.pdb
+D:\Coding\SoftUni\Exception Handling 18.11.2015\Exception Handling\Exception Handling\obj\Debug\Exception Handling.csprojResolveAssemblyReference.cache
+D:\Coding\SoftUni\Exception Handling 18.11.2015\Exception Handling\Exception Handling\obj\Debug\Exception Handling.exe
+D:\Coding\SoftUni\Exception Handling 18.11.2015\Exception Handling\Exception Handling\obj\Debug\Exception Handling.pdb

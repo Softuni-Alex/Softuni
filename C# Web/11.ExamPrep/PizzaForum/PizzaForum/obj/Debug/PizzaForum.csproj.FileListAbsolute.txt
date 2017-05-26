@@ -1,0 +1,16 @@
+C:\Alex\Softuni\C# Web\11.ExamPrep\PizzaForum\PizzaForum\bin\Debug\PizzaForum.exe.config
+C:\Alex\Softuni\C# Web\11.ExamPrep\PizzaForum\PizzaForum\bin\Debug\Resources\Pages\404.html
+C:\Alex\Softuni\C# Web\11.ExamPrep\PizzaForum\PizzaForum\bin\Debug\Resources\Pages\500.html
+C:\Alex\Softuni\C# Web\11.ExamPrep\PizzaForum\PizzaForum\bin\Debug\PizzaForum.exe
+C:\Alex\Softuni\C# Web\11.ExamPrep\PizzaForum\PizzaForum\bin\Debug\PizzaForum.pdb
+C:\Alex\Softuni\C# Web\11.ExamPrep\PizzaForum\PizzaForum\bin\Debug\EntityFramework.dll
+C:\Alex\Softuni\C# Web\11.ExamPrep\PizzaForum\PizzaForum\bin\Debug\EntityFramework.SqlServer.dll
+C:\Alex\Softuni\C# Web\11.ExamPrep\PizzaForum\PizzaForum\bin\Debug\SimpleHttpServer.dll
+C:\Alex\Softuni\C# Web\11.ExamPrep\PizzaForum\PizzaForum\bin\Debug\SimpleMVC.dll
+C:\Alex\Softuni\C# Web\11.ExamPrep\PizzaForum\PizzaForum\bin\Debug\SimpleHttpServer.pdb
+C:\Alex\Softuni\C# Web\11.ExamPrep\PizzaForum\PizzaForum\bin\Debug\SimpleMVC.pdb
+C:\Alex\Softuni\C# Web\11.ExamPrep\PizzaForum\PizzaForum\bin\Debug\EntityFramework.xml
+C:\Alex\Softuni\C# Web\11.ExamPrep\PizzaForum\PizzaForum\bin\Debug\EntityFramework.SqlServer.xml
+C:\Alex\Softuni\C# Web\11.ExamPrep\PizzaForum\PizzaForum\obj\Debug\PizzaForum.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni\C# Web\11.ExamPrep\PizzaForum\PizzaForum\obj\Debug\PizzaForum.exe
+C:\Alex\Softuni\C# Web\11.ExamPrep\PizzaForum\PizzaForum\obj\Debug\PizzaForum.pdb

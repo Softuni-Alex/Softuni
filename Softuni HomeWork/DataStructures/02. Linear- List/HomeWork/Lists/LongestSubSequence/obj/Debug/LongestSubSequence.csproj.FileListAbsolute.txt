@@ -1,0 +1,1 @@
+D:\Coding\Softuni HomeWork\DataStructures\02. Linear- List\HomeWork\Lists\LongestSubSequence\bin\Debug\LongestSubSequence.exe.config

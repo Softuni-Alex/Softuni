@@ -1,0 +1,6 @@
+D:\Coding\Softuni HomeWork\OOP\Inhiritance  and Abstraction\HomeWork_Inhiritance_Abstraction\HomeWork_Inhiritance_Abstraction\bin\Debug\HomeWork_Inhiritance_Abstraction.exe.config
+D:\Coding\Softuni HomeWork\OOP\Inhiritance  and Abstraction\HomeWork_Inhiritance_Abstraction\HomeWork_Inhiritance_Abstraction\obj\Debug\HomeWork_Inhiritance_Abstraction.csprojResolveAssemblyReference.cache
+D:\Coding\Softuni HomeWork\OOP\Inhiritance  and Abstraction\HomeWork_Inhiritance_Abstraction\HomeWork_Inhiritance_Abstraction\bin\Debug\HomeWork_Inhiritance_Abstraction.exe
+D:\Coding\Softuni HomeWork\OOP\Inhiritance  and Abstraction\HomeWork_Inhiritance_Abstraction\HomeWork_Inhiritance_Abstraction\bin\Debug\HomeWork_Inhiritance_Abstraction.pdb
+D:\Coding\Softuni HomeWork\OOP\Inhiritance  and Abstraction\HomeWork_Inhiritance_Abstraction\HomeWork_Inhiritance_Abstraction\obj\Debug\HomeWork_Inhiritance_Abstraction.exe
+D:\Coding\Softuni HomeWork\OOP\Inhiritance  and Abstraction\HomeWork_Inhiritance_Abstraction\HomeWork_Inhiritance_Abstraction\obj\Debug\HomeWork_Inhiritance_Abstraction.pdb

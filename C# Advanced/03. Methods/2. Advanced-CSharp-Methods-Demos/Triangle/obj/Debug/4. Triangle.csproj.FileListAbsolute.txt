@@ -1,0 +1,5 @@
+D:\Coding\C# Advanced\03. Methods\2. Advanced-CSharp-Methods-Demos\Triangle\bin\Debug\Triangle.exe
+D:\Coding\C# Advanced\03. Methods\2. Advanced-CSharp-Methods-Demos\Triangle\bin\Debug\Triangle.pdb
+D:\Coding\C# Advanced\03. Methods\2. Advanced-CSharp-Methods-Demos\Triangle\obj\Debug\4. Triangle.csprojResolveAssemblyReference.cache
+D:\Coding\C# Advanced\03. Methods\2. Advanced-CSharp-Methods-Demos\Triangle\obj\Debug\Triangle.exe
+D:\Coding\C# Advanced\03. Methods\2. Advanced-CSharp-Methods-Demos\Triangle\obj\Debug\Triangle.pdb

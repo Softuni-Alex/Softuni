@@ -1,0 +1,5 @@
+D:\Coding\Softuni HomeWork\C# Advanced\01. Array List Stack Queue\HomeWork\05. LongestIncreasingSequence\bin\Debug\_05.LongestIncreasingSequence.exe.config
+D:\Coding\Softuni HomeWork\C# Advanced\01. Array List Stack Queue\HomeWork\05. LongestIncreasingSequence\bin\Debug\_05.LongestIncreasingSequence.exe
+D:\Coding\Softuni HomeWork\C# Advanced\01. Array List Stack Queue\HomeWork\05. LongestIncreasingSequence\bin\Debug\_05.LongestIncreasingSequence.pdb
+D:\Coding\Softuni HomeWork\C# Advanced\01. Array List Stack Queue\HomeWork\05. LongestIncreasingSequence\obj\Debug\_05.LongestIncreasingSequence.exe
+D:\Coding\Softuni HomeWork\C# Advanced\01. Array List Stack Queue\HomeWork\05. LongestIncreasingSequence\obj\Debug\_05.LongestIncreasingSequence.pdb

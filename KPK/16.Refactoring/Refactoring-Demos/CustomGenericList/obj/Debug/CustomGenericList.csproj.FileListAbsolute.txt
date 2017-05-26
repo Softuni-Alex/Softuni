@@ -1,0 +1,6 @@
+D:\Coding\KPK\16.Refactoring\Refactoring-Demos\CustomGenericList\bin\Debug\CustomGenericList.exe.config
+D:\Coding\KPK\16.Refactoring\Refactoring-Demos\CustomGenericList\bin\Debug\CustomGenericList.exe
+D:\Coding\KPK\16.Refactoring\Refactoring-Demos\CustomGenericList\bin\Debug\CustomGenericList.pdb
+D:\Coding\KPK\16.Refactoring\Refactoring-Demos\CustomGenericList\obj\Debug\CustomGenericList.csprojResolveAssemblyReference.cache
+D:\Coding\KPK\16.Refactoring\Refactoring-Demos\CustomGenericList\obj\Debug\CustomGenericList.exe
+D:\Coding\KPK\16.Refactoring\Refactoring-Demos\CustomGenericList\obj\Debug\CustomGenericList.pdb

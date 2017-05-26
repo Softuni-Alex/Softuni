@@ -1,0 +1,6 @@
+D:\Coding\Softuni HomeWork\Tech\Basics\05.StringLINQ-Dictionary\StringLINQ-Dictionary\OddOccurrences\bin\Debug\OddOccurrences.exe.config
+D:\Coding\Softuni HomeWork\Tech\Basics\05.StringLINQ-Dictionary\StringLINQ-Dictionary\OddOccurrences\bin\Debug\OddOccurrences.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\05.StringLINQ-Dictionary\StringLINQ-Dictionary\OddOccurrences\bin\Debug\OddOccurrences.pdb
+D:\Coding\Softuni HomeWork\Tech\Basics\05.StringLINQ-Dictionary\StringLINQ-Dictionary\OddOccurrences\obj\Debug\OddOccurrences.csprojResolveAssemblyReference.cache
+D:\Coding\Softuni HomeWork\Tech\Basics\05.StringLINQ-Dictionary\StringLINQ-Dictionary\OddOccurrences\obj\Debug\OddOccurrences.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\05.StringLINQ-Dictionary\StringLINQ-Dictionary\OddOccurrences\obj\Debug\OddOccurrences.pdb

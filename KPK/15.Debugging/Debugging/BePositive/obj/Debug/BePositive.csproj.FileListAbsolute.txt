@@ -1,0 +1,6 @@
+D:\Coding\KPK\15.Debugging\Debugging\BePositive\bin\Debug\BePositive.exe.config
+D:\Coding\KPK\15.Debugging\Debugging\BePositive\bin\Debug\BePositive.exe
+D:\Coding\KPK\15.Debugging\Debugging\BePositive\bin\Debug\BePositive.pdb
+D:\Coding\KPK\15.Debugging\Debugging\BePositive\obj\Debug\BePositive.csprojResolveAssemblyReference.cache
+D:\Coding\KPK\15.Debugging\Debugging\BePositive\obj\Debug\BePositive.exe
+D:\Coding\KPK\15.Debugging\Debugging\BePositive\obj\Debug\BePositive.pdb

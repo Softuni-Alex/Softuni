@@ -1,0 +1,6 @@
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\File-API\bin\Debug\File-API.exe.config
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\File-API\obj\Debug\File-API.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\File-API\obj\Debug\File-API.pdb
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\File-API\bin\Debug\File-API.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\File-API\bin\Debug\File-API.pdb
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\File-API\obj\Debug\9. Working with Files.csprojResolveAssemblyReference.cache

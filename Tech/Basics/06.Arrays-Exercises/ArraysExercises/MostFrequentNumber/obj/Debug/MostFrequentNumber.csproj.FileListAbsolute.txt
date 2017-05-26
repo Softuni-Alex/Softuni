@@ -1,0 +1,6 @@
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\MostFrequentNumber\bin\Debug\MostFrequentNumber.exe.config
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\MostFrequentNumber\bin\Debug\MostFrequentNumber.exe
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\MostFrequentNumber\bin\Debug\MostFrequentNumber.pdb
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\MostFrequentNumber\obj\Debug\MostFrequentNumber.csprojResolveAssemblyReference.cache
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\MostFrequentNumber\obj\Debug\MostFrequentNumber.exe
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\MostFrequentNumber\obj\Debug\MostFrequentNumber.pdb

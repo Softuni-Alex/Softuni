@@ -1,0 +1,6 @@
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\WritingToFiles\bin\Debug\WritingToFiles.exe.config
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\WritingToFiles\bin\Debug\WritingToFiles.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\WritingToFiles\bin\Debug\WritingToFiles.pdb
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\WritingToFiles\obj\Debug\WritingToFiles.csprojResolveAssemblyReference.cache
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\WritingToFiles\obj\Debug\WritingToFiles.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\WritingToFiles\obj\Debug\WritingToFiles.pdb

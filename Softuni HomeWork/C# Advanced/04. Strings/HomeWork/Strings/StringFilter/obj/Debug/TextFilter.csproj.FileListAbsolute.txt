@@ -1,0 +1,6 @@
+D:\Coding\Softuni HomeWork\C# Advanced\04. Strings\HomeWork\Strings\StringFilter\bin\Debug\StringFilter.exe.config
+D:\Coding\Softuni HomeWork\C# Advanced\04. Strings\HomeWork\Strings\StringFilter\bin\Debug\StringFilter.exe
+D:\Coding\Softuni HomeWork\C# Advanced\04. Strings\HomeWork\Strings\StringFilter\bin\Debug\StringFilter.pdb
+D:\Coding\Softuni HomeWork\C# Advanced\04. Strings\HomeWork\Strings\StringFilter\obj\Debug\TextFilter.csprojResolveAssemblyReference.cache
+D:\Coding\Softuni HomeWork\C# Advanced\04. Strings\HomeWork\Strings\StringFilter\obj\Debug\StringFilter.exe
+D:\Coding\Softuni HomeWork\C# Advanced\04. Strings\HomeWork\Strings\StringFilter\obj\Debug\StringFilter.pdb

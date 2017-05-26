@@ -1,0 +1,1 @@
+D:\Coding\Softuni HomeWork\C# Advanced\04. Strings\HomeWork\Strings\UnicodeCharacters\bin\Debug\UnicodeCharacters.exe.config

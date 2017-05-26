@@ -1,0 +1,5 @@
+D:\Coding\Softuni HomeWork\DataStructures\02. Linear- List\HomeWork\Lists\RemoveOddOccurences\bin\Debug\RemoveOddOccurences.exe.config
+D:\Coding\Softuni HomeWork\DataStructures\02. Linear- List\HomeWork\Lists\RemoveOddOccurences\bin\Debug\RemoveOddOccurences.exe
+D:\Coding\Softuni HomeWork\DataStructures\02. Linear- List\HomeWork\Lists\RemoveOddOccurences\bin\Debug\RemoveOddOccurences.pdb
+D:\Coding\Softuni HomeWork\DataStructures\02. Linear- List\HomeWork\Lists\RemoveOddOccurences\obj\Debug\RemoveOddOccurences.exe
+D:\Coding\Softuni HomeWork\DataStructures\02. Linear- List\HomeWork\Lists\RemoveOddOccurences\obj\Debug\RemoveOddOccurences.pdb

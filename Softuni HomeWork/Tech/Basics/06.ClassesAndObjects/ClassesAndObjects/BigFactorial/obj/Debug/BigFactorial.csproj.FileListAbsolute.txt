@@ -1,0 +1,1 @@
+D:\Coding\Softuni HomeWork\Tech\Basics\06.ClassesAndObjects\ClassesAndObjects\BigFactorial\bin\Debug\BigFactorial.exe.config

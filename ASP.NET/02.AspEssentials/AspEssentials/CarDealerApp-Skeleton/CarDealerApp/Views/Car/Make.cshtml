@@ -1,0 +1,34 @@
+﻿
+@model IEnumerable<CarDealer.Models.Car>
+    
+<table class="table table-responsive table-bordered">
+    <thead>
+    <tr>
+        <th>
+            Make
+        </th>
+        <th>
+            Model
+        </th>
+        <th>
+            Travelled Distance
+        </th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var car in Model)
+    {
+        <tr>
+            <td>
+                @car.Make
+            </td>
+            <td>
+                @car.Model
+            </td>
+            <td>
+                @car.TravelledDistance
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

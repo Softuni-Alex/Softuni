@@ -1,0 +1,9 @@
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\File-Stream\bin\Debug\File-Stream.exe.config
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\File-Stream\obj\Debug\File-Stream.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\File-Stream\obj\Debug\File-Stream.pdb
+D:\Coding\C# Advanced\08. Streams and Files\6. Advanced-CSharp-Streams-and-Files-Demos\File-Stream\bin\Debug\File-Stream.exe.config
+D:\Coding\C# Advanced\08. Streams and Files\6. Advanced-CSharp-Streams-and-Files-Demos\File-Stream\obj\Debug\File-Stream.exe
+D:\Coding\C# Advanced\08. Streams and Files\6. Advanced-CSharp-Streams-and-Files-Demos\File-Stream\obj\Debug\File-Stream.pdb
+D:\Coding\C# Advanced\08. Streams and Files\6. Advanced-CSharp-Streams-and-Files-Demos\File-Stream\bin\Debug\File-Stream.exe
+D:\Coding\C# Advanced\08. Streams and Files\6. Advanced-CSharp-Streams-and-Files-Demos\File-Stream\bin\Debug\File-Stream.pdb
+D:\Coding\C# Advanced\08. Streams and Files\6. Advanced-CSharp-Streams-and-Files-Demos\File-Stream\obj\Debug\02. File-Copy.csprojResolveAssemblyReference.cache

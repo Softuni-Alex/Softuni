@@ -1,0 +1,5 @@
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\ArraysExercises\bin\Debug\ArraysExercises.exe.config
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\ArraysExercises\bin\Debug\ArraysExercises.exe
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\ArraysExercises\bin\Debug\ArraysExercises.pdb
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\ArraysExercises\obj\Debug\ArraysExercises.exe
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\ArraysExercises\obj\Debug\ArraysExercises.pdb

@@ -1,0 +1,5 @@
+C:\Alex\Softuni\C# Web\06.HandMadeServer\HandMadeServer\HttpServer\bin\Debug\HttpServer.dll
+C:\Alex\Softuni\C# Web\06.HandMadeServer\HandMadeServer\HttpServer\bin\Debug\HttpServer.pdb
+C:\Alex\Softuni\C# Web\06.HandMadeServer\HandMadeServer\HttpServer\obj\Debug\HttpServer.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni\C# Web\06.HandMadeServer\HandMadeServer\HttpServer\obj\Debug\HttpServer.dll
+C:\Alex\Softuni\C# Web\06.HandMadeServer\HandMadeServer\HttpServer\obj\Debug\HttpServer.pdb

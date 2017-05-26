@@ -1,0 +1,6 @@
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\Capitalization\bin\Debug\Capitalization.exe.config
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\Capitalization\bin\Debug\Capitalization.exe
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\Capitalization\bin\Debug\Capitalization.pdb
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\Capitalization\obj\Debug\Capitalization.csprojResolveAssemblyReference.cache
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\Capitalization\obj\Debug\Capitalization.exe
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\Capitalization\obj\Debug\Capitalization.pdb

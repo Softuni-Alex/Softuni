@@ -1,0 +1,10 @@
+C:\Alex\Softuni\DB-Advanced\06.EntityFramework-AdvancedQuerying-Exercises\Querying\Querying\bin\Debug\Querying.exe.config
+C:\Alex\Softuni\DB-Advanced\06.EntityFramework-AdvancedQuerying-Exercises\Querying\Querying\bin\Debug\Querying.exe
+C:\Alex\Softuni\DB-Advanced\06.EntityFramework-AdvancedQuerying-Exercises\Querying\Querying\bin\Debug\Querying.pdb
+C:\Alex\Softuni\DB-Advanced\06.EntityFramework-AdvancedQuerying-Exercises\Querying\Querying\bin\Debug\EntityFramework.dll
+C:\Alex\Softuni\DB-Advanced\06.EntityFramework-AdvancedQuerying-Exercises\Querying\Querying\bin\Debug\EntityFramework.SqlServer.dll
+C:\Alex\Softuni\DB-Advanced\06.EntityFramework-AdvancedQuerying-Exercises\Querying\Querying\bin\Debug\EntityFramework.xml
+C:\Alex\Softuni\DB-Advanced\06.EntityFramework-AdvancedQuerying-Exercises\Querying\Querying\bin\Debug\EntityFramework.SqlServer.xml
+C:\Alex\Softuni\DB-Advanced\06.EntityFramework-AdvancedQuerying-Exercises\Querying\Querying\obj\Debug\Querying.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni\DB-Advanced\06.EntityFramework-AdvancedQuerying-Exercises\Querying\Querying\obj\Debug\Querying.exe
+C:\Alex\Softuni\DB-Advanced\06.EntityFramework-AdvancedQuerying-Exercises\Querying\Querying\obj\Debug\Querying.pdb

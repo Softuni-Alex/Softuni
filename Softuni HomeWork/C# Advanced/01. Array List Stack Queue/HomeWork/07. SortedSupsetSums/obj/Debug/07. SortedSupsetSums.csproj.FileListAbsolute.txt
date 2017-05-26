@@ -1,0 +1,5 @@
+D:\Coding\Softuni HomeWork\C# Advanced\01. Array List Stack Queue\HomeWork\07. SortedSupsetSums\bin\Debug\_07.SortedSupsetSums.exe.config
+D:\Coding\Softuni HomeWork\C# Advanced\01. Array List Stack Queue\HomeWork\07. SortedSupsetSums\bin\Debug\_07.SortedSupsetSums.exe
+D:\Coding\Softuni HomeWork\C# Advanced\01. Array List Stack Queue\HomeWork\07. SortedSupsetSums\bin\Debug\_07.SortedSupsetSums.pdb
+D:\Coding\Softuni HomeWork\C# Advanced\01. Array List Stack Queue\HomeWork\07. SortedSupsetSums\obj\Debug\_07.SortedSupsetSums.exe
+D:\Coding\Softuni HomeWork\C# Advanced\01. Array List Stack Queue\HomeWork\07. SortedSupsetSums\obj\Debug\_07.SortedSupsetSums.pdb

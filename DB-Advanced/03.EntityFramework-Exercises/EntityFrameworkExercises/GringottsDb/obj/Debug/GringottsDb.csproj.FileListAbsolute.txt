@@ -1,0 +1,10 @@
+C:\Alex\Softuni\DB-Advanced\03.EntityFramework-Exercises\EntityFrameworkExercises\GringottsDb\bin\Debug\GringottsDb.exe.config
+C:\Alex\Softuni\DB-Advanced\03.EntityFramework-Exercises\EntityFrameworkExercises\GringottsDb\bin\Debug\GringottsDb.exe
+C:\Alex\Softuni\DB-Advanced\03.EntityFramework-Exercises\EntityFrameworkExercises\GringottsDb\bin\Debug\GringottsDb.pdb
+C:\Alex\Softuni\DB-Advanced\03.EntityFramework-Exercises\EntityFrameworkExercises\GringottsDb\bin\Debug\EntityFramework.dll
+C:\Alex\Softuni\DB-Advanced\03.EntityFramework-Exercises\EntityFrameworkExercises\GringottsDb\bin\Debug\EntityFramework.SqlServer.dll
+C:\Alex\Softuni\DB-Advanced\03.EntityFramework-Exercises\EntityFrameworkExercises\GringottsDb\bin\Debug\EntityFramework.xml
+C:\Alex\Softuni\DB-Advanced\03.EntityFramework-Exercises\EntityFrameworkExercises\GringottsDb\bin\Debug\EntityFramework.SqlServer.xml
+C:\Alex\Softuni\DB-Advanced\03.EntityFramework-Exercises\EntityFrameworkExercises\GringottsDb\obj\Debug\GringottsDb.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni\DB-Advanced\03.EntityFramework-Exercises\EntityFrameworkExercises\GringottsDb\obj\Debug\GringottsDb.exe
+C:\Alex\Softuni\DB-Advanced\03.EntityFramework-Exercises\EntityFrameworkExercises\GringottsDb\obj\Debug\GringottsDb.pdb

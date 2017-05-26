@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles/bootstrap.min.css">
+    <link rel="stylesheet" href="./styles/library.css">
+    <title>Online Library</title>
+</head>
+<body>
+<nav class="navbar navbar-default  navbar-fixed-top ">
+    <div class="container pull-left navbar-left">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="#">Library</a>
+        </div>
+        <ul class="nav navbar-nav navbar-left">
+            <li><a href="#">C# Books</a></li>
+            <li><a href="#">Java Books</a></li>
+        </ul>
+        <form class="navbar-form navbar-left">
+            <div class="form-group">
+                <input type="text" class="form-control" placeholder="Search for a book...">
+            </div>
+            <button type="submit" class="btn btn-default">Go!</button>
+        </form>
+        <ul class="nav navbar-nav navbar-right">
+            <li><a href="#">Hello, </a></li>
+            <li><a href="#">Log in</a></li>
+            <li><a><img src="./Resources/shopping-cart.png"></a></li>
+            <li><a href="#">EN</a></li>
+            <li><a href="#">BG</a></li>
+        </ul>
+    </div>
+</nav>
+<div class="container-fluid">
+    <div class="col-md-2">
+        <ul class="nav nav-pills nav-stacked">
+            <li role="presentation" class="active"><a href="#">Subscription Process</a></li>
+            <li role="presentation"><a href="#">General Information</a></li>
+            <li role="presentation"><a href="#">Contacts</a></li>
+        </ul>
+    </div>
+    <div class="col-md-3">
+        <div class="wrapper">
+            <img src="./Resources/book.png">
+            <div>
+                <label>Programming Fundamentals C#</label>
+            </div>
+            <div><strong>45</strong> copies available</div>
+            <div>
+                <img src="./Resources/rating.png">
+                <a>Details</a>
+            </div>
+            <div class="col-md-2">
+                <button class="btn btn-primary">Borrow</button>
+            </div>
+            <div class="col-md-2">
+                <button class="btn btn-default">Add to Card</button>
+                Last time borrowed 3 mins ago
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="wrapper">
+            <img src="./Resources/book.png">
+            <div>
+                <label>Programming Fundamentals Java</label>
+            </div>
+            <div><strong>3</strong> copies available</div>
+            <div>
+                <img src="./Resources/rating.png">
+                <a>Details</a>
+            </div>
+            <div class="col-md-2">
+                <button class="btn btn-primary">Borrow</button>
+            </div>
+            <div class="col-md-2">
+                <button class="btn btn-default">Add to Card</button>
+                Last time borrowed 3 mins ago
+            </div>
+            <div>
+                <small>Last time borrowed 3 mins ago</small>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div>
+            <img src="./Resources/book.png">
+            <div>
+                <label>Programming Fundamentals C#</label>
+            </div>
+            <div><strong>3</strong> copies available</div>
+            <div>
+                <img src="./Resources/rating.png">
+                <a>Details</a>
+            </div>
+            <div class="col-md-2">
+                <button class="btn btn-primary">Borrow</button>
+            </div>
+            <div class="col-md-2">
+                <button class="btn btn-default">Add to Card</button>
+                Last time borrowed 3 mins ago
+            </div>
+            <div>
+                <small>Last time borrowed 3 mins ago</small>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="text-center">
+    <nav aria-label="...">
+        <ul class="pagination">
+            <li class="disabled">
+      <span>
+        <span aria-hidden="true">Back</span>
+      </span>
+            </li>
+            <li class="active">
+                <span>1 <span class="sr-only">(current)</span></span>
+            </li>
+            <li>
+                <span>2 <span class="sr-only">(current)</span></span>
+            </li>
+            <li>
+                <span>3 <span class="sr-only">(current)</span></span>
+            </li>
+            <li>
+                <span>4 <span class="sr-only">(current)</span></span>
+            </li>
+            <li>
+                <span>5 <span class="sr-only">(current)</span></span>
+            </li>
+            <li class="disabled">
+      <span>
+        <span aria-hidden="true">Next</span>
+      </span>
+            </li>
+        </ul>
+    </nav>
+</div>
+<footer>
+    <div class="text-center">All Rights Reserved &copy; 2017</div>
+</footer>
+<script src="./scripts/jquery-3.1.1.min.js"></script>
+<script src="./scripts/bootstrap.min.js"></script>
+</body>
+</html>

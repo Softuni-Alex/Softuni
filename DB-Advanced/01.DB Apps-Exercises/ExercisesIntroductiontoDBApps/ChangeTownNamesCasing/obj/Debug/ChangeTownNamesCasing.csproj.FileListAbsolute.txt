@@ -1,0 +1,6 @@
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\ChangeTownNamesCasing\bin\Debug\ChangeTownNamesCasing.exe.config
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\ChangeTownNamesCasing\bin\Debug\ChangeTownNamesCasing.exe
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\ChangeTownNamesCasing\bin\Debug\ChangeTownNamesCasing.pdb
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\ChangeTownNamesCasing\obj\Debug\ChangeTownNamesCasing.csprojResolveAssemblyReference.cache
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\ChangeTownNamesCasing\obj\Debug\ChangeTownNamesCasing.exe
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\ChangeTownNamesCasing\obj\Debug\ChangeTownNamesCasing.pdb

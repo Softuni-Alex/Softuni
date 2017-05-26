@@ -1,0 +1,5 @@
+D:\Coding\Softuni HomeWork\OOP\NameSpaces&Indexing&Static\Namespaces_Static\HTML Dispatcher\bin\Debug\HTML Dispatcher.exe.config
+D:\Coding\Softuni HomeWork\OOP\NameSpaces&Indexing&Static\Namespaces_Static\HTML Dispatcher\bin\Debug\HTML Dispatcher.exe
+D:\Coding\Softuni HomeWork\OOP\NameSpaces&Indexing&Static\Namespaces_Static\HTML Dispatcher\bin\Debug\HTML Dispatcher.pdb
+D:\Coding\Softuni HomeWork\OOP\NameSpaces&Indexing&Static\Namespaces_Static\HTML Dispatcher\obj\Debug\HTML Dispatcher.exe
+D:\Coding\Softuni HomeWork\OOP\NameSpaces&Indexing&Static\Namespaces_Static\HTML Dispatcher\obj\Debug\HTML Dispatcher.pdb

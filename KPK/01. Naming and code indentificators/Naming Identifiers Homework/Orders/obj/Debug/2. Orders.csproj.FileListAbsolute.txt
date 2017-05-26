@@ -1,0 +1,6 @@
+D:\Coding\KPK\Naming and code indentificators\Naming Identifiers Homework\Orders\bin\Debug\Orders.exe.config
+D:\Coding\KPK\Naming and code indentificators\Naming Identifiers Homework\Orders\bin\Debug\Orders.exe
+D:\Coding\KPK\Naming and code indentificators\Naming Identifiers Homework\Orders\bin\Debug\Orders.pdb
+D:\Coding\KPK\Naming and code indentificators\Naming Identifiers Homework\Orders\obj\Debug\Orders.exe
+D:\Coding\KPK\Naming and code indentificators\Naming Identifiers Homework\Orders\obj\Debug\Orders.pdb
+D:\Coding\KPK\Naming and code indentificators\Naming Identifiers Homework\Orders\obj\Debug\2. Orders.csprojResolveAssemblyReference.cache

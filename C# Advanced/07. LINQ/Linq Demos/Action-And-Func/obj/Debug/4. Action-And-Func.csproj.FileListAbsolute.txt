@@ -1,0 +1,6 @@
+D:\Coding\C# Advanced\07. LINQ\Linq Demos\Action-And-Func\bin\Debug\Action-And-Func.exe.config
+D:\Coding\C# Advanced\07. LINQ\Linq Demos\Action-And-Func\bin\Debug\Action-And-Func.exe
+D:\Coding\C# Advanced\07. LINQ\Linq Demos\Action-And-Func\bin\Debug\Action-And-Func.pdb
+D:\Coding\C# Advanced\07. LINQ\Linq Demos\Action-And-Func\obj\Debug\4. Action-And-Func.csprojResolveAssemblyReference.cache
+D:\Coding\C# Advanced\07. LINQ\Linq Demos\Action-And-Func\obj\Debug\Action-And-Func.exe
+D:\Coding\C# Advanced\07. LINQ\Linq Demos\Action-And-Func\obj\Debug\Action-And-Func.pdb

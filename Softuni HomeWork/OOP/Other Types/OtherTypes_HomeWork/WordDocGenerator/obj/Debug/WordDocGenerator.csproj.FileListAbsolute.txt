@@ -1,0 +1,9 @@
+D:\Coding\Softuni HomeWork\OOP\Other Types\OtherTypes_HomeWork\WordDocGenerator\bin\Debug\WordDocGenerator.exe.config
+D:\Coding\Softuni HomeWork\OOP\Other Types\OtherTypes_HomeWork\WordDocGenerator\bin\Debug\WordDocGenerator.exe
+D:\Coding\Softuni HomeWork\OOP\Other Types\OtherTypes_HomeWork\WordDocGenerator\bin\Debug\WordDocGenerator.pdb
+D:\Coding\Softuni HomeWork\OOP\Other Types\OtherTypes_HomeWork\WordDocGenerator\obj\Debug\WordDocGenerator.exe
+D:\Coding\Softuni HomeWork\OOP\Other Types\OtherTypes_HomeWork\WordDocGenerator\obj\Debug\WordDocGenerator.pdb
+D:\Coding\Softuni HomeWork\OOP\Other Types\OtherTypes_HomeWork\WordDocGenerator\obj\Debug\WordDocGenerator.csprojResolveAssemblyReference.cache
+D:\Coding\Softuni HomeWork\OOP\Other Types\OtherTypes_HomeWork\WordDocGenerator\bin\Debug\DocX.dll
+D:\Coding\Softuni HomeWork\OOP\Other Types\OtherTypes_HomeWork\WordDocGenerator\obj\Debug\WordDocGenerator.Properties.Resources.resources
+D:\Coding\Softuni HomeWork\OOP\Other Types\OtherTypes_HomeWork\WordDocGenerator\obj\Debug\WordDocGenerator.csproj.GenerateResource.Cache

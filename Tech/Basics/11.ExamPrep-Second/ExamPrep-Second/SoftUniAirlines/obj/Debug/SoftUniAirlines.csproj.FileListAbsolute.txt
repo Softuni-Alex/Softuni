@@ -1,0 +1,6 @@
+D:\Coding\Tech\Basics\11.ExamPrep-Second\ExamPrep-Second\SoftUniAirlines\bin\Debug\SoftUniAirlines.exe.config
+D:\Coding\Tech\Basics\11.ExamPrep-Second\ExamPrep-Second\SoftUniAirlines\bin\Debug\SoftUniAirlines.exe
+D:\Coding\Tech\Basics\11.ExamPrep-Second\ExamPrep-Second\SoftUniAirlines\bin\Debug\SoftUniAirlines.pdb
+D:\Coding\Tech\Basics\11.ExamPrep-Second\ExamPrep-Second\SoftUniAirlines\obj\Debug\SoftUniAirlines.csprojResolveAssemblyReference.cache
+D:\Coding\Tech\Basics\11.ExamPrep-Second\ExamPrep-Second\SoftUniAirlines\obj\Debug\SoftUniAirlines.exe
+D:\Coding\Tech\Basics\11.ExamPrep-Second\ExamPrep-Second\SoftUniAirlines\obj\Debug\SoftUniAirlines.pdb

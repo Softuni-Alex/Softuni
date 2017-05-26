@@ -1,0 +1,5 @@
+C:\Alex\Softuni\DB-Advanced\05.EntityFramework-Relations-Exercises\StudentSystem\FootballBookmakerSystem.Models\bin\Debug\FootballBookmakerSystem.Models.dll
+C:\Alex\Softuni\DB-Advanced\05.EntityFramework-Relations-Exercises\StudentSystem\FootballBookmakerSystem.Models\bin\Debug\FootballBookmakerSystem.Models.pdb
+C:\Alex\Softuni\DB-Advanced\05.EntityFramework-Relations-Exercises\StudentSystem\FootballBookmakerSystem.Models\obj\Debug\FootballBookmakerSystem.Models.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni\DB-Advanced\05.EntityFramework-Relations-Exercises\StudentSystem\FootballBookmakerSystem.Models\obj\Debug\FootballBookmakerSystem.Models.dll
+C:\Alex\Softuni\DB-Advanced\05.EntityFramework-Relations-Exercises\StudentSystem\FootballBookmakerSystem.Models\obj\Debug\FootballBookmakerSystem.Models.pdb

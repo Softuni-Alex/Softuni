@@ -1,0 +1,1 @@
+D:\Coding\Tech\Basics\09.ClassesAndObjects-Exercises\ClassesAndObjects\AverageGrades\bin\Debug\AverageGrades.exe.config

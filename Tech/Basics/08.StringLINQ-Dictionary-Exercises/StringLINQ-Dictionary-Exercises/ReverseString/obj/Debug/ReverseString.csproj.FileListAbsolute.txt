@@ -1,0 +1,6 @@
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\ReverseString\bin\Debug\ReverseString.exe.config
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\ReverseString\bin\Debug\ReverseString.exe
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\ReverseString\bin\Debug\ReverseString.pdb
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\ReverseString\obj\Debug\ReverseString.csprojResolveAssemblyReference.cache
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\ReverseString\obj\Debug\ReverseString.exe
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\ReverseString\obj\Debug\ReverseString.pdb

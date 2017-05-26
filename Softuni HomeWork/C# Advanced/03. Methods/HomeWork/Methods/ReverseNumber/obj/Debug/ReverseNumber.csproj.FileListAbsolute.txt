@@ -1,0 +1,5 @@
+D:\Coding\Softuni HomeWork\C# Advanced\03. Methods\HomeWork\Methods\ReverseNumber\bin\Debug\ReverseNumber.exe.config
+D:\Coding\Softuni HomeWork\C# Advanced\03. Methods\HomeWork\Methods\ReverseNumber\bin\Debug\ReverseNumber.exe
+D:\Coding\Softuni HomeWork\C# Advanced\03. Methods\HomeWork\Methods\ReverseNumber\bin\Debug\ReverseNumber.pdb
+D:\Coding\Softuni HomeWork\C# Advanced\03. Methods\HomeWork\Methods\ReverseNumber\obj\Debug\ReverseNumber.exe
+D:\Coding\Softuni HomeWork\C# Advanced\03. Methods\HomeWork\Methods\ReverseNumber\obj\Debug\ReverseNumber.pdb

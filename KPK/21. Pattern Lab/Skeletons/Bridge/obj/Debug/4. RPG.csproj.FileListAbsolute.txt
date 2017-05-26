@@ -1,0 +1,6 @@
+D:\Coding\KPK\21. Pattern Lab\Skeletons\Bridge\bin\Debug\Bridge.exe.config
+D:\Coding\KPK\21. Pattern Lab\Skeletons\Bridge\bin\Debug\Bridge.exe
+D:\Coding\KPK\21. Pattern Lab\Skeletons\Bridge\bin\Debug\Bridge.pdb
+D:\Coding\KPK\21. Pattern Lab\Skeletons\Bridge\obj\Debug\4. RPG.csprojResolveAssemblyReference.cache
+D:\Coding\KPK\21. Pattern Lab\Skeletons\Bridge\obj\Debug\Bridge.exe
+D:\Coding\KPK\21. Pattern Lab\Skeletons\Bridge\obj\Debug\Bridge.pdb

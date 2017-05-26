@@ -1,0 +1,6 @@
+D:\Coding\Tech\Basics\12.OldExam-LikeFirstExamPrep\OldExam-LikeFirstExamPrep\GameOfNames\bin\Debug\GameOfNames.exe.config
+D:\Coding\Tech\Basics\12.OldExam-LikeFirstExamPrep\OldExam-LikeFirstExamPrep\GameOfNames\bin\Debug\GameOfNames.exe
+D:\Coding\Tech\Basics\12.OldExam-LikeFirstExamPrep\OldExam-LikeFirstExamPrep\GameOfNames\bin\Debug\GameOfNames.pdb
+D:\Coding\Tech\Basics\12.OldExam-LikeFirstExamPrep\OldExam-LikeFirstExamPrep\GameOfNames\obj\Debug\GameOfNames.exe
+D:\Coding\Tech\Basics\12.OldExam-LikeFirstExamPrep\OldExam-LikeFirstExamPrep\GameOfNames\obj\Debug\GameOfNames.pdb
+D:\Coding\Tech\Basics\12.OldExam-LikeFirstExamPrep\OldExam-LikeFirstExamPrep\GameOfNames\obj\Debug\GameOfNames.csprojResolveAssemblyReference.cache

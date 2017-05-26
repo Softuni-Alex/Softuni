@@ -1,0 +1,6 @@
+D:\Coding\C# Advanced\01. Array List Stack Queues\Exercises\ExerciseArrayListStackQueue\Problem02 JoinList\bin\Debug\Problem02 JoinList.exe.config
+D:\Coding\C# Advanced\01. Array List Stack Queues\Exercises\ExerciseArrayListStackQueue\Problem02 JoinList\bin\Debug\Problem02 JoinList.exe
+D:\Coding\C# Advanced\01. Array List Stack Queues\Exercises\ExerciseArrayListStackQueue\Problem02 JoinList\bin\Debug\Problem02 JoinList.pdb
+D:\Coding\C# Advanced\01. Array List Stack Queues\Exercises\ExerciseArrayListStackQueue\Problem02 JoinList\obj\Debug\Problem02 JoinList.csprojResolveAssemblyReference.cache
+D:\Coding\C# Advanced\01. Array List Stack Queues\Exercises\ExerciseArrayListStackQueue\Problem02 JoinList\obj\Debug\Problem02 JoinList.exe
+D:\Coding\C# Advanced\01. Array List Stack Queues\Exercises\ExerciseArrayListStackQueue\Problem02 JoinList\obj\Debug\Problem02 JoinList.pdb

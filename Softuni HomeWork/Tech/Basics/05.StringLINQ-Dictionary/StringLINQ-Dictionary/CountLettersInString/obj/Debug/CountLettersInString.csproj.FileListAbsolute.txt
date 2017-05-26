@@ -1,0 +1,5 @@
+D:\Coding\Softuni HomeWork\Tech\Basics\05.StringLINQ-Dictionary\StringLINQ-Dictionary\CountLettersInString\bin\Debug\CountLettersInString.exe.config
+D:\Coding\Softuni HomeWork\Tech\Basics\05.StringLINQ-Dictionary\StringLINQ-Dictionary\CountLettersInString\bin\Debug\CountLettersInString.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\05.StringLINQ-Dictionary\StringLINQ-Dictionary\CountLettersInString\bin\Debug\CountLettersInString.pdb
+D:\Coding\Softuni HomeWork\Tech\Basics\05.StringLINQ-Dictionary\StringLINQ-Dictionary\CountLettersInString\obj\Debug\CountLettersInString.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\05.StringLINQ-Dictionary\StringLINQ-Dictionary\CountLettersInString\obj\Debug\CountLettersInString.pdb

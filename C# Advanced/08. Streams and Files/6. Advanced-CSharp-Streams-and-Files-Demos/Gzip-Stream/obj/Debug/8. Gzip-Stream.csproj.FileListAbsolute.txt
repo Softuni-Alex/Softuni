@@ -1,0 +1,5 @@
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Gzip-Stream\bin\Debug\Gzip-Stream.exe.config
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Gzip-Stream\bin\Debug\Gzip-Stream.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Gzip-Stream\bin\Debug\Gzip-Stream.pdb
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Gzip-Stream\obj\Debug\Gzip-Stream.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Gzip-Stream\obj\Debug\Gzip-Stream.pdb

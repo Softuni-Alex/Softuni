@@ -1,0 +1,8 @@
+D:\Coding\Softuni HomeWork\OOP\NameSpaces&Indexing&Static\Namespaces_Static\DistanceCalc\bin\Debug\DistanceCalc.exe.config
+D:\Coding\Softuni HomeWork\OOP\NameSpaces&Indexing&Static\Namespaces_Static\DistanceCalc\obj\Debug\DistanceCalc.csprojResolveAssemblyReference.cache
+D:\Coding\Softuni HomeWork\OOP\NameSpaces&Indexing&Static\Namespaces_Static\DistanceCalc\bin\Debug\DistanceCalc.exe
+D:\Coding\Softuni HomeWork\OOP\NameSpaces&Indexing&Static\Namespaces_Static\DistanceCalc\bin\Debug\DistanceCalc.pdb
+D:\Coding\Softuni HomeWork\OOP\NameSpaces&Indexing&Static\Namespaces_Static\DistanceCalc\bin\Debug\Namespaces_Static.exe
+D:\Coding\Softuni HomeWork\OOP\NameSpaces&Indexing&Static\Namespaces_Static\DistanceCalc\bin\Debug\Namespaces_Static.pdb
+D:\Coding\Softuni HomeWork\OOP\NameSpaces&Indexing&Static\Namespaces_Static\DistanceCalc\obj\Debug\DistanceCalc.exe
+D:\Coding\Softuni HomeWork\OOP\NameSpaces&Indexing&Static\Namespaces_Static\DistanceCalc\obj\Debug\DistanceCalc.pdb

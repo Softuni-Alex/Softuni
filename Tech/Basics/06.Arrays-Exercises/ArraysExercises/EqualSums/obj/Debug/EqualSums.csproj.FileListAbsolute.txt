@@ -1,0 +1,6 @@
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\EqualSums\bin\Debug\EqualSums.exe.config
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\EqualSums\bin\Debug\EqualSums.exe
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\EqualSums\bin\Debug\EqualSums.pdb
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\EqualSums\obj\Debug\EqualSums.csprojResolveAssemblyReference.cache
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\EqualSums\obj\Debug\EqualSums.exe
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\EqualSums\obj\Debug\EqualSums.pdb

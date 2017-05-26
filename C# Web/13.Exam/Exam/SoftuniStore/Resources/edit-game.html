@@ -1,0 +1,68 @@
+<main class="col-4 offset-4 text-center">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="text-center"><h1 class="display-3">Edit Game</h1></div>
+                <br/>
+                <form method="post" id="new-game-form">
+                    <input type="type" hidden="hidden" value="2" />
+
+                    <div class="form-group row">
+                        <label for="name" class="form-control-label">Title</label>
+                        <input type="text" maxlength="100" minlength="4" id="name" class="form-control"
+                               placeholder="Enter Game Name" value="Serious Sam 3: BFE"/>
+                    </div>
+
+                    <div class="form-group row">
+                        <label for="desc" class="form-control-label">Description</label>
+                        <textarea id="desc" class="form-control"
+                                  placeholder="Enter Game Description" minlength="30">Serious Sam 3: BFE is a first-person action shooter, a glorious throwback to the golden age of first-person shooters where men were men, cover was for amateurs and pulling the trigger made things go boom.
+Serving as a prequel to the original indie and Game of the Year sensation, Serious Sam: The First Encounter, Serious Sam 3 takes place during the Earth’s final struggle against Mental’s invading legions of beasts and mercenaries.</textarea>
+                    </div>
+
+                    <div class="form-group row">
+                        <label for="thumbnail" class="form-control-label">Thumbnail</label>
+                        <input type="url" id="thumbnail" class="form-control"
+                               placeholder="Enter URL to Image"
+                               value="https://upload.wikimedia.org/wikipedia/en/3/3f/Serious_Sam_3_cover.jpg"/>
+                    </div>
+
+                    <div class="form-group row">
+                        <label for="price" class="form-control-label">Price</label>
+                        <div class="input-group">
+
+                            <input type="number" step="0.01" min="0" id="price" class="form-control"
+                                   placeholder="Enter Price" value="22.00"/>
+                            <span class="input-group-addon"
+                                  id="addon2">&euro;</span>
+                        </div>
+                    </div>
+
+                    <div class="form-group row">
+                        <label for="size" class="form-control-label">Size</label>
+                        <div class="input-group">
+
+                            <input type="number" step="0.1" min="0" id="size" class="form-control"
+                                   placeholder="Enter Size" value="10.10"/>
+                            <span class="input-group-addon"
+                                  id="addon3">GB</span>
+                        </div>
+                    </div>
+
+                    <div class="form-group row">
+                        <label for="video" class="form-control-label">YouTube Video URL</label>
+                        <div class="input-group">
+                            <span class="input-group-addon"
+                                  id="addon">https://www.youtube.com/watch?v=</span>
+                            <input type="text" class="form-control" id="video"
+                                   value="jzg9aEb2vuY"/>
+                        </div>
+                    </div>
+                    <input type="submit" id="btn-edit-game" class="btn btn-outline-warning btn-lg btn-block"
+                           value="Edit Game"/>
+                </form>
+                <br/>
+            </div>
+        </div>
+    </div>
+</main>

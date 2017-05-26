@@ -1,0 +1,10 @@
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\HotelDatabase\bin\Debug\HotelDatabase.exe.config
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\HotelDatabase\bin\Debug\HotelDatabase.exe
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\HotelDatabase\bin\Debug\HotelDatabase.pdb
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\HotelDatabase\bin\Debug\EntityFramework.dll
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\HotelDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\HotelDatabase\bin\Debug\EntityFramework.xml
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\HotelDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\HotelDatabase\obj\Debug\HotelDatabase.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\HotelDatabase\obj\Debug\HotelDatabase.exe
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\HotelDatabase\obj\Debug\HotelDatabase.pdb

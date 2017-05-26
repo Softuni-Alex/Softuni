@@ -1,0 +1,6 @@
+D:\Coding\Tech\Basics\12.OldExam-LikeFirstExamPrep\OldExam-LikeFirstExamPrep\SweetDessert\bin\Debug\SweetDessert.exe.config
+D:\Coding\Tech\Basics\12.OldExam-LikeFirstExamPrep\OldExam-LikeFirstExamPrep\SweetDessert\bin\Debug\SweetDessert.exe
+D:\Coding\Tech\Basics\12.OldExam-LikeFirstExamPrep\OldExam-LikeFirstExamPrep\SweetDessert\bin\Debug\SweetDessert.pdb
+D:\Coding\Tech\Basics\12.OldExam-LikeFirstExamPrep\OldExam-LikeFirstExamPrep\SweetDessert\obj\Debug\SweetDessert.csprojResolveAssemblyReference.cache
+D:\Coding\Tech\Basics\12.OldExam-LikeFirstExamPrep\OldExam-LikeFirstExamPrep\SweetDessert\obj\Debug\SweetDessert.exe
+D:\Coding\Tech\Basics\12.OldExam-LikeFirstExamPrep\OldExam-LikeFirstExamPrep\SweetDessert\obj\Debug\SweetDessert.pdb

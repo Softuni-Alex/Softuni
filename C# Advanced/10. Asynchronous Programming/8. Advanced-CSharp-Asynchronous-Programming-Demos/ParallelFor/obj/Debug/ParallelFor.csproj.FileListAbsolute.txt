@@ -1,0 +1,4 @@
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ParallelFor\obj\Debug\ParallelFor.exe
+C:\SVN\csharp-advanced\May-2015\8. Advanced-CSharp-Asynchronous-Programming-Demos\ParallelFor\obj\Debug\ParallelFor.pdb
+D:\Coding\C# Advanced\10. Asynchronous Programming\8. Advanced-CSharp-Asynchronous-Programming-Demos\ParallelFor\obj\Debug\ParallelFor.exe
+D:\Coding\C# Advanced\10. Asynchronous Programming\8. Advanced-CSharp-Asynchronous-Programming-Demos\ParallelFor\obj\Debug\ParallelFor.pdb

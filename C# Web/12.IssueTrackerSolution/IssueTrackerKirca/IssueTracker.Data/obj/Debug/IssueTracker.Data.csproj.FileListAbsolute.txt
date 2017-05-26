@@ -1,0 +1,12 @@
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\10. Issue-Tracker\Issue-Tracker-Solution\IssueTracker.Data\bin\Debug\IssueTracker.Data.dll.config
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\10. Issue-Tracker\Issue-Tracker-Solution\IssueTracker.Data\bin\Debug\IssueTracker.Data.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\10. Issue-Tracker\Issue-Tracker-Solution\IssueTracker.Data\bin\Debug\IssueTracker.Data.pdb
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\10. Issue-Tracker\Issue-Tracker-Solution\IssueTracker.Data\bin\Debug\EntityFramework.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\10. Issue-Tracker\Issue-Tracker-Solution\IssueTracker.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\10. Issue-Tracker\Issue-Tracker-Solution\IssueTracker.Data\bin\Debug\IssueTracker.Models.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\10. Issue-Tracker\Issue-Tracker-Solution\IssueTracker.Data\bin\Debug\IssueTracker.Models.pdb
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\10. Issue-Tracker\Issue-Tracker-Solution\IssueTracker.Data\bin\Debug\EntityFramework.xml
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\10. Issue-Tracker\Issue-Tracker-Solution\IssueTracker.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\10. Issue-Tracker\Issue-Tracker-Solution\IssueTracker.Data\obj\Debug\IssueTracker.Data.csprojResolveAssemblyReference.cache
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\10. Issue-Tracker\Issue-Tracker-Solution\IssueTracker.Data\obj\Debug\IssueTracker.Data.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\10. Issue-Tracker\Issue-Tracker-Solution\IssueTracker.Data\obj\Debug\IssueTracker.Data.pdb

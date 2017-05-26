@@ -1,0 +1,6 @@
+D:\Coding\Softuni HomeWork\OOP\Encapsulation and Polymorphism\HomeWork_Encapsulation_Poly\Shapes\bin\Debug\Shapes.exe.config
+D:\Coding\Softuni HomeWork\OOP\Encapsulation and Polymorphism\HomeWork_Encapsulation_Poly\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+D:\Coding\Softuni HomeWork\OOP\Encapsulation and Polymorphism\HomeWork_Encapsulation_Poly\Shapes\bin\Debug\Shapes.exe
+D:\Coding\Softuni HomeWork\OOP\Encapsulation and Polymorphism\HomeWork_Encapsulation_Poly\Shapes\bin\Debug\Shapes.pdb
+D:\Coding\Softuni HomeWork\OOP\Encapsulation and Polymorphism\HomeWork_Encapsulation_Poly\Shapes\obj\Debug\Shapes.exe
+D:\Coding\Softuni HomeWork\OOP\Encapsulation and Polymorphism\HomeWork_Encapsulation_Poly\Shapes\obj\Debug\Shapes.pdb

@@ -1,0 +1,5 @@
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\HourglassSum\bin\Debug\HourglassSum.exe.config
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\HourglassSum\bin\Debug\HourglassSum.exe
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\HourglassSum\bin\Debug\HourglassSum.pdb
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\HourglassSum\obj\Debug\HourglassSum.exe
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\HourglassSum\obj\Debug\HourglassSum.pdb

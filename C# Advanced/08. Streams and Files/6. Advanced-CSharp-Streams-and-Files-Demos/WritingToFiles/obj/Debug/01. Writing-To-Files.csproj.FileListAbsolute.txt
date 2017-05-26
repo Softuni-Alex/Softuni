@@ -1,0 +1,15 @@
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\WritingToFiles\bin\Debug\WritingToFiles.exe.config
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\WritingToFiles\obj\Debug\WritingToFiles.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\WritingToFiles\obj\Debug\WritingToFiles.pdb
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\WritingToFiles\bin\Debug\WritingToFiles.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\WritingToFiles\bin\Debug\WritingToFiles.pdb
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\WritingToFiles\obj\Debug\01. Writing-To-Files.csprojResolveAssemblyReference.cache
+C:\SVN\csharp-advanced\May-2015\6. Advanced-CSharp-Streams-and-Files-Demos\WritingToFiles\bin\Debug\WritingToFiles.exe.config
+C:\SVN\csharp-advanced\May-2015\6. Advanced-CSharp-Streams-and-Files-Demos\WritingToFiles\obj\Debug\WritingToFiles.exe
+C:\SVN\csharp-advanced\May-2015\6. Advanced-CSharp-Streams-and-Files-Demos\WritingToFiles\obj\Debug\WritingToFiles.pdb
+D:\Coding\C# Advanced\08. Streams and Files\6. Advanced-CSharp-Streams-and-Files-Demos\WritingToFiles\bin\Debug\WritingToFiles.exe.config
+D:\Coding\C# Advanced\08. Streams and Files\6. Advanced-CSharp-Streams-and-Files-Demos\WritingToFiles\obj\Debug\WritingToFiles.exe
+D:\Coding\C# Advanced\08. Streams and Files\6. Advanced-CSharp-Streams-and-Files-Demos\WritingToFiles\obj\Debug\WritingToFiles.pdb
+D:\Coding\C# Advanced\08. Streams and Files\6. Advanced-CSharp-Streams-and-Files-Demos\WritingToFiles\bin\Debug\WritingToFiles.exe
+D:\Coding\C# Advanced\08. Streams and Files\6. Advanced-CSharp-Streams-and-Files-Demos\WritingToFiles\bin\Debug\WritingToFiles.pdb
+D:\Coding\C# Advanced\08. Streams and Files\6. Advanced-CSharp-Streams-and-Files-Demos\WritingToFiles\obj\Debug\01. Writing-To-Files.csprojResolveAssemblyReference.cache

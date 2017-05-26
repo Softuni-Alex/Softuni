@@ -1,0 +1,10 @@
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst\PetShopDB\PetShopDB\bin\Debug\PetShopDB.exe.config
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst\PetShopDB\PetShopDB\bin\Debug\PetShopDB.exe
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst\PetShopDB\PetShopDB\bin\Debug\PetShopDB.pdb
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst\PetShopDB\PetShopDB\bin\Debug\EntityFramework.dll
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst\PetShopDB\PetShopDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst\PetShopDB\PetShopDB\bin\Debug\EntityFramework.xml
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst\PetShopDB\PetShopDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst\PetShopDB\PetShopDB\obj\Debug\PetShopDB.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst\PetShopDB\PetShopDB\obj\Debug\PetShopDB.exe
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst\PetShopDB\PetShopDB\obj\Debug\PetShopDB.pdb

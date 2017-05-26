@@ -1,0 +1,5 @@
+D:\Coding\Softuni HomeWork\OOP\Exception Handling\HomeWork_Exception_Handling\EnterNumbers\bin\Debug\EnterNumbers.exe.config
+D:\Coding\Softuni HomeWork\OOP\Exception Handling\HomeWork_Exception_Handling\EnterNumbers\bin\Debug\EnterNumbers.exe
+D:\Coding\Softuni HomeWork\OOP\Exception Handling\HomeWork_Exception_Handling\EnterNumbers\bin\Debug\EnterNumbers.pdb
+D:\Coding\Softuni HomeWork\OOP\Exception Handling\HomeWork_Exception_Handling\EnterNumbers\obj\Debug\EnterNumbers.exe
+D:\Coding\Softuni HomeWork\OOP\Exception Handling\HomeWork_Exception_Handling\EnterNumbers\obj\Debug\EnterNumbers.pdb

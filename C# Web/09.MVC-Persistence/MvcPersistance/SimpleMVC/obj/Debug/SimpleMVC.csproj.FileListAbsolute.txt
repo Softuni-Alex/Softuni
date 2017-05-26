@@ -1,0 +1,29 @@
+C:\Users\stil2\Desktop\MVC-SharpStore-Skeleton\MVC-SharpStore-Skeleton\SimpleMVC\obj\Debug\SimpleMVC.csprojResolveAssemblyReference.cache
+C:\Users\stil2\Desktop\MVC-SharpStore-Skeleton\MVC-SharpStore-Skeleton\SimpleMVC\bin\Debug\Resources\Pages\404.html
+C:\Users\stil2\Desktop\MVC-SharpStore-Skeleton\MVC-SharpStore-Skeleton\SimpleMVC\bin\Debug\Resources\Pages\500.html
+C:\Users\stil2\Desktop\MVC-SharpStore-Skeleton\MVC-SharpStore-Skeleton\SimpleMVC\bin\Debug\SimpleMVC.dll
+C:\Users\stil2\Desktop\MVC-SharpStore-Skeleton\MVC-SharpStore-Skeleton\SimpleMVC\bin\Debug\SimpleMVC.pdb
+C:\Users\stil2\Desktop\MVC-SharpStore-Skeleton\MVC-SharpStore-Skeleton\SimpleMVC\bin\Debug\SimpleHttpServer.dll
+C:\Users\stil2\Desktop\MVC-SharpStore-Skeleton\MVC-SharpStore-Skeleton\SimpleMVC\bin\Debug\SimpleHttpServer.pdb
+C:\Users\stil2\Desktop\MVC-SharpStore-Skeleton\MVC-SharpStore-Skeleton\SimpleMVC\bin\Debug\SimpleHttpServer.dll.config
+C:\Users\stil2\Desktop\MVC-SharpStore-Skeleton\MVC-SharpStore-Skeleton\SimpleMVC\obj\Debug\SimpleMVC.dll
+C:\Users\stil2\Desktop\MVC-SharpStore-Skeleton\MVC-SharpStore-Skeleton\SimpleMVC\obj\Debug\SimpleMVC.pdb
+E:\In Progress\06.-Pizzamore-With-MVC\SimpleMVC\bin\Debug\Resources\Pages\404.html
+E:\In Progress\06.-Pizzamore-With-MVC\SimpleMVC\bin\Debug\Resources\Pages\500.html
+E:\In Progress\06.-Pizzamore-With-MVC\SimpleMVC\bin\Debug\SimpleMVC.dll
+E:\In Progress\06.-Pizzamore-With-MVC\SimpleMVC\bin\Debug\SimpleMVC.pdb
+E:\In Progress\06.-Pizzamore-With-MVC\SimpleMVC\bin\Debug\SimpleHttpServer.dll
+E:\In Progress\06.-Pizzamore-With-MVC\SimpleMVC\bin\Debug\SimpleHttpServer.pdb
+E:\In Progress\06.-Pizzamore-With-MVC\SimpleMVC\bin\Debug\SimpleHttpServer.dll.config
+E:\In Progress\06.-Pizzamore-With-MVC\SimpleMVC\obj\Debug\SimpleMVC.csprojResolveAssemblyReference.cache
+E:\In Progress\06.-Pizzamore-With-MVC\SimpleMVC\obj\Debug\SimpleMVC.dll
+E:\In Progress\06.-Pizzamore-With-MVC\SimpleMVC\obj\Debug\SimpleMVC.pdb
+C:\Alex\Softuni\C# Web\09.MVC-Persistence\MvcPersistance\SimpleMVC\bin\Debug\Resources\Pages\404.html
+C:\Alex\Softuni\C# Web\09.MVC-Persistence\MvcPersistance\SimpleMVC\bin\Debug\Resources\Pages\500.html
+C:\Alex\Softuni\C# Web\09.MVC-Persistence\MvcPersistance\SimpleMVC\bin\Debug\SimpleMVC.dll
+C:\Alex\Softuni\C# Web\09.MVC-Persistence\MvcPersistance\SimpleMVC\bin\Debug\SimpleMVC.pdb
+C:\Alex\Softuni\C# Web\09.MVC-Persistence\MvcPersistance\SimpleMVC\bin\Debug\SimpleHttpServer.dll
+C:\Alex\Softuni\C# Web\09.MVC-Persistence\MvcPersistance\SimpleMVC\bin\Debug\SimpleHttpServer.pdb
+C:\Alex\Softuni\C# Web\09.MVC-Persistence\MvcPersistance\SimpleMVC\obj\Debug\SimpleMVC.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni\C# Web\09.MVC-Persistence\MvcPersistance\SimpleMVC\obj\Debug\SimpleMVC.dll
+C:\Alex\Softuni\C# Web\09.MVC-Persistence\MvcPersistance\SimpleMVC\obj\Debug\SimpleMVC.pdb

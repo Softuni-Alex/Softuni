@@ -1,0 +1,5 @@
+D:\Coding\Softuni HomeWork\Tech\Basics\03.Arrays\Arrays\ReverseStringArray\bin\Debug\ReverseStringArray.exe.config
+D:\Coding\Softuni HomeWork\Tech\Basics\03.Arrays\Arrays\ReverseStringArray\bin\Debug\ReverseStringArray.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\03.Arrays\Arrays\ReverseStringArray\bin\Debug\ReverseStringArray.pdb
+D:\Coding\Softuni HomeWork\Tech\Basics\03.Arrays\Arrays\ReverseStringArray\obj\Debug\ReverseStringArray.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\03.Arrays\Arrays\ReverseStringArray\obj\Debug\ReverseStringArray.pdb

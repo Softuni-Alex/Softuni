@@ -1,0 +1,5 @@
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\ChangeToUpperCase\bin\Debug\ChangeToUpperCase.exe.config
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\ChangeToUpperCase\bin\Debug\ChangeToUpperCase.exe
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\ChangeToUpperCase\bin\Debug\ChangeToUpperCase.pdb
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\ChangeToUpperCase\obj\Debug\ChangeToUpperCase.exe
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\ChangeToUpperCase\obj\Debug\ChangeToUpperCase.pdb

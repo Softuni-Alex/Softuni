@@ -1,0 +1,5 @@
+c:\users\jamal\documents\visual studio 2015\Projects\mUnit\mUnit.Core\bin\Debug\mUnit.Core.dll
+c:\users\jamal\documents\visual studio 2015\Projects\mUnit\mUnit.Core\bin\Debug\mUnit.Core.pdb
+c:\users\jamal\documents\visual studio 2015\Projects\mUnit\mUnit.Core\obj\Debug\mUnit.Core.dll
+c:\users\jamal\documents\visual studio 2015\Projects\mUnit\mUnit.Core\obj\Debug\mUnit.Core.pdb
+c:\users\jamal\documents\visual studio 2015\Projects\mUnit\mUnit.Core\obj\Debug\mUnit.Core.csprojResolveAssemblyReference.cache

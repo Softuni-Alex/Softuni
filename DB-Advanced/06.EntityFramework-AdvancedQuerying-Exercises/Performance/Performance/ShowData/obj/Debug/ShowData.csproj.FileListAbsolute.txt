@@ -1,0 +1,10 @@
+C:\Alex\Softuni\DB-Advanced\06.EntityFramework-AdvancedQuerying-Exercises\Performance\Performance\ShowData\bin\Debug\ShowData.exe.config
+C:\Alex\Softuni\DB-Advanced\06.EntityFramework-AdvancedQuerying-Exercises\Performance\Performance\ShowData\bin\Debug\ShowData.exe
+C:\Alex\Softuni\DB-Advanced\06.EntityFramework-AdvancedQuerying-Exercises\Performance\Performance\ShowData\bin\Debug\ShowData.pdb
+C:\Alex\Softuni\DB-Advanced\06.EntityFramework-AdvancedQuerying-Exercises\Performance\Performance\ShowData\bin\Debug\EntityFramework.dll
+C:\Alex\Softuni\DB-Advanced\06.EntityFramework-AdvancedQuerying-Exercises\Performance\Performance\ShowData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Alex\Softuni\DB-Advanced\06.EntityFramework-AdvancedQuerying-Exercises\Performance\Performance\ShowData\bin\Debug\EntityFramework.xml
+C:\Alex\Softuni\DB-Advanced\06.EntityFramework-AdvancedQuerying-Exercises\Performance\Performance\ShowData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Alex\Softuni\DB-Advanced\06.EntityFramework-AdvancedQuerying-Exercises\Performance\Performance\ShowData\obj\Debug\ShowData.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni\DB-Advanced\06.EntityFramework-AdvancedQuerying-Exercises\Performance\Performance\ShowData\obj\Debug\ShowData.exe
+C:\Alex\Softuni\DB-Advanced\06.EntityFramework-AdvancedQuerying-Exercises\Performance\Performance\ShowData\obj\Debug\ShowData.pdb

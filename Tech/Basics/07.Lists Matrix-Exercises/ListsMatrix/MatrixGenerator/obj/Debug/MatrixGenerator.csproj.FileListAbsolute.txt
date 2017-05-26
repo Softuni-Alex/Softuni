@@ -1,0 +1,6 @@
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\MatrixGenerator\bin\Debug\MatrixGenerator.exe.config
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\MatrixGenerator\bin\Debug\MatrixGenerator.exe
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\MatrixGenerator\bin\Debug\MatrixGenerator.pdb
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\MatrixGenerator\obj\Debug\MatrixGenerator.csprojResolveAssemblyReference.cache
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\MatrixGenerator\obj\Debug\MatrixGenerator.exe
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\MatrixGenerator\obj\Debug\MatrixGenerator.pdb

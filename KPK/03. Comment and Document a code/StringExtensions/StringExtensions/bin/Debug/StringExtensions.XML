@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StringExtensions</name>
+    </assembly>
+    <members>
+        <member name="M:StringExtensions.StringExtensions.ToMd5Hash(System.String)">
+            <summary>
+            Cryptography and hash algorithm
+            </summary>
+            <param name="input">The input.</param>
+            <returns>System.String.</returns>
+        </member>
+        <member name="M:StringExtensions.StringExtensions.ToBoolean(System.String)">
+            <summary>
+            Takes the input which contains value
+            </summary>
+            <param name="input">The input.</param>
+            <returns><c>true</c> if XXXX, <c>false</c> otherwise.</returns>
+        </member>
+    </members>
+</doc>

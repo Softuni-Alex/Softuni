@@ -1,0 +1,5 @@
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\CensorYourEmail\bin\Debug\CensorYourEmail.exe.config
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\CensorYourEmail\bin\Debug\CensorYourEmail.exe
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\CensorYourEmail\bin\Debug\CensorYourEmail.pdb
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\CensorYourEmail\obj\Debug\CensorYourEmail.exe
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\CensorYourEmail\obj\Debug\CensorYourEmail.pdb

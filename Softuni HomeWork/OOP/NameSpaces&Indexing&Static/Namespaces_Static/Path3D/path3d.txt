@@ -1,0 +1,30 @@
+Point 1 coordinates: 0, 0, 0
+Point 2 coordinates: 0, 0, 0
+Point 3 coordinates: 0, 0, 0
+Distance between points: 0
+
+Point 1 coordinates: 0, 0, 0
+Point 2 coordinates: 0, 0, 0
+Distance between points: 0
+
+Point 1 coordinates: 0, 0, 0
+Point 2 coordinates: 0, 0, 0
+Distance between points: 0
+
+Distance between points: 0
+
+Point 1 coordinates: 0, 0, 0
+Point 2 coordinates: 0, 0, 0
+Point 3 coordinates: 0, 0, 0
+Distance between points: 0
+
+Point 1 coordinates: 0, 0, 0
+Point 2 coordinates: 0, 0, 0
+Distance between points: 0
+
+Point 1 coordinates: 0, 0, 0
+Point 2 coordinates: 0, 0, 0
+Distance between points: 0
+
+Distance between points: 0
+

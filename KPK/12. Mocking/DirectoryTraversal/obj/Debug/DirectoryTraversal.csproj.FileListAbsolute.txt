@@ -1,0 +1,6 @@
+D:\Coding\KPK\12. Mocking\DirectoryTraversal\bin\Debug\DirectoryTraversal.exe.config
+D:\Coding\KPK\12. Mocking\DirectoryTraversal\bin\Debug\DirectoryTraversal.exe
+D:\Coding\KPK\12. Mocking\DirectoryTraversal\bin\Debug\DirectoryTraversal.pdb
+D:\Coding\KPK\12. Mocking\DirectoryTraversal\obj\Debug\DirectoryTraversal.csprojResolveAssemblyReference.cache
+D:\Coding\KPK\12. Mocking\DirectoryTraversal\obj\Debug\DirectoryTraversal.exe
+D:\Coding\KPK\12. Mocking\DirectoryTraversal\obj\Debug\DirectoryTraversal.pdb

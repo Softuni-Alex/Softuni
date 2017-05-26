@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<anomalies>
+  <anomaly id="1" orgin-planet="Voyager-10" teleport-planet="Kepler-1">
+    <victims>
+      <victim name="MassDefect.Models.Models.Person" />
+      <victim name="MassDefect.Models.Models.Person" />
+      <victim name="MassDefect.Models.Models.Person" />
+    </victims>
+  </anomaly>
+  <anomaly id="2" orgin-planet="Alpha-N20" teleport-planet="Kepler-3">
+    <victims>
+      <victim name="MassDefect.Models.Models.Person" />
+    </victims>
+  </anomaly>
+  <anomaly id="3" orgin-planet="Kepler-6" teleport-planet="Kepler-1">
+    <victims>
+      <victim name="MassDefect.Models.Models.Person" />
+    </victims>
+  </anomaly>
+  <anomaly id="4" orgin-planet="Kepler-3" teleport-planet="Kepler-6">
+    <victims>
+      <victim name="MassDefect.Models.Models.Person" />
+    </victims>
+  </anomaly>
+  <anomaly id="5" orgin-planet="Indigo-3" teleport-planet="Voyager-10">
+    <victims>
+      <victim name="MassDefect.Models.Models.Person" />
+    </victims>
+  </anomaly>
+  <anomaly id="6" orgin-planet="Indigo-3" teleport-planet="Alpha-N20">
+    <victims>
+      <victim name="MassDefect.Models.Models.Person" />
+    </victims>
+  </anomaly>
+  <anomaly id="7" orgin-planet="Indigo-3" teleport-planet="Voyager-10">
+    <victims>
+      <victim name="MassDefect.Models.Models.Person" />
+    </victims>
+  </anomaly>
+  <anomaly id="8" orgin-planet="Kepler-3" teleport-planet="Kepler-1">
+    <victims>
+      <victim name="MassDefect.Models.Models.Person" />
+      <victim name="MassDefect.Models.Models.Person" />
+    </victims>
+  </anomaly>
+  <anomaly id="9" orgin-planet="Voyager-11" teleport-planet="Alpha-N20">
+    <victims>
+      <victim name="MassDefect.Models.Models.Person" />
+    </victims>
+  </anomaly>
+  <anomaly id="10" orgin-planet="Kepler-3" teleport-planet="Kepler-6">
+    <victims>
+      <victim name="MassDefect.Models.Models.Person" />
+      <victim name="MassDefect.Models.Models.Person" />
+    </victims>
+  </anomaly>
+  <anomaly id="11" orgin-planet="Alpha-N20" teleport-planet="Indigo-3">
+    <victims>
+      <victim name="MassDefect.Models.Models.Person" />
+    </victims>
+  </anomaly>
+  <anomaly id="12" orgin-planet="Alpha-N20" teleport-planet="Kepler-3">
+    <victims />
+  </anomaly>
+  <anomaly id="13" orgin-planet="Alpha-N20" teleport-planet="Indigo-3">
+    <victims>
+      <victim name="MassDefect.Models.Models.Person" />
+    </victims>
+  </anomaly>
+  <anomaly id="14" orgin-planet="Kepler-1" teleport-planet="Alpha-N20">
+    <victims>
+      <victim name="MassDefect.Models.Models.Person" />
+      <victim name="MassDefect.Models.Models.Person" />
+      <victim name="MassDefect.Models.Models.Person" />
+      <victim name="MassDefect.Models.Models.Person" />
+      <victim name="MassDefect.Models.Models.Person" />
+    </victims>
+  </anomaly>
+  <anomaly id="15" orgin-planet="Alpha-N20" teleport-planet="Kepler-1">
+    <victims>
+      <victim name="MassDefect.Models.Models.Person" />
+      <victim name="MassDefect.Models.Models.Person" />
+    </victims>
+  </anomaly>
+</anomalies>

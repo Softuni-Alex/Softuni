@@ -1,0 +1,5 @@
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.exe.config
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.exe
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.pdb
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.exe
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.pdb

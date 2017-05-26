@@ -1,0 +1,6 @@
+D:\Coding\SoftUni\Delegates and Events\DelegatesAndEventsExercises\Func\bin\Debug\Func.exe.config
+D:\Coding\SoftUni\Delegates and Events\DelegatesAndEventsExercises\Func\bin\Debug\Func.exe
+D:\Coding\SoftUni\Delegates and Events\DelegatesAndEventsExercises\Func\bin\Debug\Func.pdb
+D:\Coding\SoftUni\Delegates and Events\DelegatesAndEventsExercises\Func\obj\Debug\Func.csprojResolveAssemblyReference.cache
+D:\Coding\SoftUni\Delegates and Events\DelegatesAndEventsExercises\Func\obj\Debug\Func.exe
+D:\Coding\SoftUni\Delegates and Events\DelegatesAndEventsExercises\Func\obj\Debug\Func.pdb

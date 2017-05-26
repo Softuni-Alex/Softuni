@@ -1,0 +1,6 @@
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\IndexOfLetters\bin\Debug\IndexOfLetters.exe.config
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\IndexOfLetters\bin\Debug\IndexOfLetters.exe
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\IndexOfLetters\bin\Debug\IndexOfLetters.pdb
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\IndexOfLetters\obj\Debug\IndexOfLetters.exe
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\IndexOfLetters\obj\Debug\IndexOfLetters.pdb
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\IndexOfLetters\obj\Debug\IndexOfLetters.csprojResolveAssemblyReference.cache

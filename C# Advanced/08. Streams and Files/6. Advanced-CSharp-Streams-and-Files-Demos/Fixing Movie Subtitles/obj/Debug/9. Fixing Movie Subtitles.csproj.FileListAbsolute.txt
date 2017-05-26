@@ -1,0 +1,6 @@
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Fixing Movie Subtitles\bin\Debug\Fixing Movie Subtitles.exe.config
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Fixing Movie Subtitles\bin\Debug\Fixing Movie Subtitles.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Fixing Movie Subtitles\bin\Debug\Fixing Movie Subtitles.pdb
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Fixing Movie Subtitles\obj\Debug\9. Fixing Movie Subtitles.csprojResolveAssemblyReference.cache
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Fixing Movie Subtitles\obj\Debug\Fixing Movie Subtitles.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Fixing Movie Subtitles\obj\Debug\Fixing Movie Subtitles.pdb

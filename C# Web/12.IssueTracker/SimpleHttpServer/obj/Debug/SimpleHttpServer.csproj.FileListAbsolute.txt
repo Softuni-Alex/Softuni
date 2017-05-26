@@ -1,0 +1,20 @@
+C:\Users\stil2\Desktop\MVC-SharpStore-Skeleton\MVC-SharpStore-Skeleton\SimpleHttpServer\bin\Debug\Resources\Pages\404.html
+C:\Users\stil2\Desktop\MVC-SharpStore-Skeleton\MVC-SharpStore-Skeleton\SimpleHttpServer\bin\Debug\Resources\Pages\500.html
+C:\Users\stil2\Desktop\MVC-SharpStore-Skeleton\MVC-SharpStore-Skeleton\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll.config
+C:\Users\stil2\Desktop\MVC-SharpStore-Skeleton\MVC-SharpStore-Skeleton\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll
+C:\Users\stil2\Desktop\MVC-SharpStore-Skeleton\MVC-SharpStore-Skeleton\SimpleHttpServer\bin\Debug\SimpleHttpServer.pdb
+C:\Users\stil2\Desktop\MVC-SharpStore-Skeleton\MVC-SharpStore-Skeleton\SimpleHttpServer\obj\Debug\SimpleHttpServer.csprojResolveAssemblyReference.cache
+C:\Users\stil2\Desktop\MVC-SharpStore-Skeleton\MVC-SharpStore-Skeleton\SimpleHttpServer\obj\Debug\SimpleHttpServer.dll
+C:\Users\stil2\Desktop\MVC-SharpStore-Skeleton\MVC-SharpStore-Skeleton\SimpleHttpServer\obj\Debug\SimpleHttpServer.pdb
+C:\Alex\Softuni\C# Web\12.IssueTracker\SimpleHttpServer\bin\Debug\Resources\Pages\404.html
+C:\Alex\Softuni\C# Web\12.IssueTracker\SimpleHttpServer\bin\Debug\Resources\Pages\500.html
+C:\Alex\Softuni\C# Web\12.IssueTracker\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll.config
+C:\Alex\Softuni\C# Web\12.IssueTracker\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll
+C:\Alex\Softuni\C# Web\12.IssueTracker\SimpleHttpServer\bin\Debug\SimpleHttpServer.pdb
+C:\Alex\Softuni\C# Web\12.IssueTracker\SimpleHttpServer\obj\Debug\SimpleHttpServer.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni\C# Web\12.IssueTracker\SimpleHttpServer\obj\Debug\SimpleHttpServer.dll
+C:\Alex\Softuni\C# Web\12.IssueTracker\SimpleHttpServer\obj\Debug\SimpleHttpServer.pdb
+C:\Alex\Softuni\C# Web\12.IssueTracker\SimpleHttpServer\bin\Debug\EntityFramework.dll
+C:\Alex\Softuni\C# Web\12.IssueTracker\SimpleHttpServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Alex\Softuni\C# Web\12.IssueTracker\SimpleHttpServer\bin\Debug\EntityFramework.xml
+C:\Alex\Softuni\C# Web\12.IssueTracker\SimpleHttpServer\bin\Debug\EntityFramework.SqlServer.xml

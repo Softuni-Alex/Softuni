@@ -1,0 +1,6 @@
+D:\Coding\KPK\13. Test Driven Development\TestDriven\TDD\bin\Debug\TDD.exe.config
+D:\Coding\KPK\13. Test Driven Development\TestDriven\TDD\obj\Debug\TDD.csprojResolveAssemblyReference.cache
+D:\Coding\KPK\13. Test Driven Development\TestDriven\TDD\bin\Debug\TDD.exe
+D:\Coding\KPK\13. Test Driven Development\TestDriven\TDD\bin\Debug\TDD.pdb
+D:\Coding\KPK\13. Test Driven Development\TestDriven\TDD\obj\Debug\TDD.exe
+D:\Coding\KPK\13. Test Driven Development\TestDriven\TDD\obj\Debug\TDD.pdb

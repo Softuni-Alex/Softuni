@@ -1,0 +1,6 @@
+D:\Coding\KPK\14. S.O.L.I.D\SolidHomeWork\SOLID\SOLID\bin\Debug\SOLID.exe.config
+D:\Coding\KPK\14. S.O.L.I.D\SolidHomeWork\SOLID\SOLID\obj\Debug\SOLID.csprojResolveAssemblyReference.cache
+D:\Coding\KPK\14. S.O.L.I.D\SolidHomeWork\SOLID\SOLID\bin\Debug\SOLID.exe
+D:\Coding\KPK\14. S.O.L.I.D\SolidHomeWork\SOLID\SOLID\bin\Debug\SOLID.pdb
+D:\Coding\KPK\14. S.O.L.I.D\SolidHomeWork\SOLID\SOLID\obj\Debug\SOLID.exe
+D:\Coding\KPK\14. S.O.L.I.D\SolidHomeWork\SOLID\SOLID\obj\Debug\SOLID.pdb

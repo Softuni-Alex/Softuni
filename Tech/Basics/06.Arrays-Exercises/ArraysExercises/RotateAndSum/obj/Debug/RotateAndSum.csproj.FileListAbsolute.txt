@@ -1,0 +1,5 @@
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\RotateAndSum\bin\Debug\RotateAndSum.exe.config
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\RotateAndSum\bin\Debug\RotateAndSum.exe
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\RotateAndSum\bin\Debug\RotateAndSum.pdb
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\RotateAndSum\obj\Debug\RotateAndSum.exe
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\RotateAndSum\obj\Debug\RotateAndSum.pdb

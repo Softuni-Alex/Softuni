@@ -1,0 +1,5 @@
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\CompareCharArrays\bin\Debug\CompareCharArrays.exe.config
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\CompareCharArrays\bin\Debug\CompareCharArrays.exe
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\CompareCharArrays\bin\Debug\CompareCharArrays.pdb
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\CompareCharArrays\obj\Debug\CompareCharArrays.exe
+D:\Coding\Tech\Basics\06.Arrays-Exercises\ArraysExercises\CompareCharArrays\obj\Debug\CompareCharArrays.pdb

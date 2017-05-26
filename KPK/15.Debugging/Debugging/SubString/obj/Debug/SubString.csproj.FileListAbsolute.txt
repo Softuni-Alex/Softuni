@@ -1,0 +1,6 @@
+D:\Coding\KPK\15.Debugging\Debugging\SubString\bin\Debug\SubString.exe.config
+D:\Coding\KPK\15.Debugging\Debugging\SubString\bin\Debug\SubString.exe
+D:\Coding\KPK\15.Debugging\Debugging\SubString\bin\Debug\SubString.pdb
+D:\Coding\KPK\15.Debugging\Debugging\SubString\obj\Debug\SubString.csprojResolveAssemblyReference.cache
+D:\Coding\KPK\15.Debugging\Debugging\SubString\obj\Debug\SubString.exe
+D:\Coding\KPK\15.Debugging\Debugging\SubString\obj\Debug\SubString.pdb

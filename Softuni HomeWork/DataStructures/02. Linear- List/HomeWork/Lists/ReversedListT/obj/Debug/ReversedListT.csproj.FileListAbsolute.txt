@@ -1,0 +1,6 @@
+D:\Coding\Softuni HomeWork\DataStructures\02. Linear- List\HomeWork\Lists\ReversedListT\bin\Debug\ReversedListT.exe.config
+D:\Coding\Softuni HomeWork\DataStructures\02. Linear- List\HomeWork\Lists\ReversedListT\bin\Debug\ReversedListT.exe
+D:\Coding\Softuni HomeWork\DataStructures\02. Linear- List\HomeWork\Lists\ReversedListT\bin\Debug\ReversedListT.pdb
+D:\Coding\Softuni HomeWork\DataStructures\02. Linear- List\HomeWork\Lists\ReversedListT\obj\Debug\ReversedListT.csprojResolveAssemblyReference.cache
+D:\Coding\Softuni HomeWork\DataStructures\02. Linear- List\HomeWork\Lists\ReversedListT\obj\Debug\ReversedListT.exe
+D:\Coding\Softuni HomeWork\DataStructures\02. Linear- List\HomeWork\Lists\ReversedListT\obj\Debug\ReversedListT.pdb

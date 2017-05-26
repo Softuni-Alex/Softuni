@@ -1,0 +1,6 @@
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\PrintAllMinionNames\bin\Debug\PrintAllMinionNames.exe.config
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\PrintAllMinionNames\bin\Debug\PrintAllMinionNames.exe
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\PrintAllMinionNames\bin\Debug\PrintAllMinionNames.pdb
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\PrintAllMinionNames\obj\Debug\PrintAllMinionNames.csprojResolveAssemblyReference.cache
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\PrintAllMinionNames\obj\Debug\PrintAllMinionNames.exe
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\PrintAllMinionNames\obj\Debug\PrintAllMinionNames.pdb

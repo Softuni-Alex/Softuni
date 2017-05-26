@@ -1,0 +1,5 @@
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\ReversetheWordsInASentence\bin\Debug\ReversetheWordsInASentence.exe.config
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\ReversetheWordsInASentence\bin\Debug\ReversetheWordsInASentence.exe
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\ReversetheWordsInASentence\bin\Debug\ReversetheWordsInASentence.pdb
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\ReversetheWordsInASentence\obj\Debug\ReversetheWordsInASentence.exe
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\ReversetheWordsInASentence\obj\Debug\ReversetheWordsInASentence.pdb

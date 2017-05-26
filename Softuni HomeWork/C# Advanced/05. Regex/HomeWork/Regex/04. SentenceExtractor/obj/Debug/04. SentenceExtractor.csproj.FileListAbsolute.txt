@@ -1,0 +1,5 @@
+D:\Coding\Softuni HomeWork\C# Advanced\05. Regex\HomeWork\Regex\04. SentenceExtractor\bin\Debug\_04.SentenceExtractor.exe.config
+D:\Coding\Softuni HomeWork\C# Advanced\05. Regex\HomeWork\Regex\04. SentenceExtractor\bin\Debug\_04.SentenceExtractor.exe
+D:\Coding\Softuni HomeWork\C# Advanced\05. Regex\HomeWork\Regex\04. SentenceExtractor\bin\Debug\_04.SentenceExtractor.pdb
+D:\Coding\Softuni HomeWork\C# Advanced\05. Regex\HomeWork\Regex\04. SentenceExtractor\obj\Debug\_04.SentenceExtractor.exe
+D:\Coding\Softuni HomeWork\C# Advanced\05. Regex\HomeWork\Regex\04. SentenceExtractor\obj\Debug\_04.SentenceExtractor.pdb

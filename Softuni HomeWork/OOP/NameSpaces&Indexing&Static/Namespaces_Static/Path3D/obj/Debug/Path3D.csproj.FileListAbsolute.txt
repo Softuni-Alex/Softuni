@@ -1,0 +1,10 @@
+D:\Coding\Softuni HomeWork\OOP\NameSpaces&Indexing&Static\Namespaces_Static\Path3D\bin\Debug\Path3D.exe.config
+D:\Coding\Softuni HomeWork\OOP\NameSpaces&Indexing&Static\Namespaces_Static\Path3D\obj\Debug\Path3D.csprojResolveAssemblyReference.cache
+D:\Coding\Softuni HomeWork\OOP\NameSpaces&Indexing&Static\Namespaces_Static\Path3D\bin\Debug\Path3D.exe
+D:\Coding\Softuni HomeWork\OOP\NameSpaces&Indexing&Static\Namespaces_Static\Path3D\bin\Debug\Path3D.pdb
+D:\Coding\Softuni HomeWork\OOP\NameSpaces&Indexing&Static\Namespaces_Static\Path3D\bin\Debug\DistanceCalc.exe
+D:\Coding\Softuni HomeWork\OOP\NameSpaces&Indexing&Static\Namespaces_Static\Path3D\bin\Debug\Namespaces_Static.exe
+D:\Coding\Softuni HomeWork\OOP\NameSpaces&Indexing&Static\Namespaces_Static\Path3D\bin\Debug\DistanceCalc.pdb
+D:\Coding\Softuni HomeWork\OOP\NameSpaces&Indexing&Static\Namespaces_Static\Path3D\bin\Debug\Namespaces_Static.pdb
+D:\Coding\Softuni HomeWork\OOP\NameSpaces&Indexing&Static\Namespaces_Static\Path3D\obj\Debug\Path3D.exe
+D:\Coding\Softuni HomeWork\OOP\NameSpaces&Indexing&Static\Namespaces_Static\Path3D\obj\Debug\Path3D.pdb

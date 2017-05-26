@@ -1,0 +1,5 @@
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\PrintPartOfASCIITable\bin\Debug\PrintPartOfASCIITable.exe.config
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\PrintPartOfASCIITable\bin\Debug\PrintPartOfASCIITable.exe
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\PrintPartOfASCIITable\bin\Debug\PrintPartOfASCIITable.pdb
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\PrintPartOfASCIITable\obj\Debug\PrintPartOfASCIITable.exe
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\PrintPartOfASCIITable\obj\Debug\PrintPartOfASCIITable.pdb

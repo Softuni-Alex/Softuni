@@ -1,0 +1,6 @@
+D:\Coding\Softuni HomeWork\Tech\Basics\06.ClassesAndObjects\ClassesAndObjects\DayOfWeek\bin\Debug\DayOfWeek.exe.config
+D:\Coding\Softuni HomeWork\Tech\Basics\06.ClassesAndObjects\ClassesAndObjects\DayOfWeek\bin\Debug\DayOfWeek.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\06.ClassesAndObjects\ClassesAndObjects\DayOfWeek\bin\Debug\DayOfWeek.pdb
+D:\Coding\Softuni HomeWork\Tech\Basics\06.ClassesAndObjects\ClassesAndObjects\DayOfWeek\obj\Debug\DayOfWeek.csprojResolveAssemblyReference.cache
+D:\Coding\Softuni HomeWork\Tech\Basics\06.ClassesAndObjects\ClassesAndObjects\DayOfWeek\obj\Debug\DayOfWeek.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\06.ClassesAndObjects\ClassesAndObjects\DayOfWeek\obj\Debug\DayOfWeek.pdb

@@ -1,0 +1,5 @@
+D:\Coding\C# Advanced\07. LINQ\Linq Demos\Annonymous-Types\bin\Debug\Annonymous-Types.exe
+D:\Coding\C# Advanced\07. LINQ\Linq Demos\Annonymous-Types\bin\Debug\Annonymous-Types.pdb
+D:\Coding\C# Advanced\07. LINQ\Linq Demos\Annonymous-Types\obj\x86\Debug\2. Annonymous-Types.csprojResolveAssemblyReference.cache
+D:\Coding\C# Advanced\07. LINQ\Linq Demos\Annonymous-Types\obj\x86\Debug\Annonymous-Types.exe
+D:\Coding\C# Advanced\07. LINQ\Linq Demos\Annonymous-Types\obj\x86\Debug\Annonymous-Types.pdb

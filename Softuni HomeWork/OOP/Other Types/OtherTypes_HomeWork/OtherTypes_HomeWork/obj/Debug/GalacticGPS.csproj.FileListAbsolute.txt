@@ -1,0 +1,6 @@
+D:\Coding\Softuni HomeWork\OOP\Other Types\OtherTypes_HomeWork\OtherTypes_HomeWork\bin\Debug\OtherTypes_HomeWork.exe.config
+D:\Coding\Softuni HomeWork\OOP\Other Types\OtherTypes_HomeWork\OtherTypes_HomeWork\bin\Debug\OtherTypes_HomeWork.exe
+D:\Coding\Softuni HomeWork\OOP\Other Types\OtherTypes_HomeWork\OtherTypes_HomeWork\bin\Debug\OtherTypes_HomeWork.pdb
+D:\Coding\Softuni HomeWork\OOP\Other Types\OtherTypes_HomeWork\OtherTypes_HomeWork\obj\Debug\GalacticGPS.csprojResolveAssemblyReference.cache
+D:\Coding\Softuni HomeWork\OOP\Other Types\OtherTypes_HomeWork\OtherTypes_HomeWork\obj\Debug\OtherTypes_HomeWork.exe
+D:\Coding\Softuni HomeWork\OOP\Other Types\OtherTypes_HomeWork\OtherTypes_HomeWork\obj\Debug\OtherTypes_HomeWork.pdb

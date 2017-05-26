@@ -1,0 +1,5 @@
+D:\Coding\Softuni HomeWork\C# Advanced\05. Regex\HomeWork\Regex\02. ReplaceTag\bin\Debug\_02.ReplaceTag.exe.config
+D:\Coding\Softuni HomeWork\C# Advanced\05. Regex\HomeWork\Regex\02. ReplaceTag\bin\Debug\_02.ReplaceTag.exe
+D:\Coding\Softuni HomeWork\C# Advanced\05. Regex\HomeWork\Regex\02. ReplaceTag\bin\Debug\_02.ReplaceTag.pdb
+D:\Coding\Softuni HomeWork\C# Advanced\05. Regex\HomeWork\Regex\02. ReplaceTag\obj\Debug\_02.ReplaceTag.exe
+D:\Coding\Softuni HomeWork\C# Advanced\05. Regex\HomeWork\Regex\02. ReplaceTag\obj\Debug\_02.ReplaceTag.pdb

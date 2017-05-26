@@ -1,0 +1,6 @@
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.exe.config
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.exe
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.pdb
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.exe
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.pdb

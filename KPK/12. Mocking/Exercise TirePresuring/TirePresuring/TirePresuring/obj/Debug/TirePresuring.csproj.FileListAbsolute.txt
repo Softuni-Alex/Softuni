@@ -1,0 +1,6 @@
+D:\Coding\KPK\12. Mocking\Exercise TirePresuring\TirePresuring\TirePresuring\bin\Debug\TirePresuring.exe.config
+D:\Coding\KPK\12. Mocking\Exercise TirePresuring\TirePresuring\TirePresuring\bin\Debug\TirePresuring.exe
+D:\Coding\KPK\12. Mocking\Exercise TirePresuring\TirePresuring\TirePresuring\bin\Debug\TirePresuring.pdb
+D:\Coding\KPK\12. Mocking\Exercise TirePresuring\TirePresuring\TirePresuring\obj\Debug\TirePresuring.csprojResolveAssemblyReference.cache
+D:\Coding\KPK\12. Mocking\Exercise TirePresuring\TirePresuring\TirePresuring\obj\Debug\TirePresuring.exe
+D:\Coding\KPK\12. Mocking\Exercise TirePresuring\TirePresuring\TirePresuring\obj\Debug\TirePresuring.pdb

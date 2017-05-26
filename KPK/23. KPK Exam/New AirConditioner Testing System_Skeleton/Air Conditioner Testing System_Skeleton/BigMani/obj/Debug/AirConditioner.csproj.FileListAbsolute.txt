@@ -1,0 +1,6 @@
+D:\Coding\KPK\23. KPK Exam\New AirConditioner Testing System_Skeleton\Air Conditioner Testing System_Skeleton\BigMani\bin\Debug\AirConditioner.exe.config
+D:\Coding\KPK\23. KPK Exam\New AirConditioner Testing System_Skeleton\Air Conditioner Testing System_Skeleton\BigMani\bin\Debug\AirConditioner.exe
+D:\Coding\KPK\23. KPK Exam\New AirConditioner Testing System_Skeleton\Air Conditioner Testing System_Skeleton\BigMani\bin\Debug\AirConditioner.pdb
+D:\Coding\KPK\23. KPK Exam\New AirConditioner Testing System_Skeleton\Air Conditioner Testing System_Skeleton\BigMani\obj\Debug\AirConditioner.csprojResolveAssemblyReference.cache
+D:\Coding\KPK\23. KPK Exam\New AirConditioner Testing System_Skeleton\Air Conditioner Testing System_Skeleton\BigMani\obj\Debug\AirConditioner.exe
+D:\Coding\KPK\23. KPK Exam\New AirConditioner Testing System_Skeleton\Air Conditioner Testing System_Skeleton\BigMani\obj\Debug\AirConditioner.pdb

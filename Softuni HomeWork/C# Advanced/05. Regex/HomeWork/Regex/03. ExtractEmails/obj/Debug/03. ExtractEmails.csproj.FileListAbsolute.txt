@@ -1,0 +1,5 @@
+D:\Coding\Softuni HomeWork\C# Advanced\05. Regex\HomeWork\Regex\03. ExtractEmails\bin\Debug\_03.ExtractEmails.exe.config
+D:\Coding\Softuni HomeWork\C# Advanced\05. Regex\HomeWork\Regex\03. ExtractEmails\bin\Debug\_03.ExtractEmails.exe
+D:\Coding\Softuni HomeWork\C# Advanced\05. Regex\HomeWork\Regex\03. ExtractEmails\bin\Debug\_03.ExtractEmails.pdb
+D:\Coding\Softuni HomeWork\C# Advanced\05. Regex\HomeWork\Regex\03. ExtractEmails\obj\Debug\_03.ExtractEmails.exe
+D:\Coding\Softuni HomeWork\C# Advanced\05. Regex\HomeWork\Regex\03. ExtractEmails\obj\Debug\_03.ExtractEmails.pdb

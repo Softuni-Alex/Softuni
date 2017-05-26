@@ -1,0 +1,6 @@
+D:\Coding\C# Advanced\03. Methods\Methods\UpperCaseCharsAtEvenPos\bin\Debug\UpperCaseCharsAtEvenPos.exe.config
+D:\Coding\C# Advanced\03. Methods\Methods\UpperCaseCharsAtEvenPos\obj\Debug\UpperCaseCharsAtEvenPos.csprojResolveAssemblyReference.cache
+D:\Coding\C# Advanced\03. Methods\Methods\UpperCaseCharsAtEvenPos\bin\Debug\UpperCaseCharsAtEvenPos.exe
+D:\Coding\C# Advanced\03. Methods\Methods\UpperCaseCharsAtEvenPos\bin\Debug\UpperCaseCharsAtEvenPos.pdb
+D:\Coding\C# Advanced\03. Methods\Methods\UpperCaseCharsAtEvenPos\obj\Debug\UpperCaseCharsAtEvenPos.exe
+D:\Coding\C# Advanced\03. Methods\Methods\UpperCaseCharsAtEvenPos\obj\Debug\UpperCaseCharsAtEvenPos.pdb

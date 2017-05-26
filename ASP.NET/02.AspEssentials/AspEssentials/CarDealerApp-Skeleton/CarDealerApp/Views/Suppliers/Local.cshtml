@@ -1,0 +1,28 @@
+﻿
+@model IEnumerable<CarDealer.Models.Supplier>
+    
+    <table class="table table-responsive table-bordered">
+    <thead>
+        <tr>
+            <th>
+                Id
+            </th>
+            <th>
+                Name
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var supply in Model)
+        {
+            <tr>
+                <td>
+                    @supply.Id
+                </td>
+                <td>
+                    @supply.Name
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

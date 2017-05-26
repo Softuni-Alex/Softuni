@@ -1,0 +1,14 @@
+C:\Alex\Softuni\DB-Advanced\05.EntityFramework-Relations-Exercises\StudentSystem\FootballBookmakerSystem.Client\bin\Debug\FootballBookmakerSystem.Client.exe.config
+C:\Alex\Softuni\DB-Advanced\05.EntityFramework-Relations-Exercises\StudentSystem\FootballBookmakerSystem.Client\bin\Debug\FootballBookmakerSystem.Client.exe
+C:\Alex\Softuni\DB-Advanced\05.EntityFramework-Relations-Exercises\StudentSystem\FootballBookmakerSystem.Client\bin\Debug\FootballBookmakerSystem.Client.pdb
+C:\Alex\Softuni\DB-Advanced\05.EntityFramework-Relations-Exercises\StudentSystem\FootballBookmakerSystem.Client\bin\Debug\EntityFramework.dll
+C:\Alex\Softuni\DB-Advanced\05.EntityFramework-Relations-Exercises\StudentSystem\FootballBookmakerSystem.Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Alex\Softuni\DB-Advanced\05.EntityFramework-Relations-Exercises\StudentSystem\FootballBookmakerSystem.Client\bin\Debug\FootballBookmakerSystem.Data.dll
+C:\Alex\Softuni\DB-Advanced\05.EntityFramework-Relations-Exercises\StudentSystem\FootballBookmakerSystem.Client\bin\Debug\FootballBookmakerSystem.Models.dll
+C:\Alex\Softuni\DB-Advanced\05.EntityFramework-Relations-Exercises\StudentSystem\FootballBookmakerSystem.Client\bin\Debug\FootballBookmakerSystem.Data.pdb
+C:\Alex\Softuni\DB-Advanced\05.EntityFramework-Relations-Exercises\StudentSystem\FootballBookmakerSystem.Client\bin\Debug\EntityFramework.xml
+C:\Alex\Softuni\DB-Advanced\05.EntityFramework-Relations-Exercises\StudentSystem\FootballBookmakerSystem.Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Alex\Softuni\DB-Advanced\05.EntityFramework-Relations-Exercises\StudentSystem\FootballBookmakerSystem.Client\bin\Debug\FootballBookmakerSystem.Models.pdb
+C:\Alex\Softuni\DB-Advanced\05.EntityFramework-Relations-Exercises\StudentSystem\FootballBookmakerSystem.Client\obj\Debug\FootballBookmakerSystem.Client.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni\DB-Advanced\05.EntityFramework-Relations-Exercises\StudentSystem\FootballBookmakerSystem.Client\obj\Debug\FootballBookmakerSystem.Client.exe
+C:\Alex\Softuni\DB-Advanced\05.EntityFramework-Relations-Exercises\StudentSystem\FootballBookmakerSystem.Client\obj\Debug\FootballBookmakerSystem.Client.pdb

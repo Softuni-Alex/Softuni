@@ -1,0 +1,5 @@
+D:\Coding\Softuni HomeWork\C# Advanced\04. Strings\HomeWork\Strings\Palindroms\bin\Debug\Palindroms.exe.config
+D:\Coding\Softuni HomeWork\C# Advanced\04. Strings\HomeWork\Strings\Palindroms\bin\Debug\Palindroms.exe
+D:\Coding\Softuni HomeWork\C# Advanced\04. Strings\HomeWork\Strings\Palindroms\bin\Debug\Palindroms.pdb
+D:\Coding\Softuni HomeWork\C# Advanced\04. Strings\HomeWork\Strings\Palindroms\obj\Debug\Palindroms.exe
+D:\Coding\Softuni HomeWork\C# Advanced\04. Strings\HomeWork\Strings\Palindroms\obj\Debug\Palindroms.pdb

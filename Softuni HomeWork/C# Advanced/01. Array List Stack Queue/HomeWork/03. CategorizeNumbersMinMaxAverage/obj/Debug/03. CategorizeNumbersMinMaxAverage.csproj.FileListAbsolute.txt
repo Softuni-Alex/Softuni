@@ -1,0 +1,6 @@
+D:\Coding\Softuni HomeWork\C# Advanced\01. Array List Stack Queue\HomeWork\03. CategorizeNumbersMinMaxAverage\bin\Debug\_03.CategorizeNumbersMinMaxAverage.exe.config
+D:\Coding\Softuni HomeWork\C# Advanced\01. Array List Stack Queue\HomeWork\03. CategorizeNumbersMinMaxAverage\bin\Debug\_03.CategorizeNumbersMinMaxAverage.exe
+D:\Coding\Softuni HomeWork\C# Advanced\01. Array List Stack Queue\HomeWork\03. CategorizeNumbersMinMaxAverage\bin\Debug\_03.CategorizeNumbersMinMaxAverage.pdb
+D:\Coding\Softuni HomeWork\C# Advanced\01. Array List Stack Queue\HomeWork\03. CategorizeNumbersMinMaxAverage\obj\Debug\03. CategorizeNumbersMinMaxAverage.csprojResolveAssemblyReference.cache
+D:\Coding\Softuni HomeWork\C# Advanced\01. Array List Stack Queue\HomeWork\03. CategorizeNumbersMinMaxAverage\obj\Debug\_03.CategorizeNumbersMinMaxAverage.exe
+D:\Coding\Softuni HomeWork\C# Advanced\01. Array List Stack Queue\HomeWork\03. CategorizeNumbersMinMaxAverage\obj\Debug\_03.CategorizeNumbersMinMaxAverage.pdb

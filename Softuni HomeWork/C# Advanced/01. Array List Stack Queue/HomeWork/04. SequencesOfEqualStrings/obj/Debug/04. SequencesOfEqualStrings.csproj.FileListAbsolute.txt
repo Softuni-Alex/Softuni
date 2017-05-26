@@ -1,0 +1,5 @@
+D:\Coding\Softuni HomeWork\C# Advanced\01. Array List Stack Queue\HomeWork\04. SequencesOfEqualStrings\bin\Debug\_04.SequencesOfEqualStrings.exe.config
+D:\Coding\Softuni HomeWork\C# Advanced\01. Array List Stack Queue\HomeWork\04. SequencesOfEqualStrings\bin\Debug\_04.SequencesOfEqualStrings.exe
+D:\Coding\Softuni HomeWork\C# Advanced\01. Array List Stack Queue\HomeWork\04. SequencesOfEqualStrings\bin\Debug\_04.SequencesOfEqualStrings.pdb
+D:\Coding\Softuni HomeWork\C# Advanced\01. Array List Stack Queue\HomeWork\04. SequencesOfEqualStrings\obj\Debug\_04.SequencesOfEqualStrings.exe
+D:\Coding\Softuni HomeWork\C# Advanced\01. Array List Stack Queue\HomeWork\04. SequencesOfEqualStrings\obj\Debug\_04.SequencesOfEqualStrings.pdb

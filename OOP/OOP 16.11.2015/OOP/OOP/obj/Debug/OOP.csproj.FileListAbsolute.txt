@@ -1,0 +1,6 @@
+D:\Coding\SoftUni\OOP 16.11.2015\OOP\OOP\bin\Debug\OOP.exe.config
+D:\Coding\SoftUni\OOP 16.11.2015\OOP\OOP\obj\Debug\OOP.csprojResolveAssemblyReference.cache
+D:\Coding\SoftUni\OOP 16.11.2015\OOP\OOP\bin\Debug\OOP.exe
+D:\Coding\SoftUni\OOP 16.11.2015\OOP\OOP\bin\Debug\OOP.pdb
+D:\Coding\SoftUni\OOP 16.11.2015\OOP\OOP\obj\Debug\OOP.exe
+D:\Coding\SoftUni\OOP 16.11.2015\OOP\OOP\obj\Debug\OOP.pdb

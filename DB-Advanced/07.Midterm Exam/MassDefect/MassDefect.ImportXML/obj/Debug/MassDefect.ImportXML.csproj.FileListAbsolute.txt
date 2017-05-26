@@ -1,0 +1,14 @@
+C:\Alex\Softuni\DB-Advanced\07.Midterm Exam\MassDefect\MassDefect.ImportXML\bin\Debug\MassDefect.ImportXML.exe.config
+C:\Alex\Softuni\DB-Advanced\07.Midterm Exam\MassDefect\MassDefect.ImportXML\bin\Debug\MassDefect.ImportXML.exe
+C:\Alex\Softuni\DB-Advanced\07.Midterm Exam\MassDefect\MassDefect.ImportXML\bin\Debug\MassDefect.ImportXML.pdb
+C:\Alex\Softuni\DB-Advanced\07.Midterm Exam\MassDefect\MassDefect.ImportXML\bin\Debug\EntityFramework.dll
+C:\Alex\Softuni\DB-Advanced\07.Midterm Exam\MassDefect\MassDefect.ImportXML\bin\Debug\EntityFramework.SqlServer.dll
+C:\Alex\Softuni\DB-Advanced\07.Midterm Exam\MassDefect\MassDefect.ImportXML\bin\Debug\MassDefect.Data.dll
+C:\Alex\Softuni\DB-Advanced\07.Midterm Exam\MassDefect\MassDefect.ImportXML\bin\Debug\MassDefect.Models.dll
+C:\Alex\Softuni\DB-Advanced\07.Midterm Exam\MassDefect\MassDefect.ImportXML\bin\Debug\MassDefect.Data.pdb
+C:\Alex\Softuni\DB-Advanced\07.Midterm Exam\MassDefect\MassDefect.ImportXML\bin\Debug\MassDefect.Models.pdb
+C:\Alex\Softuni\DB-Advanced\07.Midterm Exam\MassDefect\MassDefect.ImportXML\bin\Debug\EntityFramework.xml
+C:\Alex\Softuni\DB-Advanced\07.Midterm Exam\MassDefect\MassDefect.ImportXML\bin\Debug\EntityFramework.SqlServer.xml
+C:\Alex\Softuni\DB-Advanced\07.Midterm Exam\MassDefect\MassDefect.ImportXML\obj\Debug\MassDefect.ImportXML.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni\DB-Advanced\07.Midterm Exam\MassDefect\MassDefect.ImportXML\obj\Debug\MassDefect.ImportXML.exe
+C:\Alex\Softuni\DB-Advanced\07.Midterm Exam\MassDefect\MassDefect.ImportXML\obj\Debug\MassDefect.ImportXML.pdb

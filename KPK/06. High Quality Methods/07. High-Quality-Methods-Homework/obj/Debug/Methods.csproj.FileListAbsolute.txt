@@ -1,0 +1,5 @@
+D:\Coding\KPK\06. High Quality Methods\07. High-Quality-Methods-Homework\bin\Debug\Methods.exe
+D:\Coding\KPK\06. High Quality Methods\07. High-Quality-Methods-Homework\bin\Debug\Methods.pdb
+D:\Coding\KPK\06. High Quality Methods\07. High-Quality-Methods-Homework\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+D:\Coding\KPK\06. High Quality Methods\07. High-Quality-Methods-Homework\obj\Debug\Methods.exe
+D:\Coding\KPK\06. High Quality Methods\07. High-Quality-Methods-Homework\obj\Debug\Methods.pdb

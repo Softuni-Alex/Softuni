@@ -1,0 +1,6 @@
+D:\Coding\C# Advanced\06. Lab Algorithms\Lab Algorithms\Algorithms\PrimeFactorization\bin\Debug\PrimeFactorization.exe.config
+D:\Coding\C# Advanced\06. Lab Algorithms\Lab Algorithms\Algorithms\PrimeFactorization\bin\Debug\PrimeFactorization.exe
+D:\Coding\C# Advanced\06. Lab Algorithms\Lab Algorithms\Algorithms\PrimeFactorization\bin\Debug\PrimeFactorization.pdb
+D:\Coding\C# Advanced\06. Lab Algorithms\Lab Algorithms\Algorithms\PrimeFactorization\obj\Debug\PrimeFactorization.csprojResolveAssemblyReference.cache
+D:\Coding\C# Advanced\06. Lab Algorithms\Lab Algorithms\Algorithms\PrimeFactorization\obj\Debug\PrimeFactorization.exe
+D:\Coding\C# Advanced\06. Lab Algorithms\Lab Algorithms\Algorithms\PrimeFactorization\obj\Debug\PrimeFactorization.pdb

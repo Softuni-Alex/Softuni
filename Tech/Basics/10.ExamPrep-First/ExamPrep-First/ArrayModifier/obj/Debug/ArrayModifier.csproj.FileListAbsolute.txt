@@ -1,0 +1,6 @@
+D:\Coding\Tech\Basics\10.ExamPrep-First\ExamPrep-First\ArrayModifier\bin\Debug\ArrayModifier.exe.config
+D:\Coding\Tech\Basics\10.ExamPrep-First\ExamPrep-First\ArrayModifier\bin\Debug\ArrayModifier.exe
+D:\Coding\Tech\Basics\10.ExamPrep-First\ExamPrep-First\ArrayModifier\bin\Debug\ArrayModifier.pdb
+D:\Coding\Tech\Basics\10.ExamPrep-First\ExamPrep-First\ArrayModifier\obj\Debug\ArrayModifier.exe
+D:\Coding\Tech\Basics\10.ExamPrep-First\ExamPrep-First\ArrayModifier\obj\Debug\ArrayModifier.pdb
+D:\Coding\Tech\Basics\10.ExamPrep-First\ExamPrep-First\ArrayModifier\obj\Debug\ArrayModifier.csprojResolveAssemblyReference.cache

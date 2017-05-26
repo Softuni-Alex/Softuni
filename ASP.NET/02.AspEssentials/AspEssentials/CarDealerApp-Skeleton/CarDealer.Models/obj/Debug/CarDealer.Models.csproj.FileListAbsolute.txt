@@ -1,0 +1,5 @@
+C:\Alex\Softuni\ASP.NET\02.AspEssentials\AspEssentials\CarDealerApp-Skeleton\CarDealer.Models\bin\Debug\CarDealer.Models.dll
+C:\Alex\Softuni\ASP.NET\02.AspEssentials\AspEssentials\CarDealerApp-Skeleton\CarDealer.Models\bin\Debug\CarDealer.Models.pdb
+C:\Alex\Softuni\ASP.NET\02.AspEssentials\AspEssentials\CarDealerApp-Skeleton\CarDealer.Models\obj\Debug\CarDealer.Models.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni\ASP.NET\02.AspEssentials\AspEssentials\CarDealerApp-Skeleton\CarDealer.Models\obj\Debug\CarDealer.Models.dll
+C:\Alex\Softuni\ASP.NET\02.AspEssentials\AspEssentials\CarDealerApp-Skeleton\CarDealer.Models\obj\Debug\CarDealer.Models.pdb

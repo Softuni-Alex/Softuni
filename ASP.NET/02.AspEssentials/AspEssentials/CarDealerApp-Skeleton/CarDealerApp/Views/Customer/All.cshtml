@@ -1,0 +1,26 @@
+﻿@using CarDealer.Models;
+
+@model List<Customer>
+
+<h2>@ViewBag.Error</h2>
+
+@if (Model!=null)
+{
+    <table class="table table-bordered table-responsive">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Birthdate</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var custom in Model)
+            {
+                <tr>
+                    <th>@custom.Name</th>
+                    <th>@custom.BirthDate</th>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

@@ -1,0 +1,6 @@
+D:\Coding\Softuni HomeWork\Tech\Basics\04.Lists Matrix\ListsMatrix\SplitByWordCasing\bin\Debug\SplitByWordCasing.exe.config
+D:\Coding\Softuni HomeWork\Tech\Basics\04.Lists Matrix\ListsMatrix\SplitByWordCasing\bin\Debug\SplitByWordCasing.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\04.Lists Matrix\ListsMatrix\SplitByWordCasing\bin\Debug\SplitByWordCasing.pdb
+D:\Coding\Softuni HomeWork\Tech\Basics\04.Lists Matrix\ListsMatrix\SplitByWordCasing\obj\Debug\SplitByWordCasing.csprojResolveAssemblyReference.cache
+D:\Coding\Softuni HomeWork\Tech\Basics\04.Lists Matrix\ListsMatrix\SplitByWordCasing\obj\Debug\SplitByWordCasing.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\04.Lists Matrix\ListsMatrix\SplitByWordCasing\obj\Debug\SplitByWordCasing.pdb

@@ -1,0 +1,5 @@
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\IncreaseMinionsAge\bin\Debug\IncreaseMinionsAge.exe.config
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\IncreaseMinionsAge\bin\Debug\IncreaseMinionsAge.exe
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\IncreaseMinionsAge\bin\Debug\IncreaseMinionsAge.pdb
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\IncreaseMinionsAge\obj\Debug\IncreaseMinionsAge.exe
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\IncreaseMinionsAge\obj\Debug\IncreaseMinionsAge.pdb

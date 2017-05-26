@@ -1,0 +1,6 @@
+D:\Coding\Tech\Basics\11.ExamPrep-Second\ExamPrep-Second\MatrixOperator\bin\Debug\MatrixOperator.exe.config
+D:\Coding\Tech\Basics\11.ExamPrep-Second\ExamPrep-Second\MatrixOperator\bin\Debug\MatrixOperator.exe
+D:\Coding\Tech\Basics\11.ExamPrep-Second\ExamPrep-Second\MatrixOperator\bin\Debug\MatrixOperator.pdb
+D:\Coding\Tech\Basics\11.ExamPrep-Second\ExamPrep-Second\MatrixOperator\obj\Debug\MatrixOperator.csprojResolveAssemblyReference.cache
+D:\Coding\Tech\Basics\11.ExamPrep-Second\ExamPrep-Second\MatrixOperator\obj\Debug\MatrixOperator.exe
+D:\Coding\Tech\Basics\11.ExamPrep-Second\ExamPrep-Second\MatrixOperator\obj\Debug\MatrixOperator.pdb

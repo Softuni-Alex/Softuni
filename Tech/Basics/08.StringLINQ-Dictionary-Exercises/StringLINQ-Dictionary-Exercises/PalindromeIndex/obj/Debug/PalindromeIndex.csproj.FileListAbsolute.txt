@@ -1,0 +1,6 @@
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\PalindromeIndex\bin\Debug\PalindromeIndex.exe.config
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\PalindromeIndex\bin\Debug\PalindromeIndex.exe
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\PalindromeIndex\bin\Debug\PalindromeIndex.pdb
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\PalindromeIndex\obj\Debug\PalindromeIndex.csprojResolveAssemblyReference.cache
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\PalindromeIndex\obj\Debug\PalindromeIndex.exe
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\PalindromeIndex\obj\Debug\PalindromeIndex.pdb

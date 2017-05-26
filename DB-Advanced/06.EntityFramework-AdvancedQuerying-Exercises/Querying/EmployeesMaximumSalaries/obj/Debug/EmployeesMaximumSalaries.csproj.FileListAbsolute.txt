@@ -1,0 +1,9 @@
+C:\Alex\Softuni\DB-Advanced\06.EntityFramework-AdvancedQuerying-Exercises\Querying\EmployeesMaximumSalaries\bin\Debug\EmployeesMaximumSalaries.exe.config
+C:\Alex\Softuni\DB-Advanced\06.EntityFramework-AdvancedQuerying-Exercises\Querying\EmployeesMaximumSalaries\bin\Debug\EmployeesMaximumSalaries.exe
+C:\Alex\Softuni\DB-Advanced\06.EntityFramework-AdvancedQuerying-Exercises\Querying\EmployeesMaximumSalaries\bin\Debug\EmployeesMaximumSalaries.pdb
+C:\Alex\Softuni\DB-Advanced\06.EntityFramework-AdvancedQuerying-Exercises\Querying\EmployeesMaximumSalaries\bin\Debug\EntityFramework.dll
+C:\Alex\Softuni\DB-Advanced\06.EntityFramework-AdvancedQuerying-Exercises\Querying\EmployeesMaximumSalaries\bin\Debug\EntityFramework.SqlServer.dll
+C:\Alex\Softuni\DB-Advanced\06.EntityFramework-AdvancedQuerying-Exercises\Querying\EmployeesMaximumSalaries\bin\Debug\EntityFramework.xml
+C:\Alex\Softuni\DB-Advanced\06.EntityFramework-AdvancedQuerying-Exercises\Querying\EmployeesMaximumSalaries\bin\Debug\EntityFramework.SqlServer.xml
+C:\Alex\Softuni\DB-Advanced\06.EntityFramework-AdvancedQuerying-Exercises\Querying\EmployeesMaximumSalaries\obj\Debug\EmployeesMaximumSalaries.exe
+C:\Alex\Softuni\DB-Advanced\06.EntityFramework-AdvancedQuerying-Exercises\Querying\EmployeesMaximumSalaries\obj\Debug\EmployeesMaximumSalaries.pdb

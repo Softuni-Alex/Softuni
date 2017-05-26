@@ -1,0 +1,6 @@
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\IntToHexAndBinary\bin\Debug\IntToHexAndBinary.exe.config
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\IntToHexAndBinary\bin\Debug\IntToHexAndBinary.exe
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\IntToHexAndBinary\bin\Debug\IntToHexAndBinary.pdb
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\IntToHexAndBinary\obj\Debug\IntToHexAndBinary.csprojResolveAssemblyReference.cache
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\IntToHexAndBinary\obj\Debug\IntToHexAndBinary.exe
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\IntToHexAndBinary\obj\Debug\IntToHexAndBinary.pdb

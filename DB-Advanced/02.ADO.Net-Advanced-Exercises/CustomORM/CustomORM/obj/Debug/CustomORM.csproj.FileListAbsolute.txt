@@ -1,0 +1,6 @@
+C:\Alex\Softuni\DB-Advanced\02.ADO.Net-Advanced-Exercises\CustomORM\CustomORM\bin\Debug\CustomORM.exe.config
+C:\Alex\Softuni\DB-Advanced\02.ADO.Net-Advanced-Exercises\CustomORM\CustomORM\bin\Debug\CustomORM.exe
+C:\Alex\Softuni\DB-Advanced\02.ADO.Net-Advanced-Exercises\CustomORM\CustomORM\bin\Debug\CustomORM.pdb
+C:\Alex\Softuni\DB-Advanced\02.ADO.Net-Advanced-Exercises\CustomORM\CustomORM\obj\Debug\CustomORM.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni\DB-Advanced\02.ADO.Net-Advanced-Exercises\CustomORM\CustomORM\obj\Debug\CustomORM.exe
+C:\Alex\Softuni\DB-Advanced\02.ADO.Net-Advanced-Exercises\CustomORM\CustomORM\obj\Debug\CustomORM.pdb

@@ -1,0 +1,4 @@
+D:\Coding\C# Advanced\02. Multidimentional arrays, Dictionary, Sets and Hashes\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\MaxPlatform\bin\Debug\MaxPlatform.exe
+D:\Coding\C# Advanced\02. Multidimentional arrays, Dictionary, Sets and Hashes\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\MaxPlatform\bin\Debug\MaxPlatform.pdb
+D:\Coding\C# Advanced\02. Multidimentional arrays, Dictionary, Sets and Hashes\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\MaxPlatform\obj\Debug\MaxPlatform.exe
+D:\Coding\C# Advanced\02. Multidimentional arrays, Dictionary, Sets and Hashes\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\MaxPlatform\obj\Debug\MaxPlatform.pdb

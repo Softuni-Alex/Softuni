@@ -1,0 +1,6 @@
+D:\Coding\KPK\15.Debugging\Debugging\Debugging\bin\Debug\Debugging.exe.config
+D:\Coding\KPK\15.Debugging\Debugging\Debugging\bin\Debug\Debugging.exe
+D:\Coding\KPK\15.Debugging\Debugging\Debugging\bin\Debug\Debugging.pdb
+D:\Coding\KPK\15.Debugging\Debugging\Debugging\obj\Debug\Debugging.csprojResolveAssemblyReference.cache
+D:\Coding\KPK\15.Debugging\Debugging\Debugging\obj\Debug\Debugging.exe
+D:\Coding\KPK\15.Debugging\Debugging\Debugging\obj\Debug\Debugging.pdb

@@ -1,0 +1,6 @@
+D:\Coding\C# Advanced\03. Methods\Methods\Excercies\bin\Debug\Excercies.exe.config
+D:\Coding\C# Advanced\03. Methods\Methods\Excercies\bin\Debug\Excercies.exe
+D:\Coding\C# Advanced\03. Methods\Methods\Excercies\bin\Debug\Excercies.pdb
+D:\Coding\C# Advanced\03. Methods\Methods\Excercies\obj\Debug\Excercies.csprojResolveAssemblyReference.cache
+D:\Coding\C# Advanced\03. Methods\Methods\Excercies\obj\Debug\Excercies.exe
+D:\Coding\C# Advanced\03. Methods\Methods\Excercies\obj\Debug\Excercies.pdb

@@ -1,0 +1,4 @@
+D:\Coding\C# Advanced\04. Strings\Strings Demos\Other-String-Operations\bin\Debug\Other-String-Operations.exe
+D:\Coding\C# Advanced\04. Strings\Strings Demos\Other-String-Operations\bin\Debug\Other-String-Operations.pdb
+D:\Coding\C# Advanced\04. Strings\Strings Demos\Other-String-Operations\obj\Debug\Other-String-Operations.exe
+D:\Coding\C# Advanced\04. Strings\Strings Demos\Other-String-Operations\obj\Debug\Other-String-Operations.pdb

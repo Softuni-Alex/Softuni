@@ -1,0 +1,7 @@
+C:\Alex\Softuni\DB-Advanced\07.Midterm Exam\MassDefect\MassDefect.Models\bin\Debug\MassDefect.Models.dll
+C:\Alex\Softuni\DB-Advanced\07.Midterm Exam\MassDefect\MassDefect.Models\bin\Debug\MassDefect.Models.pdb
+C:\Alex\Softuni\DB-Advanced\07.Midterm Exam\MassDefect\MassDefect.Models\bin\Debug\Newtonsoft.Json.dll
+C:\Alex\Softuni\DB-Advanced\07.Midterm Exam\MassDefect\MassDefect.Models\bin\Debug\Newtonsoft.Json.xml
+C:\Alex\Softuni\DB-Advanced\07.Midterm Exam\MassDefect\MassDefect.Models\obj\Debug\MassDefect.Models.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni\DB-Advanced\07.Midterm Exam\MassDefect\MassDefect.Models\obj\Debug\MassDefect.Models.dll
+C:\Alex\Softuni\DB-Advanced\07.Midterm Exam\MassDefect\MassDefect.Models\obj\Debug\MassDefect.Models.pdb

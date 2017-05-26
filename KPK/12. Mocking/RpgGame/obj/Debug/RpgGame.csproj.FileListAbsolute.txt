@@ -1,0 +1,6 @@
+D:\Coding\KPK\12. Mocking\RpgGame\bin\Debug\RpgGame.exe.config
+D:\Coding\KPK\12. Mocking\RpgGame\bin\Debug\RpgGame.exe
+D:\Coding\KPK\12. Mocking\RpgGame\bin\Debug\RpgGame.pdb
+D:\Coding\KPK\12. Mocking\RpgGame\obj\Debug\RpgGame.csprojResolveAssemblyReference.cache
+D:\Coding\KPK\12. Mocking\RpgGame\obj\Debug\RpgGame.exe
+D:\Coding\KPK\12. Mocking\RpgGame\obj\Debug\RpgGame.pdb

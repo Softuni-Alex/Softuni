@@ -1,0 +1,6 @@
+D:\Coding\Tech\Basics\10.ExamPrep-First\ExamPrep-First\PopulationAggregation\bin\Debug\PopulationAggregation.exe.config
+D:\Coding\Tech\Basics\10.ExamPrep-First\ExamPrep-First\PopulationAggregation\bin\Debug\PopulationAggregation.exe
+D:\Coding\Tech\Basics\10.ExamPrep-First\ExamPrep-First\PopulationAggregation\bin\Debug\PopulationAggregation.pdb
+D:\Coding\Tech\Basics\10.ExamPrep-First\ExamPrep-First\PopulationAggregation\obj\Debug\PopulationAggregation.csprojResolveAssemblyReference.cache
+D:\Coding\Tech\Basics\10.ExamPrep-First\ExamPrep-First\PopulationAggregation\obj\Debug\PopulationAggregation.exe
+D:\Coding\Tech\Basics\10.ExamPrep-First\ExamPrep-First\PopulationAggregation\obj\Debug\PopulationAggregation.pdb

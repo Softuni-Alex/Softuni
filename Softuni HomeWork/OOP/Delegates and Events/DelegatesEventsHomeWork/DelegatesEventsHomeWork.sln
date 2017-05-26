@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Custom LINQ", "DelegatesEventsHomeWork\Custom LINQ.csproj", "{1854E951-B612-4197-BCD4-D99EF6D260AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterestCalculator", "InterestCalculator\InterestCalculator.csproj", "{D2D726C5-7513-42A3-9019-28E03AB39C36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynchronusTimer", "AsynchronusTimer\AsynchronusTimer.csproj", "{8EAB3301-6FC4-43CE-B13C-3D09E5841A87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student", "Student\Student.csproj", "{AF9EF7F9-323E-476A-8EA8-6F88705B81A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1854E951-B612-4197-BCD4-D99EF6D260AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1854E951-B612-4197-BCD4-D99EF6D260AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1854E951-B612-4197-BCD4-D99EF6D260AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1854E951-B612-4197-BCD4-D99EF6D260AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2D726C5-7513-42A3-9019-28E03AB39C36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2D726C5-7513-42A3-9019-28E03AB39C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2D726C5-7513-42A3-9019-28E03AB39C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2D726C5-7513-42A3-9019-28E03AB39C36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EAB3301-6FC4-43CE-B13C-3D09E5841A87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EAB3301-6FC4-43CE-B13C-3D09E5841A87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EAB3301-6FC4-43CE-B13C-3D09E5841A87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EAB3301-6FC4-43CE-B13C-3D09E5841A87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF9EF7F9-323E-476A-8EA8-6F88705B81A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF9EF7F9-323E-476A-8EA8-6F88705B81A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF9EF7F9-323E-476A-8EA8-6F88705B81A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF9EF7F9-323E-476A-8EA8-6F88705B81A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

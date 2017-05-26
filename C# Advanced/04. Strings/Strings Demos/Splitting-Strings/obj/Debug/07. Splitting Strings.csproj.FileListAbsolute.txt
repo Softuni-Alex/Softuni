@@ -1,0 +1,4 @@
+D:\Coding\C# Advanced\04. Strings\Strings Demos\Splitting-Strings\bin\Debug\Splitting-Strings.exe
+D:\Coding\C# Advanced\04. Strings\Strings Demos\Splitting-Strings\bin\Debug\Splitting-Strings.pdb
+D:\Coding\C# Advanced\04. Strings\Strings Demos\Splitting-Strings\obj\Debug\Splitting-Strings.exe
+D:\Coding\C# Advanced\04. Strings\Strings Demos\Splitting-Strings\obj\Debug\Splitting-Strings.pdb

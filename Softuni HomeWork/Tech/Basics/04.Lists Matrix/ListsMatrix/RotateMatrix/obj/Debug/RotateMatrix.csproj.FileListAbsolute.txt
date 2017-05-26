@@ -1,0 +1,5 @@
+D:\Coding\Softuni HomeWork\Tech\Basics\04.Lists Matrix\ListsMatrix\RotateMatrix\bin\Debug\RotateMatrix.exe.config
+D:\Coding\Softuni HomeWork\Tech\Basics\04.Lists Matrix\ListsMatrix\RotateMatrix\bin\Debug\RotateMatrix.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\04.Lists Matrix\ListsMatrix\RotateMatrix\bin\Debug\RotateMatrix.pdb
+D:\Coding\Softuni HomeWork\Tech\Basics\04.Lists Matrix\ListsMatrix\RotateMatrix\obj\Debug\RotateMatrix.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\04.Lists Matrix\ListsMatrix\RotateMatrix\obj\Debug\RotateMatrix.pdb

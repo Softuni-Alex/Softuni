@@ -1,0 +1,6 @@
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Buffered-Writer\bin\Debug\Buffered-Writer.exe.config
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Buffered-Writer\bin\Debug\Buffered-Writer.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Buffered-Writer\bin\Debug\Buffered-Writer.pdb
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Buffered-Writer\obj\Debug\Buffered-Writer.csprojResolveAssemblyReference.cache
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Buffered-Writer\obj\Debug\Buffered-Writer.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Buffered-Writer\obj\Debug\Buffered-Writer.pdb

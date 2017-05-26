@@ -1,0 +1,1 @@
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\ToUpperCase\bin\Debug\ToUpperCase.exe.config

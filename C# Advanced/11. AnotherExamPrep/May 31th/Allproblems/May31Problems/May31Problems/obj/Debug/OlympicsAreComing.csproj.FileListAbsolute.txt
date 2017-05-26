@@ -1,0 +1,6 @@
+D:\Coding\C# Advanced\11. AnotherExamPrep\May 31th\Allproblems\May31Problems\May31Problems\bin\Debug\May31Problems.exe.config
+D:\Coding\C# Advanced\11. AnotherExamPrep\May 31th\Allproblems\May31Problems\May31Problems\bin\Debug\May31Problems.exe
+D:\Coding\C# Advanced\11. AnotherExamPrep\May 31th\Allproblems\May31Problems\May31Problems\bin\Debug\May31Problems.pdb
+D:\Coding\C# Advanced\11. AnotherExamPrep\May 31th\Allproblems\May31Problems\May31Problems\obj\Debug\OlympicsAreComing.csprojResolveAssemblyReference.cache
+D:\Coding\C# Advanced\11. AnotherExamPrep\May 31th\Allproblems\May31Problems\May31Problems\obj\Debug\May31Problems.exe
+D:\Coding\C# Advanced\11. AnotherExamPrep\May 31th\Allproblems\May31Problems\May31Problems\obj\Debug\May31Problems.pdb

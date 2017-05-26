@@ -1,0 +1,12 @@
+D:\Coding\SoftUni\Exam Prep June2015\ExamPreparationRPGGame\RPGGame\bin\Debug\RPGGame.exe.config
+D:\Coding\SoftUni\Exam Prep June2015\ExamPreparationRPGGame\RPGGame\obj\Debug\RPGGame.csprojResolveAssemblyReference.cache
+D:\Coding\SoftUni\Exam Prep June2015\ExamPreparationRPGGame\RPGGame\bin\Debug\RPGGame.exe
+D:\Coding\SoftUni\Exam Prep June2015\ExamPreparationRPGGame\RPGGame\bin\Debug\RPGGame.pdb
+D:\Coding\SoftUni\Exam Prep June2015\ExamPreparationRPGGame\RPGGame\obj\Debug\RPGGame.exe
+D:\Coding\SoftUni\Exam Prep June2015\ExamPreparationRPGGame\RPGGame\obj\Debug\RPGGame.pdb
+D:\Coding\SoftUni\Exam Prep June2015-Fil\ExamPreparationRPGGame\RPGGame\bin\Debug\RPGGame.exe.config
+D:\Coding\SoftUni\Exam Prep June2015-Fil\ExamPreparationRPGGame\RPGGame\obj\Debug\RPGGame.exe
+D:\Coding\SoftUni\Exam Prep June2015-Fil\ExamPreparationRPGGame\RPGGame\obj\Debug\RPGGame.pdb
+D:\Coding\SoftUni\Exam Prep June2015-Fil\ExamPreparationRPGGame\RPGGame\bin\Debug\RPGGame.exe
+D:\Coding\SoftUni\Exam Prep June2015-Fil\ExamPreparationRPGGame\RPGGame\bin\Debug\RPGGame.pdb
+D:\Coding\SoftUni\Exam Prep June2015-Fil\ExamPreparationRPGGame\RPGGame\obj\Debug\RPGGame.csprojResolveAssemblyReference.cache

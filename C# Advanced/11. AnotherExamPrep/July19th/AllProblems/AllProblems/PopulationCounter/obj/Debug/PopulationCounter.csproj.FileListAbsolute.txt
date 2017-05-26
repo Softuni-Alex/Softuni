@@ -1,0 +1,6 @@
+D:\Coding\C# Advanced\11. AnotherExamPrep\July19th\AllProblems\AllProblems\PopulationCounter\bin\Debug\PopulationCounter.exe.config
+D:\Coding\C# Advanced\11. AnotherExamPrep\July19th\AllProblems\AllProblems\PopulationCounter\bin\Debug\PopulationCounter.exe
+D:\Coding\C# Advanced\11. AnotherExamPrep\July19th\AllProblems\AllProblems\PopulationCounter\bin\Debug\PopulationCounter.pdb
+D:\Coding\C# Advanced\11. AnotherExamPrep\July19th\AllProblems\AllProblems\PopulationCounter\obj\Debug\PopulationCounter.csprojResolveAssemblyReference.cache
+D:\Coding\C# Advanced\11. AnotherExamPrep\July19th\AllProblems\AllProblems\PopulationCounter\obj\Debug\PopulationCounter.exe
+D:\Coding\C# Advanced\11. AnotherExamPrep\July19th\AllProblems\AllProblems\PopulationCounter\obj\Debug\PopulationCounter.pdb

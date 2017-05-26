@@ -1,0 +1,10 @@
+D:\Coding\Tech\Technologies\06.Entity - Framework - Exercises\Entity-Exercises\Entity-Exercises\bin\Debug\Entity-Exercises.exe.config
+D:\Coding\Tech\Technologies\06.Entity - Framework - Exercises\Entity-Exercises\Entity-Exercises\bin\Debug\Entity-Exercises.exe
+D:\Coding\Tech\Technologies\06.Entity - Framework - Exercises\Entity-Exercises\Entity-Exercises\bin\Debug\Entity-Exercises.pdb
+D:\Coding\Tech\Technologies\06.Entity - Framework - Exercises\Entity-Exercises\Entity-Exercises\bin\Debug\EntityFramework.dll
+D:\Coding\Tech\Technologies\06.Entity - Framework - Exercises\Entity-Exercises\Entity-Exercises\bin\Debug\EntityFramework.SqlServer.dll
+D:\Coding\Tech\Technologies\06.Entity - Framework - Exercises\Entity-Exercises\Entity-Exercises\bin\Debug\EntityFramework.xml
+D:\Coding\Tech\Technologies\06.Entity - Framework - Exercises\Entity-Exercises\Entity-Exercises\bin\Debug\EntityFramework.SqlServer.xml
+D:\Coding\Tech\Technologies\06.Entity - Framework - Exercises\Entity-Exercises\Entity-Exercises\obj\Debug\Entity-Exercises.csprojResolveAssemblyReference.cache
+D:\Coding\Tech\Technologies\06.Entity - Framework - Exercises\Entity-Exercises\Entity-Exercises\obj\Debug\Entity-Exercises.exe
+D:\Coding\Tech\Technologies\06.Entity - Framework - Exercises\Entity-Exercises\Entity-Exercises\obj\Debug\Entity-Exercises.pdb

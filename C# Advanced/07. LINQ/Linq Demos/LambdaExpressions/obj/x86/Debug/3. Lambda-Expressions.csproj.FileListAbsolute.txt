@@ -1,0 +1,5 @@
+D:\Coding\C# Advanced\07. LINQ\Linq Demos\LambdaExpressions\bin\Debug\LambdaExpressions.exe
+D:\Coding\C# Advanced\07. LINQ\Linq Demos\LambdaExpressions\bin\Debug\LambdaExpressions.pdb
+D:\Coding\C# Advanced\07. LINQ\Linq Demos\LambdaExpressions\obj\x86\Debug\LambdaExpressions.exe
+D:\Coding\C# Advanced\07. LINQ\Linq Demos\LambdaExpressions\obj\x86\Debug\LambdaExpressions.pdb
+D:\Coding\C# Advanced\07. LINQ\Linq Demos\LambdaExpressions\obj\x86\Debug\3. Lambda-Expressions.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\LargestIncreasingSeq\bin\Debug\LargestIncreasingSeq.exe.config
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\LargestIncreasingSeq\bin\Debug\LargestIncreasingSeq.exe
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\LargestIncreasingSeq\bin\Debug\LargestIncreasingSeq.pdb
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\LargestIncreasingSeq\obj\Debug\LargestIncreasingSeq.exe
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\LargestIncreasingSeq\obj\Debug\LargestIncreasingSeq.pdb

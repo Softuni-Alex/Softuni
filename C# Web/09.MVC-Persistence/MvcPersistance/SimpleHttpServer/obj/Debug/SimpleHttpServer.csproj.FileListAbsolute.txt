@@ -1,0 +1,24 @@
+C:\Users\stil2\Desktop\MVC-SharpStore-Skeleton\MVC-SharpStore-Skeleton\SimpleHttpServer\bin\Debug\Resources\Pages\404.html
+C:\Users\stil2\Desktop\MVC-SharpStore-Skeleton\MVC-SharpStore-Skeleton\SimpleHttpServer\bin\Debug\Resources\Pages\500.html
+C:\Users\stil2\Desktop\MVC-SharpStore-Skeleton\MVC-SharpStore-Skeleton\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll.config
+C:\Users\stil2\Desktop\MVC-SharpStore-Skeleton\MVC-SharpStore-Skeleton\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll
+C:\Users\stil2\Desktop\MVC-SharpStore-Skeleton\MVC-SharpStore-Skeleton\SimpleHttpServer\bin\Debug\SimpleHttpServer.pdb
+C:\Users\stil2\Desktop\MVC-SharpStore-Skeleton\MVC-SharpStore-Skeleton\SimpleHttpServer\obj\Debug\SimpleHttpServer.csprojResolveAssemblyReference.cache
+C:\Users\stil2\Desktop\MVC-SharpStore-Skeleton\MVC-SharpStore-Skeleton\SimpleHttpServer\obj\Debug\SimpleHttpServer.dll
+C:\Users\stil2\Desktop\MVC-SharpStore-Skeleton\MVC-SharpStore-Skeleton\SimpleHttpServer\obj\Debug\SimpleHttpServer.pdb
+E:\In Progress\06.-Pizzamore-With-MVC\SimpleHttpServer\bin\Debug\Resources\Pages\404.html
+E:\In Progress\06.-Pizzamore-With-MVC\SimpleHttpServer\bin\Debug\Resources\Pages\500.html
+E:\In Progress\06.-Pizzamore-With-MVC\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll.config
+E:\In Progress\06.-Pizzamore-With-MVC\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll
+E:\In Progress\06.-Pizzamore-With-MVC\SimpleHttpServer\bin\Debug\SimpleHttpServer.pdb
+E:\In Progress\06.-Pizzamore-With-MVC\SimpleHttpServer\obj\Debug\SimpleHttpServer.csprojResolveAssemblyReference.cache
+E:\In Progress\06.-Pizzamore-With-MVC\SimpleHttpServer\obj\Debug\SimpleHttpServer.dll
+E:\In Progress\06.-Pizzamore-With-MVC\SimpleHttpServer\obj\Debug\SimpleHttpServer.pdb
+C:\Alex\Softuni\C# Web\09.MVC-Persistence\MvcPersistance\SimpleHttpServer\bin\Debug\Resources\Pages\404.html
+C:\Alex\Softuni\C# Web\09.MVC-Persistence\MvcPersistance\SimpleHttpServer\bin\Debug\Resources\Pages\500.html
+C:\Alex\Softuni\C# Web\09.MVC-Persistence\MvcPersistance\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll.config
+C:\Alex\Softuni\C# Web\09.MVC-Persistence\MvcPersistance\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll
+C:\Alex\Softuni\C# Web\09.MVC-Persistence\MvcPersistance\SimpleHttpServer\bin\Debug\SimpleHttpServer.pdb
+C:\Alex\Softuni\C# Web\09.MVC-Persistence\MvcPersistance\SimpleHttpServer\obj\Debug\SimpleHttpServer.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni\C# Web\09.MVC-Persistence\MvcPersistance\SimpleHttpServer\obj\Debug\SimpleHttpServer.dll
+C:\Alex\Softuni\C# Web\09.MVC-Persistence\MvcPersistance\SimpleHttpServer\obj\Debug\SimpleHttpServer.pdb

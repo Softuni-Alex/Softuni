@@ -1,0 +1,6 @@
+D:\Coding\Softuni HomeWork\C# Advanced\03. Methods\HomeWork\Methods\NumberCalculations\bin\Debug\NumberCalculations.exe.config
+D:\Coding\Softuni HomeWork\C# Advanced\03. Methods\HomeWork\Methods\NumberCalculations\bin\Debug\NumberCalculations.exe
+D:\Coding\Softuni HomeWork\C# Advanced\03. Methods\HomeWork\Methods\NumberCalculations\bin\Debug\NumberCalculations.pdb
+D:\Coding\Softuni HomeWork\C# Advanced\03. Methods\HomeWork\Methods\NumberCalculations\obj\Debug\NumberCalculations.csprojResolveAssemblyReference.cache
+D:\Coding\Softuni HomeWork\C# Advanced\03. Methods\HomeWork\Methods\NumberCalculations\obj\Debug\NumberCalculations.exe
+D:\Coding\Softuni HomeWork\C# Advanced\03. Methods\HomeWork\Methods\NumberCalculations\obj\Debug\NumberCalculations.pdb

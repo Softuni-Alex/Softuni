@@ -1,0 +1,1 @@
+C:\Alex\Softuni\DB-Advanced\06.EntityFramework-AdvancedQuerying-Exercises\Querying\OllivanderFamily\bin\Debug\OllivanderFamily.exe.config

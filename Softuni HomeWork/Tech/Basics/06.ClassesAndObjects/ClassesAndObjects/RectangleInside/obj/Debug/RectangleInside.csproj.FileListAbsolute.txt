@@ -1,0 +1,6 @@
+D:\Coding\Softuni HomeWork\Tech\Basics\06.ClassesAndObjects\ClassesAndObjects\RectangleInside\bin\Debug\RectangleInside.exe.config
+D:\Coding\Softuni HomeWork\Tech\Basics\06.ClassesAndObjects\ClassesAndObjects\RectangleInside\bin\Debug\RectangleInside.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\06.ClassesAndObjects\ClassesAndObjects\RectangleInside\bin\Debug\RectangleInside.pdb
+D:\Coding\Softuni HomeWork\Tech\Basics\06.ClassesAndObjects\ClassesAndObjects\RectangleInside\obj\Debug\RectangleInside.csprojResolveAssemblyReference.cache
+D:\Coding\Softuni HomeWork\Tech\Basics\06.ClassesAndObjects\ClassesAndObjects\RectangleInside\obj\Debug\RectangleInside.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\06.ClassesAndObjects\ClassesAndObjects\RectangleInside\obj\Debug\RectangleInside.pdb

@@ -1,0 +1,6 @@
+D:\Coding\C# Advanced\11. AnotherExamPrep\May 31th\Problem03\TextTransformer\TextTransformer\TextTransformer\bin\Debug\TextTransformer.exe.config
+D:\Coding\C# Advanced\11. AnotherExamPrep\May 31th\Problem03\TextTransformer\TextTransformer\TextTransformer\bin\Debug\TextTransformer.exe
+D:\Coding\C# Advanced\11. AnotherExamPrep\May 31th\Problem03\TextTransformer\TextTransformer\TextTransformer\bin\Debug\TextTransformer.pdb
+D:\Coding\C# Advanced\11. AnotherExamPrep\May 31th\Problem03\TextTransformer\TextTransformer\TextTransformer\obj\Debug\TextTransformer.csprojResolveAssemblyReference.cache
+D:\Coding\C# Advanced\11. AnotherExamPrep\May 31th\Problem03\TextTransformer\TextTransformer\TextTransformer\obj\Debug\TextTransformer.exe
+D:\Coding\C# Advanced\11. AnotherExamPrep\May 31th\Problem03\TextTransformer\TextTransformer\TextTransformer\obj\Debug\TextTransformer.pdb

@@ -1,0 +1,4 @@
+D:\Coding\C# Advanced\07. LINQ\Linq Demos\LINQ-Queries\bin\Debug\LINQ-Queries.exe
+D:\Coding\C# Advanced\07. LINQ\Linq Demos\LINQ-Queries\bin\Debug\LINQ-Queries.pdb
+D:\Coding\C# Advanced\07. LINQ\Linq Demos\LINQ-Queries\obj\x86\Debug\LINQ-Queries.exe
+D:\Coding\C# Advanced\07. LINQ\Linq Demos\LINQ-Queries\obj\x86\Debug\LINQ-Queries.pdb

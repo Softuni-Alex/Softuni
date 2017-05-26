@@ -1,0 +1,19 @@
+1- Namespace
+2- Interface 
+  -IAtack
+  -IInputHandler
+  -IRenderer
+
+3- Engine/Core
+
+4-Characters
+
+5-Items
+
+6-UI
+   -ConsoleInputReader
+   -ConsoleRenderer
+
+Position
+GameObject
+Exception Folder

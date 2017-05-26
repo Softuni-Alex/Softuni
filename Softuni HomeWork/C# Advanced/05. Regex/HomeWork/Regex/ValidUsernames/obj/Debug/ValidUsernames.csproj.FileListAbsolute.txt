@@ -1,0 +1,5 @@
+D:\Coding\Softuni HomeWork\C# Advanced\05. Regex\HomeWork\Regex\ValidUsernames\bin\Debug\ValidUsernames.exe.config
+D:\Coding\Softuni HomeWork\C# Advanced\05. Regex\HomeWork\Regex\ValidUsernames\bin\Debug\ValidUsernames.exe
+D:\Coding\Softuni HomeWork\C# Advanced\05. Regex\HomeWork\Regex\ValidUsernames\bin\Debug\ValidUsernames.pdb
+D:\Coding\Softuni HomeWork\C# Advanced\05. Regex\HomeWork\Regex\ValidUsernames\obj\Debug\ValidUsernames.exe
+D:\Coding\Softuni HomeWork\C# Advanced\05. Regex\HomeWork\Regex\ValidUsernames\obj\Debug\ValidUsernames.pdb

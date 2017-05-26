@@ -1,0 +1,6 @@
+D:\Coding\C# Advanced\01. Array List Stack Queues\Exercises\ExerciseArrayListStackQueue\Lists\bin\Debug\Lists.exe.config
+D:\Coding\C# Advanced\01. Array List Stack Queues\Exercises\ExerciseArrayListStackQueue\Lists\bin\Debug\Lists.exe
+D:\Coding\C# Advanced\01. Array List Stack Queues\Exercises\ExerciseArrayListStackQueue\Lists\bin\Debug\Lists.pdb
+D:\Coding\C# Advanced\01. Array List Stack Queues\Exercises\ExerciseArrayListStackQueue\Lists\obj\Debug\Lists.exe
+D:\Coding\C# Advanced\01. Array List Stack Queues\Exercises\ExerciseArrayListStackQueue\Lists\obj\Debug\Lists.pdb
+D:\Coding\C# Advanced\01. Array List Stack Queues\Exercises\ExerciseArrayListStackQueue\Lists\obj\Debug\Lists.csprojResolveAssemblyReference.cache

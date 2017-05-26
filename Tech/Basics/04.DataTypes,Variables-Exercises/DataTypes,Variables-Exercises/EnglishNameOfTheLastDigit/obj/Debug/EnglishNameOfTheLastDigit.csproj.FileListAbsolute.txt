@@ -1,0 +1,5 @@
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\EnglishNameOfTheLastDigit\bin\Debug\EnglishNameOfTheLastDigit.exe.config
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\EnglishNameOfTheLastDigit\bin\Debug\EnglishNameOfTheLastDigit.exe
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\EnglishNameOfTheLastDigit\bin\Debug\EnglishNameOfTheLastDigit.pdb
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\EnglishNameOfTheLastDigit\obj\Debug\EnglishNameOfTheLastDigit.exe
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\EnglishNameOfTheLastDigit\obj\Debug\EnglishNameOfTheLastDigit.pdb

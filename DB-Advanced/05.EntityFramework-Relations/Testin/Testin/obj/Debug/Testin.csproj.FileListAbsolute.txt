@@ -1,0 +1,1 @@
+C:\Alex\Softuni\DB-Advanced\05.EntityFramework-Relations\Testin\Testin\bin\Debug\Testin.exe.config

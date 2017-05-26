@@ -1,0 +1,5 @@
+D:\Coding\C# Advanced\02. Multidimentional arrays, Dictionary, Sets and Hashes\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\PascalTriangle\bin\Debug\PascalTriangle.exe
+D:\Coding\C# Advanced\02. Multidimentional arrays, Dictionary, Sets and Hashes\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\PascalTriangle\bin\Debug\PascalTriangle.pdb
+D:\Coding\C# Advanced\02. Multidimentional arrays, Dictionary, Sets and Hashes\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\PascalTriangle\obj\x86\Debug\5. PascalTriangle.csprojResolveAssemblyReference.cache
+D:\Coding\C# Advanced\02. Multidimentional arrays, Dictionary, Sets and Hashes\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\PascalTriangle\obj\x86\Debug\PascalTriangle.exe
+D:\Coding\C# Advanced\02. Multidimentional arrays, Dictionary, Sets and Hashes\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\PascalTriangle\obj\x86\Debug\PascalTriangle.pdb

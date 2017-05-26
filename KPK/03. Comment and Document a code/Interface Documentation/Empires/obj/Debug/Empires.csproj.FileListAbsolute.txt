@@ -1,0 +1,2 @@
+D:\Coding\SoftUni\Exam Preparation\Empires\Empires\Empires\bin\Debug\Empires.exe.config
+D:\Coding\KPK\03. Comment and Document a code\Interface Documentation\Empires\bin\Debug\Empires.exe.config

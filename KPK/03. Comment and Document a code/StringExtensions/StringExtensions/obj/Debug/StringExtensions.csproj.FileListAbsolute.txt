@@ -1,0 +1,7 @@
+D:\Coding\KPK\03. Comment and Document a code\StringExtensions\StringExtensions\bin\Debug\StringExtensions.exe.config
+D:\Coding\KPK\03. Comment and Document a code\StringExtensions\StringExtensions\bin\Debug\StringExtensions.XML
+D:\Coding\KPK\03. Comment and Document a code\StringExtensions\StringExtensions\obj\Debug\StringExtensions.csprojResolveAssemblyReference.cache
+D:\Coding\KPK\03. Comment and Document a code\StringExtensions\StringExtensions\bin\Debug\StringExtensions.exe
+D:\Coding\KPK\03. Comment and Document a code\StringExtensions\StringExtensions\bin\Debug\StringExtensions.pdb
+D:\Coding\KPK\03. Comment and Document a code\StringExtensions\StringExtensions\obj\Debug\StringExtensions.exe
+D:\Coding\KPK\03. Comment and Document a code\StringExtensions\StringExtensions\obj\Debug\StringExtensions.pdb

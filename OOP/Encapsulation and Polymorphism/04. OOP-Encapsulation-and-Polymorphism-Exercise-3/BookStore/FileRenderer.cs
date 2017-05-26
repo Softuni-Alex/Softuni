@@ -1,0 +1,9 @@
+﻿//namespace BookStore
+//{
+//    class FileRenderer
+//    {
+
+
+
+//    }
+//}

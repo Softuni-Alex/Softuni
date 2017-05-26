@@ -1,0 +1,5 @@
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\Get Minion Names\bin\Debug\Get Minion Names.exe.config
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\Get Minion Names\bin\Debug\Get Minion Names.exe
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\Get Minion Names\bin\Debug\Get Minion Names.pdb
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\Get Minion Names\obj\Debug\Get Minion Names.exe
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\Get Minion Names\obj\Debug\Get Minion Names.pdb

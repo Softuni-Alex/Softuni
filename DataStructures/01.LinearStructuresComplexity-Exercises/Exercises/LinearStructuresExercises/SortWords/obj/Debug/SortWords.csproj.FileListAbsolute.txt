@@ -1,0 +1,6 @@
+C:\Alex\Softuni\DataStructures\01.LinearStructuresComplexity-Exercises\Exercises\LinearStructuresExercises\SortWords\bin\Debug\SortWords.exe.config
+C:\Alex\Softuni\DataStructures\01.LinearStructuresComplexity-Exercises\Exercises\LinearStructuresExercises\SortWords\bin\Debug\SortWords.exe
+C:\Alex\Softuni\DataStructures\01.LinearStructuresComplexity-Exercises\Exercises\LinearStructuresExercises\SortWords\bin\Debug\SortWords.pdb
+C:\Alex\Softuni\DataStructures\01.LinearStructuresComplexity-Exercises\Exercises\LinearStructuresExercises\SortWords\obj\Debug\SortWords.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni\DataStructures\01.LinearStructuresComplexity-Exercises\Exercises\LinearStructuresExercises\SortWords\obj\Debug\SortWords.exe
+C:\Alex\Softuni\DataStructures\01.LinearStructuresComplexity-Exercises\Exercises\LinearStructuresExercises\SortWords\obj\Debug\SortWords.pdb

@@ -1,0 +1,5 @@
+D:\Coding\Softuni HomeWork\C# Advanced\04. Strings\HomeWork\Strings\CountSubstringOccurences\bin\Debug\CountSubstringOccurences.exe.config
+D:\Coding\Softuni HomeWork\C# Advanced\04. Strings\HomeWork\Strings\CountSubstringOccurences\bin\Debug\CountSubstringOccurences.exe
+D:\Coding\Softuni HomeWork\C# Advanced\04. Strings\HomeWork\Strings\CountSubstringOccurences\bin\Debug\CountSubstringOccurences.pdb
+D:\Coding\Softuni HomeWork\C# Advanced\04. Strings\HomeWork\Strings\CountSubstringOccurences\obj\Debug\CountSubstringOccurences.exe
+D:\Coding\Softuni HomeWork\C# Advanced\04. Strings\HomeWork\Strings\CountSubstringOccurences\obj\Debug\CountSubstringOccurences.pdb

@@ -1,0 +1,12 @@
+C:\Alex\Softuni\DB-Advanced\05.EntityFramework-Relations-Exercises\StudentSystem\FootballBookmakerSystem.Data\bin\Debug\FootballBookmakerSystem.Data.dll.config
+C:\Alex\Softuni\DB-Advanced\05.EntityFramework-Relations-Exercises\StudentSystem\FootballBookmakerSystem.Data\bin\Debug\FootballBookmakerSystem.Data.dll
+C:\Alex\Softuni\DB-Advanced\05.EntityFramework-Relations-Exercises\StudentSystem\FootballBookmakerSystem.Data\bin\Debug\FootballBookmakerSystem.Data.pdb
+C:\Alex\Softuni\DB-Advanced\05.EntityFramework-Relations-Exercises\StudentSystem\FootballBookmakerSystem.Data\bin\Debug\EntityFramework.dll
+C:\Alex\Softuni\DB-Advanced\05.EntityFramework-Relations-Exercises\StudentSystem\FootballBookmakerSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Alex\Softuni\DB-Advanced\05.EntityFramework-Relations-Exercises\StudentSystem\FootballBookmakerSystem.Data\bin\Debug\FootballBookmakerSystem.Models.dll
+C:\Alex\Softuni\DB-Advanced\05.EntityFramework-Relations-Exercises\StudentSystem\FootballBookmakerSystem.Data\bin\Debug\FootballBookmakerSystem.Models.pdb
+C:\Alex\Softuni\DB-Advanced\05.EntityFramework-Relations-Exercises\StudentSystem\FootballBookmakerSystem.Data\bin\Debug\EntityFramework.xml
+C:\Alex\Softuni\DB-Advanced\05.EntityFramework-Relations-Exercises\StudentSystem\FootballBookmakerSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Alex\Softuni\DB-Advanced\05.EntityFramework-Relations-Exercises\StudentSystem\FootballBookmakerSystem.Data\obj\Debug\FootballBookmakerSystem.Data.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni\DB-Advanced\05.EntityFramework-Relations-Exercises\StudentSystem\FootballBookmakerSystem.Data\obj\Debug\FootballBookmakerSystem.Data.dll
+C:\Alex\Softuni\DB-Advanced\05.EntityFramework-Relations-Exercises\StudentSystem\FootballBookmakerSystem.Data\obj\Debug\FootballBookmakerSystem.Data.pdb

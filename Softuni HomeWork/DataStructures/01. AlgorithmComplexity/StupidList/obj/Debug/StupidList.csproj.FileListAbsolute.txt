@@ -1,0 +1,9 @@
+D:\Coding\Softuni HomeWork\DataStructures\HomeWork\AlgorithmComplexity\StupidList\bin\Debug\StupidList.exe.config
+D:\Coding\Softuni HomeWork\DataStructures\HomeWork\AlgorithmComplexity\StupidList\bin\Debug\StupidList.exe
+D:\Coding\Softuni HomeWork\DataStructures\HomeWork\AlgorithmComplexity\StupidList\bin\Debug\StupidList.pdb
+D:\Coding\Softuni HomeWork\DataStructures\HomeWork\AlgorithmComplexity\StupidList\obj\Debug\StupidList.csprojResolveAssemblyReference.cache
+D:\Coding\Softuni HomeWork\DataStructures\HomeWork\AlgorithmComplexity\StupidList\obj\Debug\StupidList.exe
+D:\Coding\Softuni HomeWork\DataStructures\HomeWork\AlgorithmComplexity\StupidList\obj\Debug\StupidList.pdb
+D:\Coding\Softuni HomeWork\DataStructures\01. AlgorithmComplexity\StupidList\bin\Debug\StupidList.exe.config
+D:\Coding\Softuni HomeWork\DataStructures\01. AlgorithmComplexity\StupidList\obj\Debug\StupidList.exe
+D:\Coding\Softuni HomeWork\DataStructures\01. AlgorithmComplexity\StupidList\obj\Debug\StupidList.pdb

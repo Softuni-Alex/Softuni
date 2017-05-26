@@ -1,0 +1,6 @@
+D:\Coding\Softuni HomeWork\Tech\Basics\02.DataTypes-Variables\DataTypes-Variables\Centuries\bin\Debug\Centuries.exe.config
+D:\Coding\Softuni HomeWork\Tech\Basics\02.DataTypes-Variables\DataTypes-Variables\Centuries\bin\Debug\Centuries.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\02.DataTypes-Variables\DataTypes-Variables\Centuries\bin\Debug\Centuries.pdb
+D:\Coding\Softuni HomeWork\Tech\Basics\02.DataTypes-Variables\DataTypes-Variables\Centuries\obj\Debug\Centuries.csprojResolveAssemblyReference.cache
+D:\Coding\Softuni HomeWork\Tech\Basics\02.DataTypes-Variables\DataTypes-Variables\Centuries\obj\Debug\Centuries.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\02.DataTypes-Variables\DataTypes-Variables\Centuries\obj\Debug\Centuries.pdb

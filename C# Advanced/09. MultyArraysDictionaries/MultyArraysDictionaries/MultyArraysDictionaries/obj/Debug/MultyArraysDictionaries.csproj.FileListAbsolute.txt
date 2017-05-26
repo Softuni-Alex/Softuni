@@ -1,0 +1,6 @@
+D:\Coding\C# Advanced\09. MultyArraysDictionaries\MultyArraysDictionaries\MultyArraysDictionaries\bin\Debug\MultyArraysDictionaries.exe.config
+D:\Coding\C# Advanced\09. MultyArraysDictionaries\MultyArraysDictionaries\MultyArraysDictionaries\bin\Debug\MultyArraysDictionaries.exe
+D:\Coding\C# Advanced\09. MultyArraysDictionaries\MultyArraysDictionaries\MultyArraysDictionaries\bin\Debug\MultyArraysDictionaries.pdb
+D:\Coding\C# Advanced\09. MultyArraysDictionaries\MultyArraysDictionaries\MultyArraysDictionaries\obj\Debug\MultyArraysDictionaries.csprojResolveAssemblyReference.cache
+D:\Coding\C# Advanced\09. MultyArraysDictionaries\MultyArraysDictionaries\MultyArraysDictionaries\obj\Debug\MultyArraysDictionaries.exe
+D:\Coding\C# Advanced\09. MultyArraysDictionaries\MultyArraysDictionaries\MultyArraysDictionaries\obj\Debug\MultyArraysDictionaries.pdb

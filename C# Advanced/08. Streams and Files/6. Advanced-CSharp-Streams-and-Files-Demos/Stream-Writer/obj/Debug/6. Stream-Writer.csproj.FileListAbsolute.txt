@@ -1,0 +1,6 @@
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Stream-Writer\bin\Debug\Stream-Writer.exe.config
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Stream-Writer\bin\Debug\Stream-Writer.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Stream-Writer\bin\Debug\Stream-Writer.pdb
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Stream-Writer\obj\Debug\6. Stream-Writer.csprojResolveAssemblyReference.cache
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Stream-Writer\obj\Debug\Stream-Writer.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Stream-Writer\obj\Debug\Stream-Writer.pdb

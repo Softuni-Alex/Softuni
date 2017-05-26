@@ -1,0 +1,6 @@
+D:\Coding\Tech\Basics\14.Exam\Exam\Problem01\bin\Debug\Problem01.exe.config
+D:\Coding\Tech\Basics\14.Exam\Exam\Problem01\bin\Debug\Problem01.exe
+D:\Coding\Tech\Basics\14.Exam\Exam\Problem01\bin\Debug\Problem01.pdb
+D:\Coding\Tech\Basics\14.Exam\Exam\Problem01\obj\Debug\Problem01.csprojResolveAssemblyReference.cache
+D:\Coding\Tech\Basics\14.Exam\Exam\Problem01\obj\Debug\Problem01.exe
+D:\Coding\Tech\Basics\14.Exam\Exam\Problem01\obj\Debug\Problem01.pdb

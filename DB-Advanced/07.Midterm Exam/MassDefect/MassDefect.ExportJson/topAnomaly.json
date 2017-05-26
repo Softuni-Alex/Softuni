@@ -1,0 +1,26 @@
+[
+  {
+    "id": 14,
+    "originPlanet": {
+      "name": {
+        "Id": 1,
+        "Name": "Kepler-1",
+        "Sun": null,
+        "SolarSystem": null,
+        "OriginAnomalies": null,
+        "TeleportAnomalies": null
+      }
+    },
+    "teleportPlanet": {
+      "name": {
+        "Id": 5,
+        "Name": "Alpha-N20",
+        "Sun": null,
+        "SolarSystem": null,
+        "OriginAnomalies": null,
+        "TeleportAnomalies": null
+      }
+    },
+    "victimsCount": 5
+  }
+]

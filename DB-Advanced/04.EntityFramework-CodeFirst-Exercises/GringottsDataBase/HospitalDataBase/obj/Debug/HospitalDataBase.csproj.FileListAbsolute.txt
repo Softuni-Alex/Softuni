@@ -1,0 +1,12 @@
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\HospitalDataBase\bin\Debug\HospitalDataBase.exe.config
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\HospitalDataBase\bin\Debug\HospitalDataBase.exe
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\HospitalDataBase\bin\Debug\HospitalDataBase.pdb
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\HospitalDataBase\bin\Debug\EntityFramework.dll
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\HospitalDataBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\HospitalDataBase\bin\Debug\EntityFramework.xml
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\HospitalDataBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\HospitalDataBase\obj\Debug\HospitalDataBase.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\HospitalDataBase\obj\Debug\HospitalDataBase.exe
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\HospitalDataBase\obj\Debug\HospitalDataBase.pdb
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\HospitalDataBase\obj\Debug\HospitalDataBase.Migrations.InitialCreate.resources
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\HospitalDataBase\obj\Debug\HospitalDataBase.csproj.GenerateResource.Cache

@@ -1,0 +1,6 @@
+D:\Coding\Softuni HomeWork\OOP\Inhiritance  and Abstraction\HomeWork_Inhiritance_Abstraction\Animals\bin\Debug\Animals.exe.config
+D:\Coding\Softuni HomeWork\OOP\Inhiritance  and Abstraction\HomeWork_Inhiritance_Abstraction\Animals\obj\Debug\Animals.csprojResolveAssemblyReference.cache
+D:\Coding\Softuni HomeWork\OOP\Inhiritance  and Abstraction\HomeWork_Inhiritance_Abstraction\Animals\bin\Debug\Animals.exe
+D:\Coding\Softuni HomeWork\OOP\Inhiritance  and Abstraction\HomeWork_Inhiritance_Abstraction\Animals\bin\Debug\Animals.pdb
+D:\Coding\Softuni HomeWork\OOP\Inhiritance  and Abstraction\HomeWork_Inhiritance_Abstraction\Animals\obj\Debug\Animals.exe
+D:\Coding\Softuni HomeWork\OOP\Inhiritance  and Abstraction\HomeWork_Inhiritance_Abstraction\Animals\obj\Debug\Animals.pdb

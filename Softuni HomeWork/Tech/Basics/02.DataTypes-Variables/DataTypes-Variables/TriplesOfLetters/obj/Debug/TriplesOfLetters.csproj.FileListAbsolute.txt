@@ -1,0 +1,5 @@
+D:\Coding\Softuni HomeWork\Tech\Basics\02.DataTypes-Variables\DataTypes-Variables\TriplesOfLetters\bin\Debug\TriplesOfLetters.exe.config
+D:\Coding\Softuni HomeWork\Tech\Basics\02.DataTypes-Variables\DataTypes-Variables\TriplesOfLetters\bin\Debug\TriplesOfLetters.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\02.DataTypes-Variables\DataTypes-Variables\TriplesOfLetters\bin\Debug\TriplesOfLetters.pdb
+D:\Coding\Softuni HomeWork\Tech\Basics\02.DataTypes-Variables\DataTypes-Variables\TriplesOfLetters\obj\Debug\TriplesOfLetters.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\02.DataTypes-Variables\DataTypes-Variables\TriplesOfLetters\obj\Debug\TriplesOfLetters.pdb

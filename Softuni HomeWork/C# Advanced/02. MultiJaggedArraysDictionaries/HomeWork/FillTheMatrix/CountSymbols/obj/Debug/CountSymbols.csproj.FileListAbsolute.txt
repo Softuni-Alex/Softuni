@@ -1,0 +1,5 @@
+D:\Coding\Softuni HomeWork\C# Advanced\02. MultiJaggedArraysDictionaries\HomeWork\FillTheMatrix\CountSymbols\bin\Debug\CountSymbols.exe.config
+D:\Coding\Softuni HomeWork\C# Advanced\02. MultiJaggedArraysDictionaries\HomeWork\FillTheMatrix\CountSymbols\bin\Debug\CountSymbols.exe
+D:\Coding\Softuni HomeWork\C# Advanced\02. MultiJaggedArraysDictionaries\HomeWork\FillTheMatrix\CountSymbols\bin\Debug\CountSymbols.pdb
+D:\Coding\Softuni HomeWork\C# Advanced\02. MultiJaggedArraysDictionaries\HomeWork\FillTheMatrix\CountSymbols\obj\Debug\CountSymbols.exe
+D:\Coding\Softuni HomeWork\C# Advanced\02. MultiJaggedArraysDictionaries\HomeWork\FillTheMatrix\CountSymbols\obj\Debug\CountSymbols.pdb

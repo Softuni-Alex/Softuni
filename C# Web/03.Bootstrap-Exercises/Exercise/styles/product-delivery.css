@@ -1,0 +1,15 @@
+.pending{
+    background-color: #e5e5e5;
+}
+
+.delivered{
+    background-color: #c9e2b3;
+}
+
+.in-call-confirm{
+    background-color: #f7e1b5;
+}
+
+.declined{
+    background-color: #e4b9b9;
+}

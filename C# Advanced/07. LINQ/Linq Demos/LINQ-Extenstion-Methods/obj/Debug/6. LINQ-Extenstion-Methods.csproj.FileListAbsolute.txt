@@ -1,0 +1,5 @@
+D:\Coding\C# Advanced\07. LINQ\Linq Demos\LINQ-Extenstion-Methods\bin\Debug\LINQ-Extenstion-Methods.exe.config
+D:\Coding\C# Advanced\07. LINQ\Linq Demos\LINQ-Extenstion-Methods\bin\Debug\LINQ-Extenstion-Methods.exe
+D:\Coding\C# Advanced\07. LINQ\Linq Demos\LINQ-Extenstion-Methods\bin\Debug\LINQ-Extenstion-Methods.pdb
+D:\Coding\C# Advanced\07. LINQ\Linq Demos\LINQ-Extenstion-Methods\obj\Debug\LINQ-Extenstion-Methods.exe
+D:\Coding\C# Advanced\07. LINQ\Linq Demos\LINQ-Extenstion-Methods\obj\Debug\LINQ-Extenstion-Methods.pdb

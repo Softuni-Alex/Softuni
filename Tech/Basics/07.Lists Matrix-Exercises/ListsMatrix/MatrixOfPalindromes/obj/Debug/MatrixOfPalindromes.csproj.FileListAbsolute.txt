@@ -1,0 +1,5 @@
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\MatrixOfPalindromes\bin\Debug\MatrixOfPalindromes.exe.config
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\MatrixOfPalindromes\bin\Debug\MatrixOfPalindromes.exe
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\MatrixOfPalindromes\bin\Debug\MatrixOfPalindromes.pdb
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\MatrixOfPalindromes\obj\Debug\MatrixOfPalindromes.exe
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\MatrixOfPalindromes\obj\Debug\MatrixOfPalindromes.pdb

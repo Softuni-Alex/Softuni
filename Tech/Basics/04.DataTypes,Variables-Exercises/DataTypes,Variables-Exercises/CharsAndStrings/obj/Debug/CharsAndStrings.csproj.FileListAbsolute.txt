@@ -1,0 +1,5 @@
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\CharsAndStrings\bin\Debug\CharsAndStrings.exe.config
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\CharsAndStrings\bin\Debug\CharsAndStrings.exe
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\CharsAndStrings\bin\Debug\CharsAndStrings.pdb
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\CharsAndStrings\obj\Debug\CharsAndStrings.exe
+D:\Coding\Tech\Basics\04.DataTypes,Variables-Exercises\DataTypes,Variables-Exercises\CharsAndStrings\obj\Debug\CharsAndStrings.pdb

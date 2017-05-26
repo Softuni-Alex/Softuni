@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalacticGPS", "OtherTypes_HomeWork\GalacticGPS.csproj", "{86CFCB53-B260-4A61-ABEB-2C64527C2B30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractionCalculator", "FractionCalculator\FractionCalculator.csproj", "{9129357A-C867-4281-8BAE-FC9E3D3FB447}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericList", "GenericList\GenericList.csproj", "{02F59055-C52E-420E-80FD-77AD9E1BC058}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordDocGenerator", "WordDocGenerator\WordDocGenerator.csproj", "{6D8A7010-B35D-4B71-B9FB-725C7F2761BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86CFCB53-B260-4A61-ABEB-2C64527C2B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86CFCB53-B260-4A61-ABEB-2C64527C2B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86CFCB53-B260-4A61-ABEB-2C64527C2B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86CFCB53-B260-4A61-ABEB-2C64527C2B30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9129357A-C867-4281-8BAE-FC9E3D3FB447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9129357A-C867-4281-8BAE-FC9E3D3FB447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9129357A-C867-4281-8BAE-FC9E3D3FB447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9129357A-C867-4281-8BAE-FC9E3D3FB447}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02F59055-C52E-420E-80FD-77AD9E1BC058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02F59055-C52E-420E-80FD-77AD9E1BC058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02F59055-C52E-420E-80FD-77AD9E1BC058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02F59055-C52E-420E-80FD-77AD9E1BC058}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D8A7010-B35D-4B71-B9FB-725C7F2761BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D8A7010-B35D-4B71-B9FB-725C7F2761BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D8A7010-B35D-4B71-B9FB-725C7F2761BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D8A7010-B35D-4B71-B9FB-725C7F2761BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

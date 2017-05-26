@@ -1,0 +1,6 @@
+D:\Coding\Tech\Basics\11.ExamPrep-Second\ExamPrep-Second\SoftUniCoffeeSupplies\bin\Debug\SoftUniCoffeeSupplies.exe.config
+D:\Coding\Tech\Basics\11.ExamPrep-Second\ExamPrep-Second\SoftUniCoffeeSupplies\bin\Debug\SoftUniCoffeeSupplies.exe
+D:\Coding\Tech\Basics\11.ExamPrep-Second\ExamPrep-Second\SoftUniCoffeeSupplies\bin\Debug\SoftUniCoffeeSupplies.pdb
+D:\Coding\Tech\Basics\11.ExamPrep-Second\ExamPrep-Second\SoftUniCoffeeSupplies\obj\Debug\SoftUniCoffeeSupplies.csprojResolveAssemblyReference.cache
+D:\Coding\Tech\Basics\11.ExamPrep-Second\ExamPrep-Second\SoftUniCoffeeSupplies\obj\Debug\SoftUniCoffeeSupplies.exe
+D:\Coding\Tech\Basics\11.ExamPrep-Second\ExamPrep-Second\SoftUniCoffeeSupplies\obj\Debug\SoftUniCoffeeSupplies.pdb

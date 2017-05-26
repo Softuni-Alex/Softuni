@@ -1,0 +1,6 @@
+C:\SVN\csharp-advanced\May-2015\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\Phonebook\bin\Debug\Phonebook.exe.config
+D:\Coding\C# Advanced\02. Multidimentional arrays, Dictionary, Sets and Hashes\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\Phonebook\bin\Debug\Phonebook.exe.config
+D:\Coding\C# Advanced\02. Multidimentional arrays, Dictionary, Sets and Hashes\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\Phonebook\bin\Debug\Phonebook.exe
+D:\Coding\C# Advanced\02. Multidimentional arrays, Dictionary, Sets and Hashes\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\Phonebook\bin\Debug\Phonebook.pdb
+D:\Coding\C# Advanced\02. Multidimentional arrays, Dictionary, Sets and Hashes\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\Phonebook\obj\Debug\Phonebook.exe
+D:\Coding\C# Advanced\02. Multidimentional arrays, Dictionary, Sets and Hashes\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries-Demos\Phonebook\obj\Debug\Phonebook.pdb

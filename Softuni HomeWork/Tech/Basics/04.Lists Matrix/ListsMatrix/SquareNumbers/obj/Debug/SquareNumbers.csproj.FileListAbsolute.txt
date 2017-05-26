@@ -1,0 +1,6 @@
+D:\Coding\Softuni HomeWork\Tech\Basics\04.Lists Matrix\ListsMatrix\SquareNumbers\bin\Debug\SquareNumbers.exe.config
+D:\Coding\Softuni HomeWork\Tech\Basics\04.Lists Matrix\ListsMatrix\SquareNumbers\bin\Debug\SquareNumbers.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\04.Lists Matrix\ListsMatrix\SquareNumbers\bin\Debug\SquareNumbers.pdb
+D:\Coding\Softuni HomeWork\Tech\Basics\04.Lists Matrix\ListsMatrix\SquareNumbers\obj\Debug\SquareNumbers.csprojResolveAssemblyReference.cache
+D:\Coding\Softuni HomeWork\Tech\Basics\04.Lists Matrix\ListsMatrix\SquareNumbers\obj\Debug\SquareNumbers.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\04.Lists Matrix\ListsMatrix\SquareNumbers\obj\Debug\SquareNumbers.pdb

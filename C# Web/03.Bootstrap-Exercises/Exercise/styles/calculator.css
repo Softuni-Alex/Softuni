@@ -1,0 +1,13 @@
+.btn{
+    margin-top:10px;
+    width: 120px;
+}
+
+.btn-darkblue{
+    background-color: #204d74;
+    color: white;
+}
+
+.input-wider{
+    width: 93%;
+}

@@ -1,0 +1,5 @@
+D:\Coding\Softuni HomeWork\Tech\Basics\02.DataTypes-Variables\DataTypes-Variables\Filled Square\bin\Debug\Filled Square.exe.config
+D:\Coding\Softuni HomeWork\Tech\Basics\02.DataTypes-Variables\DataTypes-Variables\Filled Square\bin\Debug\Filled Square.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\02.DataTypes-Variables\DataTypes-Variables\Filled Square\bin\Debug\Filled Square.pdb
+D:\Coding\Softuni HomeWork\Tech\Basics\02.DataTypes-Variables\DataTypes-Variables\Filled Square\obj\Debug\Filled Square.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\02.DataTypes-Variables\DataTypes-Variables\Filled Square\obj\Debug\Filled Square.pdb

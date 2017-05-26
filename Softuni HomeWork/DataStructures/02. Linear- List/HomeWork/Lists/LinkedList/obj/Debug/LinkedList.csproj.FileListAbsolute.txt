@@ -1,0 +1,5 @@
+D:\Coding\Softuni HomeWork\DataStructures\02. Linear- List\HomeWork\Lists\LinkedList\bin\Debug\LinkedList.exe.config
+D:\Coding\Softuni HomeWork\DataStructures\02. Linear- List\HomeWork\Lists\LinkedList\bin\Debug\LinkedList.exe
+D:\Coding\Softuni HomeWork\DataStructures\02. Linear- List\HomeWork\Lists\LinkedList\bin\Debug\LinkedList.pdb
+D:\Coding\Softuni HomeWork\DataStructures\02. Linear- List\HomeWork\Lists\LinkedList\obj\Debug\LinkedList.exe
+D:\Coding\Softuni HomeWork\DataStructures\02. Linear- List\HomeWork\Lists\LinkedList\obj\Debug\LinkedList.pdb

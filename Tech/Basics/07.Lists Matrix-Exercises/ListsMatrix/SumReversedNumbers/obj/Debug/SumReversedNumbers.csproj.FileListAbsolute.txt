@@ -1,0 +1,6 @@
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\SumReversedNumbers\bin\Debug\SumReversedNumbers.exe.config
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\SumReversedNumbers\bin\Debug\SumReversedNumbers.exe
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\SumReversedNumbers\bin\Debug\SumReversedNumbers.pdb
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\SumReversedNumbers\obj\Debug\SumReversedNumbers.exe
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\SumReversedNumbers\obj\Debug\SumReversedNumbers.pdb
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\SumReversedNumbers\obj\Debug\SumReversedNumbers.csprojResolveAssemblyReference.cache

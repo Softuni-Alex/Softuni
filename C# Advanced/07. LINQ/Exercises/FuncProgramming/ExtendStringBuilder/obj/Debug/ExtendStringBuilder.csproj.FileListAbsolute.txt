@@ -1,0 +1,6 @@
+D:\Coding\C# Advanced\07. LINQ\Exercises\FuncProgramming\ExtendStringBuilder\bin\Debug\ExtendStringBuilder.exe.config
+D:\Coding\C# Advanced\07. LINQ\Exercises\FuncProgramming\ExtendStringBuilder\bin\Debug\ExtendStringBuilder.exe
+D:\Coding\C# Advanced\07. LINQ\Exercises\FuncProgramming\ExtendStringBuilder\bin\Debug\ExtendStringBuilder.pdb
+D:\Coding\C# Advanced\07. LINQ\Exercises\FuncProgramming\ExtendStringBuilder\obj\Debug\ExtendStringBuilder.csprojResolveAssemblyReference.cache
+D:\Coding\C# Advanced\07. LINQ\Exercises\FuncProgramming\ExtendStringBuilder\obj\Debug\ExtendStringBuilder.exe
+D:\Coding\C# Advanced\07. LINQ\Exercises\FuncProgramming\ExtendStringBuilder\obj\Debug\ExtendStringBuilder.pdb

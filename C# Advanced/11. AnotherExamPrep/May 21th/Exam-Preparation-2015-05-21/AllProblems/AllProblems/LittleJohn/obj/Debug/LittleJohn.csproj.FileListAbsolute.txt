@@ -1,0 +1,6 @@
+D:\Coding\C# Advanced\11. AnotherExamPrep\May 21th\Exam-Preparation-2015-05-21\AllProblems\AllProblems\LittleJohn\bin\Debug\LittleJohn.exe.config
+D:\Coding\C# Advanced\11. AnotherExamPrep\May 21th\Exam-Preparation-2015-05-21\AllProblems\AllProblems\LittleJohn\bin\Debug\LittleJohn.exe
+D:\Coding\C# Advanced\11. AnotherExamPrep\May 21th\Exam-Preparation-2015-05-21\AllProblems\AllProblems\LittleJohn\bin\Debug\LittleJohn.pdb
+D:\Coding\C# Advanced\11. AnotherExamPrep\May 21th\Exam-Preparation-2015-05-21\AllProblems\AllProblems\LittleJohn\obj\Debug\LittleJohn.csprojResolveAssemblyReference.cache
+D:\Coding\C# Advanced\11. AnotherExamPrep\May 21th\Exam-Preparation-2015-05-21\AllProblems\AllProblems\LittleJohn\obj\Debug\LittleJohn.exe
+D:\Coding\C# Advanced\11. AnotherExamPrep\May 21th\Exam-Preparation-2015-05-21\AllProblems\AllProblems\LittleJohn\obj\Debug\LittleJohn.pdb

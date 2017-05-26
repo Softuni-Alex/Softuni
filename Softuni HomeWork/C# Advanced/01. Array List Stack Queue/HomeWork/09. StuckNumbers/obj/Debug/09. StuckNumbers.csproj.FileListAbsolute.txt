@@ -1,0 +1,5 @@
+D:\Coding\Softuni HomeWork\C# Advanced\01. Array List Stack Queue\HomeWork\09. StuckNumbers\bin\Debug\_09.StuckNumbers.exe.config
+D:\Coding\Softuni HomeWork\C# Advanced\01. Array List Stack Queue\HomeWork\09. StuckNumbers\bin\Debug\_09.StuckNumbers.exe
+D:\Coding\Softuni HomeWork\C# Advanced\01. Array List Stack Queue\HomeWork\09. StuckNumbers\bin\Debug\_09.StuckNumbers.pdb
+D:\Coding\Softuni HomeWork\C# Advanced\01. Array List Stack Queue\HomeWork\09. StuckNumbers\obj\Debug\_09.StuckNumbers.exe
+D:\Coding\Softuni HomeWork\C# Advanced\01. Array List Stack Queue\HomeWork\09. StuckNumbers\obj\Debug\_09.StuckNumbers.pdb

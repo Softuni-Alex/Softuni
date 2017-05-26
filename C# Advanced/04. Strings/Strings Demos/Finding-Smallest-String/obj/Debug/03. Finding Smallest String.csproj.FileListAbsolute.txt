@@ -1,0 +1,5 @@
+D:\Coding\C# Advanced\04. Strings\Strings Demos\Finding-Smallest-String\bin\Debug\Finding-Smallest-String.exe
+D:\Coding\C# Advanced\04. Strings\Strings Demos\Finding-Smallest-String\bin\Debug\Finding-Smallest-String.pdb
+D:\Coding\C# Advanced\04. Strings\Strings Demos\Finding-Smallest-String\obj\Debug\03. Finding Smallest String.csprojResolveAssemblyReference.cache
+D:\Coding\C# Advanced\04. Strings\Strings Demos\Finding-Smallest-String\obj\Debug\Finding-Smallest-String.exe
+D:\Coding\C# Advanced\04. Strings\Strings Demos\Finding-Smallest-String\obj\Debug\Finding-Smallest-String.pdb

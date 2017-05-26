@@ -1,0 +1,4 @@
+enable-migrations -ContextProjectName HospitalDataBase -StartUpProjectName HospitalDataBase
+ -ContextTypeName HospitalDataBase.HospitalDbContext -ProjectName HospitalDataBase
+
+restart if continue

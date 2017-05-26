@@ -1,0 +1,9 @@
+27.01.2016 20:56:11 - Error - Error parsing JSON.
+27.01.2016 20:56:11 - Info - User Pesho successfully registered.
+27.01.2016 20:56:11 - Warning - Warning - missing files.
+27.01.2016 20:56:15 - Error - Error parsing JSON.
+27.01.2016 20:56:15 - Info - User Pesho successfully registered.
+27.01.2016 20:56:15 - Warning - Warning - missing files.
+27.01.2016 20:56:56 - Error - Error parsing JSON.
+27.01.2016 20:56:56 - Info - User Pesho successfully registered.
+27.01.2016 20:56:56 - Warning - Warning - missing files.

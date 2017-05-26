@@ -1,0 +1,6 @@
+D:\Coding\KPK\10. Unit Testing\LinkedQueue\01.LinkedQueue\bin\Debug\01.LinkedQueue.exe.config
+D:\Coding\KPK\10. Unit Testing\LinkedQueue\01.LinkedQueue\obj\Debug\01.LinkedQueue.csprojResolveAssemblyReference.cache
+D:\Coding\KPK\10. Unit Testing\LinkedQueue\01.LinkedQueue\bin\Debug\01.LinkedQueue.exe
+D:\Coding\KPK\10. Unit Testing\LinkedQueue\01.LinkedQueue\bin\Debug\01.LinkedQueue.pdb
+D:\Coding\KPK\10. Unit Testing\LinkedQueue\01.LinkedQueue\obj\Debug\01.LinkedQueue.exe
+D:\Coding\KPK\10. Unit Testing\LinkedQueue\01.LinkedQueue\obj\Debug\01.LinkedQueue.pdb

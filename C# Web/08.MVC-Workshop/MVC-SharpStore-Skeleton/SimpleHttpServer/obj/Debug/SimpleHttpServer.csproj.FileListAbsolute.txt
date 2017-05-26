@@ -1,0 +1,8 @@
+C:\Alex\Softuni\C# Web\08.MVC-Workshop\MVC-SharpStore-Skeleton\SimpleHttpServer\bin\Debug\Resources\Pages\404.html
+C:\Alex\Softuni\C# Web\08.MVC-Workshop\MVC-SharpStore-Skeleton\SimpleHttpServer\bin\Debug\Resources\Pages\500.html
+C:\Alex\Softuni\C# Web\08.MVC-Workshop\MVC-SharpStore-Skeleton\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll.config
+C:\Alex\Softuni\C# Web\08.MVC-Workshop\MVC-SharpStore-Skeleton\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll
+C:\Alex\Softuni\C# Web\08.MVC-Workshop\MVC-SharpStore-Skeleton\SimpleHttpServer\bin\Debug\SimpleHttpServer.pdb
+C:\Alex\Softuni\C# Web\08.MVC-Workshop\MVC-SharpStore-Skeleton\SimpleHttpServer\obj\Debug\SimpleHttpServer.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni\C# Web\08.MVC-Workshop\MVC-SharpStore-Skeleton\SimpleHttpServer\obj\Debug\SimpleHttpServer.dll
+C:\Alex\Softuni\C# Web\08.MVC-Workshop\MVC-SharpStore-Skeleton\SimpleHttpServer\obj\Debug\SimpleHttpServer.pdb

@@ -1,0 +1,17 @@
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\GringottsDataBase\bin\Debug\GringottsDataBase.exe.config
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\GringottsDataBase\bin\Debug\GringottsDataBase.exe
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\GringottsDataBase\bin\Debug\GringottsDataBase.pdb
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\GringottsDataBase\bin\Debug\EntityFramework.dll
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\GringottsDataBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\GringottsDataBase\bin\Debug\EntityFramework.xml
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\GringottsDataBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\GringottsDataBase\obj\Debug\GringottsDataBase.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\GringottsDataBase\obj\Debug\GringottsDataBase.exe
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\GringottsDataBase\obj\Debug\GringottsDataBase.pdb
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\GringottsDataBase\obj\Debug\GringottsDataBase.Migrations.InitialCreate.resources
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\GringottsDataBase\obj\Debug\GringottsDataBase.csproj.GenerateResource.Cache
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\GringottsDataBase\obj\Debug\GringottsDataBase.Migrations.User.resources
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\GringottsDataBase\obj\Debug\GringottsDataBase.Migrations.User1.resources
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\GringottsDataBase\obj\Debug\GringottsDataBase.Migrations.User2.resources
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\GringottsDataBase\obj\Debug\GringottsDataBase.Migrations.Towns.resources
+C:\Alex\Softuni\DB-Advanced\04.EntityFramework-CodeFirst-Exercises\GringottsDataBase\GringottsDataBase\obj\Debug\GringottsDataBase.Migrations.UserFirstLastNames.resources

@@ -1,0 +1,5 @@
+D:\Coding\Softuni HomeWork\Tech\Basics\02.DataTypes-Variables\DataTypes-Variables\ExactSumofRealNumbers\bin\Debug\ExactSumofRealNumbers.exe.config
+D:\Coding\Softuni HomeWork\Tech\Basics\02.DataTypes-Variables\DataTypes-Variables\ExactSumofRealNumbers\bin\Debug\ExactSumofRealNumbers.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\02.DataTypes-Variables\DataTypes-Variables\ExactSumofRealNumbers\bin\Debug\ExactSumofRealNumbers.pdb
+D:\Coding\Softuni HomeWork\Tech\Basics\02.DataTypes-Variables\DataTypes-Variables\ExactSumofRealNumbers\obj\Debug\ExactSumofRealNumbers.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\02.DataTypes-Variables\DataTypes-Variables\ExactSumofRealNumbers\obj\Debug\ExactSumofRealNumbers.pdb

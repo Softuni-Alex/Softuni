@@ -1,0 +1,6 @@
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\File-Stream\bin\Debug\File-Stream.exe.config
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\File-Stream\bin\Debug\File-Stream.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\File-Stream\bin\Debug\File-Stream.pdb
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\File-Stream\obj\Debug\File-Stream.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\File-Stream\obj\Debug\File-Stream.pdb
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\File-Stream\obj\Debug\File-Stream.csprojResolveAssemblyReference.cache

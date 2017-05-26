@@ -1,0 +1,5 @@
+D:\Coding\C# Advanced\01. Array List Stack Queues\Exercises\ExerciseArrayListStackQueue\Problem01. SortArray\bin\Debug\Problem01.SortArray.exe.config
+D:\Coding\C# Advanced\01. Array List Stack Queues\Exercises\ExerciseArrayListStackQueue\Problem01. SortArray\bin\Debug\Problem01.SortArray.exe
+D:\Coding\C# Advanced\01. Array List Stack Queues\Exercises\ExerciseArrayListStackQueue\Problem01. SortArray\bin\Debug\Problem01.SortArray.pdb
+D:\Coding\C# Advanced\01. Array List Stack Queues\Exercises\ExerciseArrayListStackQueue\Problem01. SortArray\obj\Debug\Problem01.SortArray.exe
+D:\Coding\C# Advanced\01. Array List Stack Queues\Exercises\ExerciseArrayListStackQueue\Problem01. SortArray\obj\Debug\Problem01.SortArray.pdb

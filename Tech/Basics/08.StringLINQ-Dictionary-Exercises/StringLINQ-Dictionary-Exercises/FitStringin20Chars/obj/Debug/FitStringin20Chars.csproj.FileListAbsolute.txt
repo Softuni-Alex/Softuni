@@ -1,0 +1,6 @@
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\FitStringin20Chars\bin\Debug\FitStringin20Chars.exe.config
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\FitStringin20Chars\bin\Debug\FitStringin20Chars.exe
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\FitStringin20Chars\bin\Debug\FitStringin20Chars.pdb
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\FitStringin20Chars\obj\Debug\FitStringin20Chars.exe
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\FitStringin20Chars\obj\Debug\FitStringin20Chars.pdb
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\FitStringin20Chars\obj\Debug\FitStringin20Chars.csprojResolveAssemblyReference.cache

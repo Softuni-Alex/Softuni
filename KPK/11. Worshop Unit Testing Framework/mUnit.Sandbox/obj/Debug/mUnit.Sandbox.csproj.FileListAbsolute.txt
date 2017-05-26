@@ -1,0 +1,8 @@
+c:\Users\Jamal\documents\visual studio 2015\Projects\mUnit\mUnit.Sandbox\bin\Debug\mUnit.Sandbox.exe.config
+c:\Users\Jamal\documents\visual studio 2015\Projects\mUnit\mUnit.Sandbox\obj\Debug\mUnit.Sandbox.csprojResolveAssemblyReference.cache
+c:\Users\Jamal\documents\visual studio 2015\Projects\mUnit\mUnit.Sandbox\bin\Debug\mUnit.Sandbox.exe
+c:\Users\Jamal\documents\visual studio 2015\Projects\mUnit\mUnit.Sandbox\bin\Debug\mUnit.Sandbox.pdb
+c:\Users\Jamal\documents\visual studio 2015\Projects\mUnit\mUnit.Sandbox\bin\Debug\mUnit.Core.dll
+c:\Users\Jamal\documents\visual studio 2015\Projects\mUnit\mUnit.Sandbox\bin\Debug\mUnit.Core.pdb
+c:\Users\Jamal\documents\visual studio 2015\Projects\mUnit\mUnit.Sandbox\obj\Debug\mUnit.Sandbox.exe
+c:\Users\Jamal\documents\visual studio 2015\Projects\mUnit\mUnit.Sandbox\obj\Debug\mUnit.Sandbox.pdb

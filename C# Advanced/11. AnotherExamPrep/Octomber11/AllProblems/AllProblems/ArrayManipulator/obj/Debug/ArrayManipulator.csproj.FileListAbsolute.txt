@@ -1,0 +1,6 @@
+D:\Coding\C# Advanced\11. AnotherExamPrep\Octomber11\AllProblems\AllProblems\ArrayManipulator\bin\Debug\ArrayManipulator.exe.config
+D:\Coding\C# Advanced\11. AnotherExamPrep\Octomber11\AllProblems\AllProblems\ArrayManipulator\bin\Debug\ArrayManipulator.exe
+D:\Coding\C# Advanced\11. AnotherExamPrep\Octomber11\AllProblems\AllProblems\ArrayManipulator\bin\Debug\ArrayManipulator.pdb
+D:\Coding\C# Advanced\11. AnotherExamPrep\Octomber11\AllProblems\AllProblems\ArrayManipulator\obj\Debug\ArrayManipulator.csprojResolveAssemblyReference.cache
+D:\Coding\C# Advanced\11. AnotherExamPrep\Octomber11\AllProblems\AllProblems\ArrayManipulator\obj\Debug\ArrayManipulator.exe
+D:\Coding\C# Advanced\11. AnotherExamPrep\Octomber11\AllProblems\AllProblems\ArrayManipulator\obj\Debug\ArrayManipulator.pdb

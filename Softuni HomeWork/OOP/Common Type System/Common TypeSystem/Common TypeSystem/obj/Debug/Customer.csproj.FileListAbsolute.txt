@@ -1,0 +1,6 @@
+D:\Coding\Softuni HomeWork\OOP\Common Type System\Common TypeSystem\Common TypeSystem\bin\Debug\Common TypeSystem.exe.config
+D:\Coding\Softuni HomeWork\OOP\Common Type System\Common TypeSystem\Common TypeSystem\bin\Debug\Common TypeSystem.exe
+D:\Coding\Softuni HomeWork\OOP\Common Type System\Common TypeSystem\Common TypeSystem\bin\Debug\Common TypeSystem.pdb
+D:\Coding\Softuni HomeWork\OOP\Common Type System\Common TypeSystem\Common TypeSystem\obj\Debug\Customer.csprojResolveAssemblyReference.cache
+D:\Coding\Softuni HomeWork\OOP\Common Type System\Common TypeSystem\Common TypeSystem\obj\Debug\Common TypeSystem.exe
+D:\Coding\Softuni HomeWork\OOP\Common Type System\Common TypeSystem\Common TypeSystem\obj\Debug\Common TypeSystem.pdb

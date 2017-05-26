@@ -1,0 +1,6 @@
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\BombNumbers\bin\Debug\BombNumbers.exe.config
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\BombNumbers\bin\Debug\BombNumbers.exe
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\BombNumbers\bin\Debug\BombNumbers.pdb
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\BombNumbers\obj\Debug\BombNumbers.csprojResolveAssemblyReference.cache
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\BombNumbers\obj\Debug\BombNumbers.exe
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\BombNumbers\obj\Debug\BombNumbers.pdb

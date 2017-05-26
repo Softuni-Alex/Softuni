@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{63B0D314-9606-40E1-B41D-1573DB380796}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SoftuniStore</RootNamespace>
+    <AssemblyName>SoftuniStore</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AppStart.cs" />
+    <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\GameController.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utilities\RouteTable.cs" />
+    <Compile Include="Utilities\ViewBuilder.cs" />
+    <Compile Include="Views\Account\Login.cs" />
+    <Compile Include="Views\Account\Register.cs" />
+    <Compile Include="Views\Game\Add.cs" />
+    <Compile Include="Views\Game\Delete.cs" />
+    <Compile Include="Views\Game\Details.cs" />
+    <Compile Include="Views\Game\Edit.cs" />
+    <Compile Include="Views\Game\Allgames.cs" />
+    <Compile Include="Views\Game\Index.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+    <None Include="Resources\css\bootstrap-grid.css.map" />
+    <None Include="Resources\css\bootstrap-grid.min.css.map" />
+    <None Include="Resources\css\bootstrap-reboot.css.map" />
+    <None Include="Resources\css\bootstrap-reboot.min.css.map" />
+    <None Include="Resources\css\bootstrap.css.map" />
+    <None Include="Resources\css\bootstrap.min.css.map" />
+    <None Include="Resources\fonts\glyphicons-halflings-regular.eot" />
+    <None Include="Resources\fonts\glyphicons-halflings-regular.ttf" />
+    <None Include="Resources\fonts\glyphicons-halflings-regular.woff" />
+    <None Include="Resources\fonts\glyphicons-halflings-regular.woff2" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\add-game.html" />
+    <Content Include="Resources\admin-games.html" />
+    <Content Include="Resources\css\bootstrap-grid.css" />
+    <Content Include="Resources\css\bootstrap-grid.min.css" />
+    <Content Include="Resources\css\bootstrap-reboot.css" />
+    <Content Include="Resources\css\bootstrap-reboot.min.css" />
+    <Content Include="Resources\css\bootstrap.css" />
+    <Content Include="Resources\css\bootstrap.min.css" />
+    <Content Include="Resources\delete-game.html" />
+    <Content Include="Resources\edit-game.html" />
+    <Content Include="Resources\favicon.ico" />
+    <Content Include="Resources\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Resources\footer.html" />
+    <Content Include="Resources\game-details.html" />
+    <Content Include="Resources\header.html" />
+    <Content Include="Resources\home.html" />
+    <Content Include="Resources\js\bootstrap.js" />
+    <Content Include="Resources\js\bootstrap.min.js" />
+    <Content Include="Resources\js\npm.js" />
+    <Content Include="Resources\login.html" />
+    <Content Include="Resources\nav-logged.html" />
+    <Content Include="Resources\nav-not-logged.html" />
+    <Content Include="Resources\register.html" />
+    <Content Include="Resources\scripts\jquery-3.1.1.min.js" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\DataTransferObjects\DataTransferObjects.csproj">
+      <Project>{12003dfc-f525-43af-9abe-20555537caac}</Project>
+      <Name>DataTransferObjects</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DbEntities\DbEntities.csproj">
+      <Project>{2a4ef146-ba12-44dd-b551-8fccb43a0493}</Project>
+      <Name>DbEntities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RepositoryLayer\RepositoryLayer.csproj">
+      <Project>{24d09a0e-a727-480a-882f-0b82fffed628}</Project>
+      <Name>RepositoryLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Security\Security.csproj">
+      <Project>{1ec996ae-ee22-4907-b546-fb0881ba648e}</Project>
+      <Name>Security</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ServiceLayer\ServiceLayer.csproj">
+      <Project>{e70b98e1-4636-4aa1-ab7a-01277c33b86f}</Project>
+      <Name>ServiceLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SimpleHttpServer\SimpleHttpServer.csproj">
+      <Project>{9e139539-c272-488a-bfcf-caddf458df9d}</Project>
+      <Name>SimpleHttpServer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SimpleMVC\SimpleMVC.csproj">
+      <Project>{f2ef3059-aa6c-45c8-9dbb-9d36e62af1b8}</Project>
+      <Name>SimpleMVC</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

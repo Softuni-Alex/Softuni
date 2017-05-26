@@ -1,0 +1,11 @@
+C:\Alex\Softuni\C# Web\12.IssueTracker\IssueTrackerTests\bin\Debug\IssueTrackerTests.dll
+C:\Alex\Softuni\C# Web\12.IssueTracker\IssueTrackerTests\bin\Debug\IssueTrackerTests.pdb
+C:\Alex\Softuni\C# Web\12.IssueTracker\IssueTrackerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Alex\Softuni\C# Web\12.IssueTracker\IssueTrackerTests\obj\Debug\IssueTrackerTests.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni\C# Web\12.IssueTracker\IssueTrackerTests\obj\Debug\IssueTrackerTests.dll
+C:\Alex\Softuni\C# Web\12.IssueTracker\IssueTrackerTests\obj\Debug\IssueTrackerTests.pdb
+C:\Alex\Softuni\C# Web\12.IssueTracker\IssueTrackerTests\bin\Debug\IssueTrackerTests.dll.config
+C:\Alex\Softuni\C# Web\12.IssueTracker\IssueTrackerTests\bin\Debug\EntityFramework.dll
+C:\Alex\Softuni\C# Web\12.IssueTracker\IssueTrackerTests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Alex\Softuni\C# Web\12.IssueTracker\IssueTrackerTests\bin\Debug\EntityFramework.xml
+C:\Alex\Softuni\C# Web\12.IssueTracker\IssueTrackerTests\bin\Debug\EntityFramework.SqlServer.xml

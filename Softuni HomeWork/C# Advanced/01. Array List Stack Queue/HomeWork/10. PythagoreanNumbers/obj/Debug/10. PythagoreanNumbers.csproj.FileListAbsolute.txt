@@ -1,0 +1,5 @@
+D:\Coding\Softuni HomeWork\C# Advanced\01. Array List Stack Queue\HomeWork\10. PythagoreanNumbers\bin\Debug\_10.PythagoreanNumbers.exe.config
+D:\Coding\Softuni HomeWork\C# Advanced\01. Array List Stack Queue\HomeWork\10. PythagoreanNumbers\bin\Debug\_10.PythagoreanNumbers.exe
+D:\Coding\Softuni HomeWork\C# Advanced\01. Array List Stack Queue\HomeWork\10. PythagoreanNumbers\bin\Debug\_10.PythagoreanNumbers.pdb
+D:\Coding\Softuni HomeWork\C# Advanced\01. Array List Stack Queue\HomeWork\10. PythagoreanNumbers\obj\Debug\_10.PythagoreanNumbers.exe
+D:\Coding\Softuni HomeWork\C# Advanced\01. Array List Stack Queue\HomeWork\10. PythagoreanNumbers\obj\Debug\_10.PythagoreanNumbers.pdb

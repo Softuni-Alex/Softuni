@@ -1,0 +1,6 @@
+D:\Coding\C# Advanced\12. Exam\Exam\04. Events\bin\Debug\_04.Events.exe.config
+D:\Coding\C# Advanced\12. Exam\Exam\04. Events\bin\Debug\_04.Events.exe
+D:\Coding\C# Advanced\12. Exam\Exam\04. Events\bin\Debug\_04.Events.pdb
+D:\Coding\C# Advanced\12. Exam\Exam\04. Events\obj\Debug\04. Events.csprojResolveAssemblyReference.cache
+D:\Coding\C# Advanced\12. Exam\Exam\04. Events\obj\Debug\_04.Events.exe
+D:\Coding\C# Advanced\12. Exam\Exam\04. Events\obj\Debug\_04.Events.pdb

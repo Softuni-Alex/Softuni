@@ -1,0 +1,8 @@
+C:\Alex\Softuni\C# Web\06.HandMadeServer\HandMadeServer\HttpStart\bin\Debug\HttpStart.exe.config
+C:\Alex\Softuni\C# Web\06.HandMadeServer\HandMadeServer\HttpStart\bin\Debug\HttpStart.exe
+C:\Alex\Softuni\C# Web\06.HandMadeServer\HandMadeServer\HttpStart\bin\Debug\HttpStart.pdb
+C:\Alex\Softuni\C# Web\06.HandMadeServer\HandMadeServer\HttpStart\bin\Debug\HttpServer.dll
+C:\Alex\Softuni\C# Web\06.HandMadeServer\HandMadeServer\HttpStart\bin\Debug\HttpServer.pdb
+C:\Alex\Softuni\C# Web\06.HandMadeServer\HandMadeServer\HttpStart\obj\Debug\HttpStart.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni\C# Web\06.HandMadeServer\HandMadeServer\HttpStart\obj\Debug\HttpStart.exe
+C:\Alex\Softuni\C# Web\06.HandMadeServer\HandMadeServer\HttpStart\obj\Debug\HttpStart.pdb

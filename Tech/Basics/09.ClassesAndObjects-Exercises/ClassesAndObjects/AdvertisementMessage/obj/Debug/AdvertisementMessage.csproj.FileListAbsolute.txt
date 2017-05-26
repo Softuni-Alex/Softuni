@@ -1,0 +1,6 @@
+D:\Coding\Tech\Basics\09.ClassesAndObjects-Exercises\ClassesAndObjects\AdvertisementMessage\bin\Debug\AdvertisementMessage.exe.config
+D:\Coding\Tech\Basics\09.ClassesAndObjects-Exercises\ClassesAndObjects\AdvertisementMessage\bin\Debug\AdvertisementMessage.exe
+D:\Coding\Tech\Basics\09.ClassesAndObjects-Exercises\ClassesAndObjects\AdvertisementMessage\bin\Debug\AdvertisementMessage.pdb
+D:\Coding\Tech\Basics\09.ClassesAndObjects-Exercises\ClassesAndObjects\AdvertisementMessage\obj\Debug\AdvertisementMessage.csprojResolveAssemblyReference.cache
+D:\Coding\Tech\Basics\09.ClassesAndObjects-Exercises\ClassesAndObjects\AdvertisementMessage\obj\Debug\AdvertisementMessage.exe
+D:\Coding\Tech\Basics\09.ClassesAndObjects-Exercises\ClassesAndObjects\AdvertisementMessage\obj\Debug\AdvertisementMessage.pdb

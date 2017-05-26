@@ -1,0 +1,5 @@
+D:\Coding\Softuni HomeWork\OOP\Common Type System\Common TypeSystem\StringDisperser\bin\Debug\StringDisperser.exe.config
+D:\Coding\Softuni HomeWork\OOP\Common Type System\Common TypeSystem\StringDisperser\bin\Debug\StringDisperser.exe
+D:\Coding\Softuni HomeWork\OOP\Common Type System\Common TypeSystem\StringDisperser\bin\Debug\StringDisperser.pdb
+D:\Coding\Softuni HomeWork\OOP\Common Type System\Common TypeSystem\StringDisperser\obj\Debug\StringDisperser.exe
+D:\Coding\Softuni HomeWork\OOP\Common Type System\Common TypeSystem\StringDisperser\obj\Debug\StringDisperser.pdb

@@ -1,0 +1,10 @@
+C:\Alex\Softuni\C# Web\12.IssueTracker\DataTransferObjects\bin\Debug\DataTransferObjects.dll
+C:\Alex\Softuni\C# Web\12.IssueTracker\DataTransferObjects\bin\Debug\DataTransferObjects.pdb
+C:\Alex\Softuni\C# Web\12.IssueTracker\DataTransferObjects\obj\Debug\DataTransferObjects.dll
+C:\Alex\Softuni\C# Web\12.IssueTracker\DataTransferObjects\obj\Debug\DataTransferObjects.pdb
+C:\Alex\Softuni\C# Web\12.IssueTracker\DataTransferObjects\bin\Debug\DataTransferObjects.dll.config
+C:\Alex\Softuni\C# Web\12.IssueTracker\DataTransferObjects\bin\Debug\EntityFramework.dll
+C:\Alex\Softuni\C# Web\12.IssueTracker\DataTransferObjects\bin\Debug\EntityFramework.SqlServer.dll
+C:\Alex\Softuni\C# Web\12.IssueTracker\DataTransferObjects\bin\Debug\EntityFramework.xml
+C:\Alex\Softuni\C# Web\12.IssueTracker\DataTransferObjects\bin\Debug\EntityFramework.SqlServer.xml
+C:\Alex\Softuni\C# Web\12.IssueTracker\DataTransferObjects\obj\Debug\DataTransferObjects.csprojResolveAssemblyReference.cache

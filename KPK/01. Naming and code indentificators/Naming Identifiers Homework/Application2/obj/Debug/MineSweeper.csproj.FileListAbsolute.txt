@@ -1,0 +1,3 @@
+D:\Coding\KPK\Naming and code indentificators\Naming Identifiers Homework\Application2\bin\Debug\Application2.exe.config
+D:\Coding\KPK\Naming and code indentificators\Naming Identifiers Homework\Application2\obj\Debug\Application2.exe
+D:\Coding\KPK\Naming and code indentificators\Naming Identifiers Homework\Application2\obj\Debug\Application2.pdb

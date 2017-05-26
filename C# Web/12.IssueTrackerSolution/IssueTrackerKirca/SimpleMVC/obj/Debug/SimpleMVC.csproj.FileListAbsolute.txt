@@ -1,0 +1,9 @@
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\10. Issue-Tracker\Issue-Tracker-Solution\SimpleMVC\bin\Debug\Resources\Pages\404.html
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\10. Issue-Tracker\Issue-Tracker-Solution\SimpleMVC\bin\Debug\Resources\Pages\500.html
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\10. Issue-Tracker\Issue-Tracker-Solution\SimpleMVC\bin\Debug\SimpleMVC.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\10. Issue-Tracker\Issue-Tracker-Solution\SimpleMVC\bin\Debug\SimpleMVC.pdb
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\10. Issue-Tracker\Issue-Tracker-Solution\SimpleMVC\bin\Debug\SimpleHttpServer.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\10. Issue-Tracker\Issue-Tracker-Solution\SimpleMVC\bin\Debug\SimpleHttpServer.pdb
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\10. Issue-Tracker\Issue-Tracker-Solution\SimpleMVC\obj\Debug\SimpleMVC.csprojResolveAssemblyReference.cache
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\10. Issue-Tracker\Issue-Tracker-Solution\SimpleMVC\obj\Debug\SimpleMVC.dll
+C:\Users\v\Desktop\SoftUni\C# Web\Web Development Basics\10. Issue-Tracker\Issue-Tracker-Solution\SimpleMVC\obj\Debug\SimpleMVC.pdb

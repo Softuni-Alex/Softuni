@@ -1,0 +1,6 @@
+D:\Coding\Softuni HomeWork\OOP\Delegates and Events\DelegatesEventsHomeWork\DelegatesEventsHomeWork\obj\Debug\Custom LINQ.csprojResolveAssemblyReference.cache
+D:\Coding\Softuni HomeWork\OOP\Delegates and Events\DelegatesEventsHomeWork\DelegatesEventsHomeWork\bin\Debug\DelegatesEventsHomeWork.exe.config
+D:\Coding\Softuni HomeWork\OOP\Delegates and Events\DelegatesEventsHomeWork\DelegatesEventsHomeWork\bin\Debug\DelegatesEventsHomeWork.exe
+D:\Coding\Softuni HomeWork\OOP\Delegates and Events\DelegatesEventsHomeWork\DelegatesEventsHomeWork\bin\Debug\DelegatesEventsHomeWork.pdb
+D:\Coding\Softuni HomeWork\OOP\Delegates and Events\DelegatesEventsHomeWork\DelegatesEventsHomeWork\obj\Debug\DelegatesEventsHomeWork.exe
+D:\Coding\Softuni HomeWork\OOP\Delegates and Events\DelegatesEventsHomeWork\DelegatesEventsHomeWork\obj\Debug\DelegatesEventsHomeWork.pdb

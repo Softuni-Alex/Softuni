@@ -1,0 +1,6 @@
+C:\Alex\Softuni\DB-Advanced\01.DB Apps\Testin\Testin\bin\Debug\Testin.exe.config
+C:\Alex\Softuni\DB-Advanced\01.DB Apps\Testin\Testin\bin\Debug\Testin.exe
+C:\Alex\Softuni\DB-Advanced\01.DB Apps\Testin\Testin\bin\Debug\Testin.pdb
+C:\Alex\Softuni\DB-Advanced\01.DB Apps\Testin\Testin\obj\Debug\Testin.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni\DB-Advanced\01.DB Apps\Testin\Testin\obj\Debug\Testin.exe
+C:\Alex\Softuni\DB-Advanced\01.DB Apps\Testin\Testin\obj\Debug\Testin.pdb

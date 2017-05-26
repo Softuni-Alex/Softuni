@@ -1,0 +1,6 @@
+D:\Coding\KPK\21. Pattern Lab\Skeletons\Singleton\bin\Debug\Singleton.exe.config
+D:\Coding\KPK\21. Pattern Lab\Skeletons\Singleton\bin\Debug\Singleton.exe
+D:\Coding\KPK\21. Pattern Lab\Skeletons\Singleton\bin\Debug\Singleton.pdb
+D:\Coding\KPK\21. Pattern Lab\Skeletons\Singleton\obj\Debug\1. WebScraper.csprojResolveAssemblyReference.cache
+D:\Coding\KPK\21. Pattern Lab\Skeletons\Singleton\obj\Debug\Singleton.exe
+D:\Coding\KPK\21. Pattern Lab\Skeletons\Singleton\obj\Debug\Singleton.pdb

@@ -1,0 +1,6 @@
+D:\Coding\Tech\Basics\02.GitHub-Debugging-Searching-Exercises\GitHub-Debugging-Searching-Exercises\Substring\bin\Debug\Substring.exe.config
+D:\Coding\Tech\Basics\02.GitHub-Debugging-Searching-Exercises\GitHub-Debugging-Searching-Exercises\Substring\bin\Debug\Substring.exe
+D:\Coding\Tech\Basics\02.GitHub-Debugging-Searching-Exercises\GitHub-Debugging-Searching-Exercises\Substring\bin\Debug\Substring.pdb
+D:\Coding\Tech\Basics\02.GitHub-Debugging-Searching-Exercises\GitHub-Debugging-Searching-Exercises\Substring\obj\Debug\Substring.exe
+D:\Coding\Tech\Basics\02.GitHub-Debugging-Searching-Exercises\GitHub-Debugging-Searching-Exercises\Substring\obj\Debug\Substring.pdb
+D:\Coding\Tech\Basics\02.GitHub-Debugging-Searching-Exercises\GitHub-Debugging-Searching-Exercises\Substring\obj\Debug\Substring.csprojResolveAssemblyReference.cache

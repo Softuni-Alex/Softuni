@@ -1,0 +1,8 @@
+.asterisk_input:after {
+    content:" *";
+    color: #e32;
+    position: absolute;
+    margin: 2px 20px 20px -20px;
+    font-size: xx-large;
+    padding: 0 5px 0 0;
+}

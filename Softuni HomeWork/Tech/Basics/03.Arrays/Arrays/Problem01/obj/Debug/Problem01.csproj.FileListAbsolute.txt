@@ -1,0 +1,6 @@
+D:\Coding\Softuni HomeWork\Tech\Basics\03.Arrays\Arrays\Problem01\bin\Debug\Problem01.exe.config
+D:\Coding\Softuni HomeWork\Tech\Basics\03.Arrays\Arrays\Problem01\bin\Debug\Problem01.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\03.Arrays\Arrays\Problem01\bin\Debug\Problem01.pdb
+D:\Coding\Softuni HomeWork\Tech\Basics\03.Arrays\Arrays\Problem01\obj\Debug\Problem01.csprojResolveAssemblyReference.cache
+D:\Coding\Softuni HomeWork\Tech\Basics\03.Arrays\Arrays\Problem01\obj\Debug\Problem01.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\03.Arrays\Arrays\Problem01\obj\Debug\Problem01.pdb

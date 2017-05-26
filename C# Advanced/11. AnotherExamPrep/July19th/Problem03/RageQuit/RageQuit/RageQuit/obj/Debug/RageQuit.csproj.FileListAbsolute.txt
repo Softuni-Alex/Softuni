@@ -1,0 +1,6 @@
+D:\Coding\C# Advanced\11. AnotherExamPrep\July19th\Problem03\RageQuit\RageQuit\RageQuit\bin\Debug\RageQuit.exe.config
+D:\Coding\C# Advanced\11. AnotherExamPrep\July19th\Problem03\RageQuit\RageQuit\RageQuit\bin\Debug\RageQuit.exe
+D:\Coding\C# Advanced\11. AnotherExamPrep\July19th\Problem03\RageQuit\RageQuit\RageQuit\bin\Debug\RageQuit.pdb
+D:\Coding\C# Advanced\11. AnotherExamPrep\July19th\Problem03\RageQuit\RageQuit\RageQuit\obj\Debug\RageQuit.csprojResolveAssemblyReference.cache
+D:\Coding\C# Advanced\11. AnotherExamPrep\July19th\Problem03\RageQuit\RageQuit\RageQuit\obj\Debug\RageQuit.exe
+D:\Coding\C# Advanced\11. AnotherExamPrep\July19th\Problem03\RageQuit\RageQuit\RageQuit\obj\Debug\RageQuit.pdb

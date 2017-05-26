@@ -1,0 +1,6 @@
+D:\Coding\Softuni HomeWork\Tech\Basics\Github-Debugging-Searching\Github-Debugging-Searching\DebugTheCode\bin\Debug\DebugTheCode.exe.config
+D:\Coding\Softuni HomeWork\Tech\Basics\Github-Debugging-Searching\Github-Debugging-Searching\DebugTheCode\bin\Debug\DebugTheCode.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\Github-Debugging-Searching\Github-Debugging-Searching\DebugTheCode\bin\Debug\DebugTheCode.pdb
+D:\Coding\Softuni HomeWork\Tech\Basics\Github-Debugging-Searching\Github-Debugging-Searching\DebugTheCode\obj\Debug\DebugTheCode.csprojResolveAssemblyReference.cache
+D:\Coding\Softuni HomeWork\Tech\Basics\Github-Debugging-Searching\Github-Debugging-Searching\DebugTheCode\obj\Debug\DebugTheCode.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\Github-Debugging-Searching\Github-Debugging-Searching\DebugTheCode\obj\Debug\DebugTheCode.pdb

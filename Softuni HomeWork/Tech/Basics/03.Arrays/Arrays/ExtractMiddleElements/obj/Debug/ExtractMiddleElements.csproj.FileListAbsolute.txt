@@ -1,0 +1,6 @@
+D:\Coding\Softuni HomeWork\Tech\Basics\03.Arrays\Arrays\ExtractMiddleElements\bin\Debug\ExtractMiddleElements.exe.config
+D:\Coding\Softuni HomeWork\Tech\Basics\03.Arrays\Arrays\ExtractMiddleElements\bin\Debug\ExtractMiddleElements.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\03.Arrays\Arrays\ExtractMiddleElements\bin\Debug\ExtractMiddleElements.pdb
+D:\Coding\Softuni HomeWork\Tech\Basics\03.Arrays\Arrays\ExtractMiddleElements\obj\Debug\ExtractMiddleElements.csprojResolveAssemblyReference.cache
+D:\Coding\Softuni HomeWork\Tech\Basics\03.Arrays\Arrays\ExtractMiddleElements\obj\Debug\ExtractMiddleElements.exe
+D:\Coding\Softuni HomeWork\Tech\Basics\03.Arrays\Arrays\ExtractMiddleElements\obj\Debug\ExtractMiddleElements.pdb

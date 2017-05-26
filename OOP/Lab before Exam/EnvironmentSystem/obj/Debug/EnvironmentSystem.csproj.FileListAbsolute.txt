@@ -1,0 +1,6 @@
+D:\Coding\SoftUni\Lab before Exam\EnvironmentSystem\bin\Debug\EnvironmentSystem.exe.config
+D:\Coding\SoftUni\Lab before Exam\EnvironmentSystem\bin\Debug\EnvironmentSystem.exe
+D:\Coding\SoftUni\Lab before Exam\EnvironmentSystem\bin\Debug\EnvironmentSystem.pdb
+D:\Coding\SoftUni\Lab before Exam\EnvironmentSystem\obj\Debug\EnvironmentSystem.csprojResolveAssemblyReference.cache
+D:\Coding\SoftUni\Lab before Exam\EnvironmentSystem\obj\Debug\EnvironmentSystem.exe
+D:\Coding\SoftUni\Lab before Exam\EnvironmentSystem\obj\Debug\EnvironmentSystem.pdb

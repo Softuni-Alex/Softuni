@@ -1,0 +1,6 @@
+D:\Coding\SoftUni\Exception Handling 18.11.2015\Exception Handling\Exercise\bin\Debug\Exercise.exe.config
+D:\Coding\SoftUni\Exception Handling 18.11.2015\Exception Handling\Exercise\bin\Debug\Exercise.exe
+D:\Coding\SoftUni\Exception Handling 18.11.2015\Exception Handling\Exercise\bin\Debug\Exercise.pdb
+D:\Coding\SoftUni\Exception Handling 18.11.2015\Exception Handling\Exercise\obj\Debug\Exercise.csprojResolveAssemblyReference.cache
+D:\Coding\SoftUni\Exception Handling 18.11.2015\Exception Handling\Exercise\obj\Debug\Exercise.exe
+D:\Coding\SoftUni\Exception Handling 18.11.2015\Exception Handling\Exercise\obj\Debug\Exercise.pdb

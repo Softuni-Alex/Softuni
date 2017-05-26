@@ -1,0 +1,6 @@
+D:\Coding\Tech\Basics\12.OldExam-LikeFirstExamPrep\OldExam-LikeFirstExamPrep\StrawBerry\bin\Debug\StrawBerry.exe.config
+D:\Coding\Tech\Basics\12.OldExam-LikeFirstExamPrep\OldExam-LikeFirstExamPrep\StrawBerry\bin\Debug\StrawBerry.exe
+D:\Coding\Tech\Basics\12.OldExam-LikeFirstExamPrep\OldExam-LikeFirstExamPrep\StrawBerry\bin\Debug\StrawBerry.pdb
+D:\Coding\Tech\Basics\12.OldExam-LikeFirstExamPrep\OldExam-LikeFirstExamPrep\StrawBerry\obj\Debug\StrawBerry.csprojResolveAssemblyReference.cache
+D:\Coding\Tech\Basics\12.OldExam-LikeFirstExamPrep\OldExam-LikeFirstExamPrep\StrawBerry\obj\Debug\StrawBerry.exe
+D:\Coding\Tech\Basics\12.OldExam-LikeFirstExamPrep\OldExam-LikeFirstExamPrep\StrawBerry\obj\Debug\StrawBerry.pdb

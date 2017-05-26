@@ -1,0 +1,6 @@
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\RemoveVillain\bin\Debug\RemoveVillain.exe.config
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\RemoveVillain\bin\Debug\RemoveVillain.exe
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\RemoveVillain\bin\Debug\RemoveVillain.pdb
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\RemoveVillain\obj\Debug\RemoveVillain.csprojResolveAssemblyReference.cache
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\RemoveVillain\obj\Debug\RemoveVillain.exe
+C:\Users\krasibeck\Desktop\database\ExercisesIntroductiontoDBApps\RemoveVillain\obj\Debug\RemoveVillain.pdb

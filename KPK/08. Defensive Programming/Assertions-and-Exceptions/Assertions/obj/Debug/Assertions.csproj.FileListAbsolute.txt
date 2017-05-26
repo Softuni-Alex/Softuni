@@ -1,0 +1,5 @@
+D:\Coding\KPK\08. Defensive Programming\Assertions-and-Exceptions\Assertions\bin\Debug\Assertions-Homework.exe
+D:\Coding\KPK\08. Defensive Programming\Assertions-and-Exceptions\Assertions\bin\Debug\Assertions-Homework.pdb
+D:\Coding\KPK\08. Defensive Programming\Assertions-and-Exceptions\Assertions\obj\Debug\Assertions.csprojResolveAssemblyReference.cache
+D:\Coding\KPK\08. Defensive Programming\Assertions-and-Exceptions\Assertions\obj\Debug\Assertions-Homework.exe
+D:\Coding\KPK\08. Defensive Programming\Assertions-and-Exceptions\Assertions\obj\Debug\Assertions-Homework.pdb

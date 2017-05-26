@@ -1,0 +1,8 @@
+D:\Coding\KPK\17. Lab- Theatre\Huy-Phuong\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Coding\KPK\17. Lab- Theatre\Huy-Phuong\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Coding\KPK\17. Lab- Theatre\Huy-Phuong\UnitTestProject1\bin\Debug\Huy-Phuong.exe
+D:\Coding\KPK\17. Lab- Theatre\Huy-Phuong\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Coding\KPK\17. Lab- Theatre\Huy-Phuong\UnitTestProject1\bin\Debug\Huy-Phuong.pdb
+D:\Coding\KPK\17. Lab- Theatre\Huy-Phuong\UnitTestProject1\obj\Debug\TheatreUnitTest.csprojResolveAssemblyReference.cache
+D:\Coding\KPK\17. Lab- Theatre\Huy-Phuong\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Coding\KPK\17. Lab- Theatre\Huy-Phuong\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

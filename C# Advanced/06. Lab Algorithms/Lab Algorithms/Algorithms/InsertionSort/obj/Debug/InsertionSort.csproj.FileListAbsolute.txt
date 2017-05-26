@@ -1,0 +1,6 @@
+D:\Coding\C# Advanced\06. Lab Algorithms\Lab Algorithms\Algorithms\InsertionSort\bin\Debug\InsertionSort.exe.config
+D:\Coding\C# Advanced\06. Lab Algorithms\Lab Algorithms\Algorithms\InsertionSort\obj\Debug\InsertionSort.csprojResolveAssemblyReference.cache
+D:\Coding\C# Advanced\06. Lab Algorithms\Lab Algorithms\Algorithms\InsertionSort\bin\Debug\InsertionSort.exe
+D:\Coding\C# Advanced\06. Lab Algorithms\Lab Algorithms\Algorithms\InsertionSort\bin\Debug\InsertionSort.pdb
+D:\Coding\C# Advanced\06. Lab Algorithms\Lab Algorithms\Algorithms\InsertionSort\obj\Debug\InsertionSort.exe
+D:\Coding\C# Advanced\06. Lab Algorithms\Lab Algorithms\Algorithms\InsertionSort\obj\Debug\InsertionSort.pdb

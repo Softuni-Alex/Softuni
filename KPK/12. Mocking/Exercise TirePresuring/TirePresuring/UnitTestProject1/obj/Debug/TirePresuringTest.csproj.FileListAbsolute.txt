@@ -1,0 +1,10 @@
+D:\Coding\KPK\12. Mocking\Exercise TirePresuring\TirePresuring\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Coding\KPK\12. Mocking\Exercise TirePresuring\TirePresuring\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Coding\KPK\12. Mocking\Exercise TirePresuring\TirePresuring\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Coding\KPK\12. Mocking\Exercise TirePresuring\TirePresuring\UnitTestProject1\bin\Debug\Moq.dll
+D:\Coding\KPK\12. Mocking\Exercise TirePresuring\TirePresuring\UnitTestProject1\bin\Debug\TirePresuring.exe
+D:\Coding\KPK\12. Mocking\Exercise TirePresuring\TirePresuring\UnitTestProject1\bin\Debug\TirePresuring.pdb
+D:\Coding\KPK\12. Mocking\Exercise TirePresuring\TirePresuring\UnitTestProject1\bin\Debug\Moq.xml
+D:\Coding\KPK\12. Mocking\Exercise TirePresuring\TirePresuring\UnitTestProject1\obj\Debug\TirePresuringTest.csprojResolveAssemblyReference.cache
+D:\Coding\KPK\12. Mocking\Exercise TirePresuring\TirePresuring\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Coding\KPK\12. Mocking\Exercise TirePresuring\TirePresuring\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

@@ -1,0 +1,6 @@
+D:\Coding\Softuni HomeWork\OOP\NameSpaces&Indexing&Static\Namespaces_Static\Namespaces_Static\bin\Debug\Namespaces_Static.exe.config
+D:\Coding\Softuni HomeWork\OOP\NameSpaces&Indexing&Static\Namespaces_Static\Namespaces_Static\obj\Debug\Namespaces_Static.csprojResolveAssemblyReference.cache
+D:\Coding\Softuni HomeWork\OOP\NameSpaces&Indexing&Static\Namespaces_Static\Namespaces_Static\bin\Debug\Namespaces_Static.exe
+D:\Coding\Softuni HomeWork\OOP\NameSpaces&Indexing&Static\Namespaces_Static\Namespaces_Static\bin\Debug\Namespaces_Static.pdb
+D:\Coding\Softuni HomeWork\OOP\NameSpaces&Indexing&Static\Namespaces_Static\Namespaces_Static\obj\Debug\Namespaces_Static.exe
+D:\Coding\Softuni HomeWork\OOP\NameSpaces&Indexing&Static\Namespaces_Static\Namespaces_Static\obj\Debug\Namespaces_Static.pdb

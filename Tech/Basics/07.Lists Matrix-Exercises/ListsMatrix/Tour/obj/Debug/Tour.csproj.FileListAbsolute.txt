@@ -1,0 +1,6 @@
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\Tour\bin\Debug\Tour.exe.config
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\Tour\bin\Debug\Tour.exe
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\Tour\bin\Debug\Tour.pdb
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\Tour\obj\Debug\Tour.csprojResolveAssemblyReference.cache
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\Tour\obj\Debug\Tour.exe
+D:\Coding\Tech\Basics\07.Lists Matrix-Exercises\ListsMatrix\Tour\obj\Debug\Tour.pdb

@@ -1,0 +1,6 @@
+c:\users\jamal\documents\visual studio 2013\Projects\StreamsSandbox\StreamsSandbox\bin\Debug\StreamsSandbox.exe.config
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\StreamsSandbox\bin\Debug\StreamsSandbox.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\StreamsSandbox\bin\Debug\StreamsSandbox.pdb
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\StreamsSandbox\obj\Debug\StreamsSandbox.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\StreamsSandbox\obj\Debug\StreamsSandbox.pdb
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\StreamsSandbox\obj\Debug\StreamsSandbox.csprojResolveAssemblyReference.cache

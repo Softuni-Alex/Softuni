@@ -1,0 +1,1 @@
+C:\Alex\Softuni\DB-Advanced\08.BestPracticesAndArchitecture\Live-Demo\Softuni\Softuni.Client\bin\Debug\Softuni.Client.exe.config

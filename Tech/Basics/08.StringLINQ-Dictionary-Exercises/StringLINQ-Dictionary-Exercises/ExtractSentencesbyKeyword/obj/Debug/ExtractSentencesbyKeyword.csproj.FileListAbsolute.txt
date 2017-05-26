@@ -1,0 +1,5 @@
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\ExtractSentencesbyKeyword\bin\Debug\ExtractSentencesbyKeyword.exe.config
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\ExtractSentencesbyKeyword\bin\Debug\ExtractSentencesbyKeyword.exe
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\ExtractSentencesbyKeyword\bin\Debug\ExtractSentencesbyKeyword.pdb
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\ExtractSentencesbyKeyword\obj\Debug\ExtractSentencesbyKeyword.exe
+D:\Coding\Tech\Basics\08.StringLINQ-Dictionary-Exercises\StringLINQ-Dictionary-Exercises\ExtractSentencesbyKeyword\obj\Debug\ExtractSentencesbyKeyword.pdb

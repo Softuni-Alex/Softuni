@@ -1,0 +1,6 @@
+C:\Alex\Softuni\DataStructures\01.LinearStructuresComplexity-Exercises\Exercises\LinearStructuresExercises\LongestSubSequence\bin\Debug\LongestSubSequence.exe.config
+C:\Alex\Softuni\DataStructures\01.LinearStructuresComplexity-Exercises\Exercises\LinearStructuresExercises\LongestSubSequence\bin\Debug\LongestSubSequence.exe
+C:\Alex\Softuni\DataStructures\01.LinearStructuresComplexity-Exercises\Exercises\LinearStructuresExercises\LongestSubSequence\bin\Debug\LongestSubSequence.pdb
+C:\Alex\Softuni\DataStructures\01.LinearStructuresComplexity-Exercises\Exercises\LinearStructuresExercises\LongestSubSequence\obj\Debug\LongestSubSequence.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni\DataStructures\01.LinearStructuresComplexity-Exercises\Exercises\LinearStructuresExercises\LongestSubSequence\obj\Debug\LongestSubSequence.exe
+C:\Alex\Softuni\DataStructures\01.LinearStructuresComplexity-Exercises\Exercises\LinearStructuresExercises\LongestSubSequence\obj\Debug\LongestSubSequence.pdb
