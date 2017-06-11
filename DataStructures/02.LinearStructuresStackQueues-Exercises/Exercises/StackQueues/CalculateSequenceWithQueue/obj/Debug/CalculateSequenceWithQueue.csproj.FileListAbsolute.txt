@@ -1,0 +1,5 @@
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues-Exercises\Exercises\StackQueues\CalculateSequenceWithQueue\bin\Debug\CalculateSequenceWithQueue.exe.config
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues-Exercises\Exercises\StackQueues\CalculateSequenceWithQueue\bin\Debug\CalculateSequenceWithQueue.exe
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues-Exercises\Exercises\StackQueues\CalculateSequenceWithQueue\bin\Debug\CalculateSequenceWithQueue.pdb
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues-Exercises\Exercises\StackQueues\CalculateSequenceWithQueue\obj\Debug\CalculateSequenceWithQueue.exe
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues-Exercises\Exercises\StackQueues\CalculateSequenceWithQueue\obj\Debug\CalculateSequenceWithQueue.pdb

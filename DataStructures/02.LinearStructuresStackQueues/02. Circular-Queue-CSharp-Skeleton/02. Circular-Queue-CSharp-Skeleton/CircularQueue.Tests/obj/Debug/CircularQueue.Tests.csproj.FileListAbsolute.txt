@@ -1,0 +1,8 @@
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues\02. Circular-Queue-CSharp-Skeleton\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\bin\Debug\CircularQueue.Tests.dll
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues\02. Circular-Queue-CSharp-Skeleton\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\bin\Debug\CircularQueue.Tests.pdb
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues\02. Circular-Queue-CSharp-Skeleton\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\bin\Debug\CircularQueue.exe
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues\02. Circular-Queue-CSharp-Skeleton\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues\02. Circular-Queue-CSharp-Skeleton\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\bin\Debug\CircularQueue.pdb
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues\02. Circular-Queue-CSharp-Skeleton\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues\02. Circular-Queue-CSharp-Skeleton\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.dll
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues\02. Circular-Queue-CSharp-Skeleton\02. Circular-Queue-CSharp-Skeleton\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.pdb

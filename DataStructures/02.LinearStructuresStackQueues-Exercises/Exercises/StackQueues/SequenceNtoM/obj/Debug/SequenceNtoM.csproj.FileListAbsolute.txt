@@ -1,0 +1,5 @@
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues-Exercises\Exercises\StackQueues\SequenceNtoM\bin\Debug\SequenceNtoM.exe.config
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues-Exercises\Exercises\StackQueues\SequenceNtoM\bin\Debug\SequenceNtoM.exe
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues-Exercises\Exercises\StackQueues\SequenceNtoM\bin\Debug\SequenceNtoM.pdb
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues-Exercises\Exercises\StackQueues\SequenceNtoM\obj\Debug\SequenceNtoM.exe
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues-Exercises\Exercises\StackQueues\SequenceNtoM\obj\Debug\SequenceNtoM.pdb

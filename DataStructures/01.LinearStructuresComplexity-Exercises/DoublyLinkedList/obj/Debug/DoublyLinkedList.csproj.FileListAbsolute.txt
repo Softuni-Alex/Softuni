@@ -1,0 +1,5 @@
+C:\Alex\Softuni-Alex\Softuni\DataStructures\01.LinearStructuresComplexity-Exercises\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe
+C:\Alex\Softuni-Alex\Softuni\DataStructures\01.LinearStructuresComplexity-Exercises\DoublyLinkedList\bin\Debug\DoublyLinkedList.pdb
+C:\Alex\Softuni-Alex\Softuni\DataStructures\01.LinearStructuresComplexity-Exercises\DoublyLinkedList\obj\Debug\DoublyLinkedList.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni-Alex\Softuni\DataStructures\01.LinearStructuresComplexity-Exercises\DoublyLinkedList\obj\Debug\DoublyLinkedList.exe
+C:\Alex\Softuni-Alex\Softuni\DataStructures\01.LinearStructuresComplexity-Exercises\DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb

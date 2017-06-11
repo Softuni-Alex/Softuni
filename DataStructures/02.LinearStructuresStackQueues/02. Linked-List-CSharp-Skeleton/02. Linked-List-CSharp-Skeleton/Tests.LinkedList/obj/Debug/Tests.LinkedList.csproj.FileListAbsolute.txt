@@ -1,0 +1,8 @@
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues\02. Linked-List-CSharp-Skeleton\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\bin\Debug\Tests.LinkedList.dll
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues\02. Linked-List-CSharp-Skeleton\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\bin\Debug\Tests.LinkedList.pdb
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues\02. Linked-List-CSharp-Skeleton\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\bin\Debug\LinkedList.exe
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues\02. Linked-List-CSharp-Skeleton\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues\02. Linked-List-CSharp-Skeleton\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\bin\Debug\LinkedList.pdb
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues\02. Linked-List-CSharp-Skeleton\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\obj\Debug\Tests.LinkedList.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues\02. Linked-List-CSharp-Skeleton\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\obj\Debug\Tests.LinkedList.dll
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues\02. Linked-List-CSharp-Skeleton\02. Linked-List-CSharp-Skeleton\Tests.LinkedList\obj\Debug\Tests.LinkedList.pdb

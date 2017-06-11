@@ -1,0 +1,5 @@
+C:\Alex\Softuni-Alex\Softuni\DataStructures\01.LinearStructuresComplexity-Exercises\Exercises\LinearStructuresExercises\CoutOfOccurences\bin\Debug\CoutOfOccurences.exe.config
+C:\Alex\Softuni-Alex\Softuni\DataStructures\01.LinearStructuresComplexity-Exercises\Exercises\LinearStructuresExercises\CoutOfOccurences\bin\Debug\CoutOfOccurences.exe
+C:\Alex\Softuni-Alex\Softuni\DataStructures\01.LinearStructuresComplexity-Exercises\Exercises\LinearStructuresExercises\CoutOfOccurences\bin\Debug\CoutOfOccurences.pdb
+C:\Alex\Softuni-Alex\Softuni\DataStructures\01.LinearStructuresComplexity-Exercises\Exercises\LinearStructuresExercises\CoutOfOccurences\obj\Debug\CoutOfOccurences.exe
+C:\Alex\Softuni-Alex\Softuni\DataStructures\01.LinearStructuresComplexity-Exercises\Exercises\LinearStructuresExercises\CoutOfOccurences\obj\Debug\CoutOfOccurences.pdb

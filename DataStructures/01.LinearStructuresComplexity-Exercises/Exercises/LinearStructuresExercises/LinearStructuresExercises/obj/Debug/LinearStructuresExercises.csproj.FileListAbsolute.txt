@@ -4,3 +4,6 @@ C:\Alex\Softuni\DataStructures\01.LinearStructuresComplexity-Exercises\Exercises
 C:\Alex\Softuni\DataStructures\01.LinearStructuresComplexity-Exercises\Exercises\LinearStructuresExercises\LinearStructuresExercises\obj\Debug\LinearStructuresExercises.csprojResolveAssemblyReference.cache
 C:\Alex\Softuni\DataStructures\01.LinearStructuresComplexity-Exercises\Exercises\LinearStructuresExercises\LinearStructuresExercises\obj\Debug\LinearStructuresExercises.exe
 C:\Alex\Softuni\DataStructures\01.LinearStructuresComplexity-Exercises\Exercises\LinearStructuresExercises\LinearStructuresExercises\obj\Debug\LinearStructuresExercises.pdb
+C:\Alex\Softuni-Alex\Softuni\DataStructures\01.LinearStructuresComplexity-Exercises\Exercises\LinearStructuresExercises\LinearStructuresExercises\bin\Debug\LinearStructuresExercises.exe.config
+C:\Alex\Softuni-Alex\Softuni\DataStructures\01.LinearStructuresComplexity-Exercises\Exercises\LinearStructuresExercises\LinearStructuresExercises\obj\Debug\LinearStructuresExercises.exe
+C:\Alex\Softuni-Alex\Softuni\DataStructures\01.LinearStructuresComplexity-Exercises\Exercises\LinearStructuresExercises\LinearStructuresExercises\obj\Debug\LinearStructuresExercises.pdb

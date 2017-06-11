@@ -1,0 +1,6 @@
+C:\Alex\Softuni-Alex\Softuni\DataStructures\01.LinearStructuresComplexity-Exercises\Exercises\LinearStructuresExercises\RemoveOddOccurences\bin\Debug\RemoveOddOccurences.exe.config
+C:\Alex\Softuni-Alex\Softuni\DataStructures\01.LinearStructuresComplexity-Exercises\Exercises\LinearStructuresExercises\RemoveOddOccurences\bin\Debug\RemoveOddOccurences.exe
+C:\Alex\Softuni-Alex\Softuni\DataStructures\01.LinearStructuresComplexity-Exercises\Exercises\LinearStructuresExercises\RemoveOddOccurences\bin\Debug\RemoveOddOccurences.pdb
+C:\Alex\Softuni-Alex\Softuni\DataStructures\01.LinearStructuresComplexity-Exercises\Exercises\LinearStructuresExercises\RemoveOddOccurences\obj\Debug\RemoveOddOccurences.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni-Alex\Softuni\DataStructures\01.LinearStructuresComplexity-Exercises\Exercises\LinearStructuresExercises\RemoveOddOccurences\obj\Debug\RemoveOddOccurences.exe
+C:\Alex\Softuni-Alex\Softuni\DataStructures\01.LinearStructuresComplexity-Exercises\Exercises\LinearStructuresExercises\RemoveOddOccurences\obj\Debug\RemoveOddOccurences.pdb

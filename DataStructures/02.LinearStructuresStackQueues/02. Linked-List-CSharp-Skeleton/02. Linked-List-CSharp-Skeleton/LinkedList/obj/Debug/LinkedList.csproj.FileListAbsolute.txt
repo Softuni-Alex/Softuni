@@ -1,0 +1,6 @@
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues\02. Linked-List-CSharp-Skeleton\02. Linked-List-CSharp-Skeleton\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues\02. Linked-List-CSharp-Skeleton\02. Linked-List-CSharp-Skeleton\LinkedList\bin\Debug\LinkedList.exe
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues\02. Linked-List-CSharp-Skeleton\02. Linked-List-CSharp-Skeleton\LinkedList\bin\Debug\LinkedList.pdb
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues\02. Linked-List-CSharp-Skeleton\02. Linked-List-CSharp-Skeleton\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues\02. Linked-List-CSharp-Skeleton\02. Linked-List-CSharp-Skeleton\LinkedList\obj\Debug\LinkedList.exe
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues\02. Linked-List-CSharp-Skeleton\02. Linked-List-CSharp-Skeleton\LinkedList\obj\Debug\LinkedList.pdb

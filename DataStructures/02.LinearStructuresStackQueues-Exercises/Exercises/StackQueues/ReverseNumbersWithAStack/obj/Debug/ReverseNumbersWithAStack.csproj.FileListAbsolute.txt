@@ -1,0 +1,6 @@
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues-Exercises\Exercises\StackQueues\ReverseNumbersWithAStack\bin\Debug\ReverseNumbersWithAStack.exe.config
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues-Exercises\Exercises\StackQueues\ReverseNumbersWithAStack\bin\Debug\ReverseNumbersWithAStack.exe
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues-Exercises\Exercises\StackQueues\ReverseNumbersWithAStack\bin\Debug\ReverseNumbersWithAStack.pdb
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues-Exercises\Exercises\StackQueues\ReverseNumbersWithAStack\obj\Debug\ReverseNumbersWithAStack.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues-Exercises\Exercises\StackQueues\ReverseNumbersWithAStack\obj\Debug\ReverseNumbersWithAStack.exe
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues-Exercises\Exercises\StackQueues\ReverseNumbersWithAStack\obj\Debug\ReverseNumbersWithAStack.pdb

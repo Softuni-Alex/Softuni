@@ -1,0 +1,6 @@
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues-Exercises\Exercises\StackQueues\LinkedStack\bin\Debug\LinkedStack.exe.config
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues-Exercises\Exercises\StackQueues\LinkedStack\bin\Debug\LinkedStack.exe
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues-Exercises\Exercises\StackQueues\LinkedStack\bin\Debug\LinkedStack.pdb
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues-Exercises\Exercises\StackQueues\LinkedStack\obj\Debug\LinkedStack.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues-Exercises\Exercises\StackQueues\LinkedStack\obj\Debug\LinkedStack.exe
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues-Exercises\Exercises\StackQueues\LinkedStack\obj\Debug\LinkedStack.pdb

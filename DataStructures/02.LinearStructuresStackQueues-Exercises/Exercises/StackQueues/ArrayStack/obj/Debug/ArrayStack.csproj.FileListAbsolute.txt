@@ -1,0 +1,6 @@
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues-Exercises\Exercises\StackQueues\ArrayStack\obj\Debug\ArrayStack.csprojResolveAssemblyReference.cache
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues-Exercises\Exercises\StackQueues\ArrayStack\bin\Debug\ArrayStack.exe.config
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues-Exercises\Exercises\StackQueues\ArrayStack\bin\Debug\ArrayStack.exe
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues-Exercises\Exercises\StackQueues\ArrayStack\bin\Debug\ArrayStack.pdb
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues-Exercises\Exercises\StackQueues\ArrayStack\obj\Debug\ArrayStack.exe
+C:\Alex\Softuni-Alex\Softuni\DataStructures\02.LinearStructuresStackQueues-Exercises\Exercises\StackQueues\ArrayStack\obj\Debug\ArrayStack.pdb
