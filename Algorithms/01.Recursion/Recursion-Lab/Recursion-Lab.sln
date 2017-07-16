@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ArraySum", "ArraySum\01.ArraySum.csproj", "{CFE0A410-8C4A-42ED-8682-BF52E832DD6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.RecursiveFactorial", "02.RecursiveFactorial\02.RecursiveFactorial.csproj", "{E578D2A6-4CBF-4384-A06D-0B08C41E32CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.RecursiveDrawing", "03.RecursiveDrawing\03.RecursiveDrawing.csproj", "{038631F8-ED15-47C1-966B-C5F7242A1DC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.GeneratingVectors", "04.GeneratingVectors\04.GeneratingVectors.csproj", "{4A040EAB-A1FC-4B35-B7F2-46E02311DCA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.GeneratingCombinations", "05.GeneratingCombinations\05.GeneratingCombinations.csproj", "{6280D050-7B2D-4974-A941-52579E99AFA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.8QueensPuzzle", "06.8QueensPuzzle\06.8QueensPuzzle.csproj", "{157396CB-9A96-423D-9F4C-DC4C65E81989}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.FindingAllPathsInALabyrinth", "07.FindingAllPathsInALabyrinth\07.FindingAllPathsInALabyrinth.csproj", "{36E4E82C-2FCC-4D8D-94C4-32BCB3B8E687}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFE0A410-8C4A-42ED-8682-BF52E832DD6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFE0A410-8C4A-42ED-8682-BF52E832DD6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFE0A410-8C4A-42ED-8682-BF52E832DD6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFE0A410-8C4A-42ED-8682-BF52E832DD6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E578D2A6-4CBF-4384-A06D-0B08C41E32CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E578D2A6-4CBF-4384-A06D-0B08C41E32CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E578D2A6-4CBF-4384-A06D-0B08C41E32CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E578D2A6-4CBF-4384-A06D-0B08C41E32CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{038631F8-ED15-47C1-966B-C5F7242A1DC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{038631F8-ED15-47C1-966B-C5F7242A1DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{038631F8-ED15-47C1-966B-C5F7242A1DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{038631F8-ED15-47C1-966B-C5F7242A1DC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A040EAB-A1FC-4B35-B7F2-46E02311DCA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A040EAB-A1FC-4B35-B7F2-46E02311DCA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A040EAB-A1FC-4B35-B7F2-46E02311DCA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A040EAB-A1FC-4B35-B7F2-46E02311DCA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6280D050-7B2D-4974-A941-52579E99AFA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6280D050-7B2D-4974-A941-52579E99AFA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6280D050-7B2D-4974-A941-52579E99AFA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6280D050-7B2D-4974-A941-52579E99AFA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{157396CB-9A96-423D-9F4C-DC4C65E81989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{157396CB-9A96-423D-9F4C-DC4C65E81989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{157396CB-9A96-423D-9F4C-DC4C65E81989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{157396CB-9A96-423D-9F4C-DC4C65E81989}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36E4E82C-2FCC-4D8D-94C4-32BCB3B8E687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E4E82C-2FCC-4D8D-94C4-32BCB3B8E687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E4E82C-2FCC-4D8D-94C4-32BCB3B8E687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E4E82C-2FCC-4D8D-94C4-32BCB3B8E687}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
