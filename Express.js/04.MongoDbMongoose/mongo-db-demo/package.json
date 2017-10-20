@@ -1,0 +1,7 @@
+{
+  "name": "mongo-db-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "KK",
+  "license": "MIT"
+}

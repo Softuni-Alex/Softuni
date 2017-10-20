@@ -1,0 +1,3 @@
+2017-10-05T04:48:50.158-0700 I CONTROL  [main] Trying to install Windows service 'MongoDB'
+2017-10-05T04:48:50.160-0700 I CONTROL  [main] Service 'MongoDB' (MongoDB) installed with command line '"C:\Program Files\MongoDB\Server\3.4\bin\mongod.exe" --dbpath C:\Alex\Softuni-Alex\Softuni\MongoDb --logpath C:\Alex\Softuni-Alex\Softuni\MongoDb\logs.txt --service'
+2017-10-05T04:48:50.160-0700 I CONTROL  [main] Service can be started from the command line with 'net start MongoDB'

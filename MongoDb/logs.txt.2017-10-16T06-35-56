@@ -1,0 +1,25 @@
+2017-10-05T14:51:16.825+0300 I CONTROL  [main] Trying to start Windows service 'MongoDB'
+2017-10-05T14:51:16.826+0300 I CONTROL  [initandlisten] MongoDB starting : pid=15736 port=27017 dbpath=C:\Alex\Softuni-Alex\Softuni\MongoDb 64-bit host=alexander-pc
+2017-10-05T14:51:16.826+0300 I CONTROL  [initandlisten] targetMinOS: Windows 7/Windows Server 2008 R2
+2017-10-05T14:51:16.826+0300 I CONTROL  [initandlisten] db version v3.4.9
+2017-10-05T14:51:16.826+0300 I CONTROL  [initandlisten] git version: 876ebee8c7dd0e2d992f36a848ff4dc50ee6603e
+2017-10-05T14:51:16.826+0300 I CONTROL  [initandlisten] OpenSSL version: OpenSSL 1.0.1u-fips  22 Sep 2016
+2017-10-05T14:51:16.826+0300 I CONTROL  [initandlisten] allocator: tcmalloc
+2017-10-05T14:51:16.827+0300 I CONTROL  [initandlisten] modules: none
+2017-10-05T14:51:16.827+0300 I CONTROL  [initandlisten] build environment:
+2017-10-05T14:51:16.827+0300 I CONTROL  [initandlisten]     distmod: 2008plus-ssl
+2017-10-05T14:51:16.827+0300 I CONTROL  [initandlisten]     distarch: x86_64
+2017-10-05T14:51:16.827+0300 I CONTROL  [initandlisten]     target_arch: x86_64
+2017-10-05T14:51:16.827+0300 I CONTROL  [initandlisten] options: { service: true, storage: { dbPath: "C:\Alex\Softuni-Alex\Softuni\MongoDb" }, systemLog: { destination: "file", path: "C:\Alex\Softuni-Alex\Softuni\MongoDb\logs.txt" } }
+2017-10-05T14:51:16.828+0300 I -        [initandlisten] Detected data files in C:\Alex\Softuni-Alex\Softuni\MongoDb created by the 'wiredTiger' storage engine, so setting the active storage engine to 'wiredTiger'.
+2017-10-05T14:51:16.828+0300 I STORAGE  [initandlisten] wiredtiger_open config: create,cache_size=7522M,session_max=20000,eviction=(threads_min=4,threads_max=4),config_base=false,statistics=(fast),log=(enabled=true,archive=true,path=journal,compressor=snappy),file_manager=(close_idle_time=100000),checkpoint=(wait=60,log_size=2GB),statistics_log=(wait=0),
+2017-10-05T14:51:17.752+0300 I CONTROL  [initandlisten] 
+2017-10-05T14:51:17.752+0300 I CONTROL  [initandlisten] ** WARNING: Access control is not enabled for the database.
+2017-10-05T14:51:17.753+0300 I CONTROL  [initandlisten] **          Read and write access to data and configuration is unrestricted.
+2017-10-05T14:51:17.753+0300 I CONTROL  [initandlisten] 
+2017-10-05T14:51:18.147+0300 I FTDC     [initandlisten] Initializing full-time diagnostic data capture with directory 'C:/Alex/Softuni-Alex/Softuni/MongoDb/diagnostic.data'
+2017-10-05T14:51:18.148+0300 I NETWORK  [thread1] waiting for connections on port 27017
+2017-10-05T14:51:18.148+0300 I STORAGE  [initandlisten] Service running
+2017-10-05T17:19:03.511+0300 I NETWORK  [thread1] connection accepted from 127.0.0.1:58888 #1 (1 connection now open)
+2017-10-05T17:19:03.511+0300 I NETWORK  [conn1] received client metadata from 127.0.0.1:58888 conn1: { application: { name: "MongoDB Shell" }, driver: { name: "MongoDB Internal Client", version: "3.4.9" }, os: { type: "Windows", name: "Microsoft Windows 8", architecture: "x86_64", version: "6.2 (build 9200)" } }
+2017-10-05T17:27:02.581+0300 I -        [conn1] end connection 127.0.0.1:58888 (1 connection now open)

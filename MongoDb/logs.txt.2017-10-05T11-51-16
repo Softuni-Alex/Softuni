@@ -1,0 +1,30 @@
+2017-10-05T14:49:03.395+0300 I CONTROL  [main] Trying to start Windows service 'MongoDB'
+2017-10-05T14:49:03.396+0300 I CONTROL  [initandlisten] MongoDB starting : pid=11788 port=27017 dbpath=C:\Alex\Softuni-Alex\Softuni\MongoDb 64-bit host=alexander-pc
+2017-10-05T14:49:03.397+0300 I CONTROL  [initandlisten] targetMinOS: Windows 7/Windows Server 2008 R2
+2017-10-05T14:49:03.397+0300 I CONTROL  [initandlisten] db version v3.4.9
+2017-10-05T14:49:03.397+0300 I CONTROL  [initandlisten] git version: 876ebee8c7dd0e2d992f36a848ff4dc50ee6603e
+2017-10-05T14:49:03.397+0300 I CONTROL  [initandlisten] OpenSSL version: OpenSSL 1.0.1u-fips  22 Sep 2016
+2017-10-05T14:49:03.397+0300 I CONTROL  [initandlisten] allocator: tcmalloc
+2017-10-05T14:49:03.397+0300 I CONTROL  [initandlisten] modules: none
+2017-10-05T14:49:03.397+0300 I CONTROL  [initandlisten] build environment:
+2017-10-05T14:49:03.397+0300 I CONTROL  [initandlisten]     distmod: 2008plus-ssl
+2017-10-05T14:49:03.397+0300 I CONTROL  [initandlisten]     distarch: x86_64
+2017-10-05T14:49:03.397+0300 I CONTROL  [initandlisten]     target_arch: x86_64
+2017-10-05T14:49:03.397+0300 I CONTROL  [initandlisten] options: { service: true, storage: { dbPath: "C:\Alex\Softuni-Alex\Softuni\MongoDb" }, systemLog: { destination: "file", path: "C:\Alex\Softuni-Alex\Softuni\MongoDb\logs.txt" } }
+2017-10-05T14:49:03.398+0300 I -        [initandlisten] Detected data files in C:\Alex\Softuni-Alex\Softuni\MongoDb created by the 'wiredTiger' storage engine, so setting the active storage engine to 'wiredTiger'.
+2017-10-05T14:49:03.399+0300 I STORAGE  [initandlisten] wiredtiger_open config: create,cache_size=7522M,session_max=20000,eviction=(threads_min=4,threads_max=4),config_base=false,statistics=(fast),log=(enabled=true,archive=true,path=journal,compressor=snappy),file_manager=(close_idle_time=100000),checkpoint=(wait=60,log_size=2GB),statistics_log=(wait=0),
+2017-10-05T14:49:04.740+0300 I CONTROL  [initandlisten] 
+2017-10-05T14:49:04.741+0300 I CONTROL  [initandlisten] ** WARNING: Access control is not enabled for the database.
+2017-10-05T14:49:04.741+0300 I CONTROL  [initandlisten] **          Read and write access to data and configuration is unrestricted.
+2017-10-05T14:49:04.741+0300 I CONTROL  [initandlisten] 
+2017-10-05T14:49:05.278+0300 I FTDC     [initandlisten] Initializing full-time diagnostic data capture with directory 'C:/Alex/Softuni-Alex/Softuni/MongoDb/diagnostic.data'
+2017-10-05T14:49:05.279+0300 I NETWORK  [thread1] waiting for connections on port 27017
+2017-10-05T14:49:05.279+0300 I STORAGE  [initandlisten] Service running
+2017-10-05T14:49:32.614+0300 I CONTROL  [serviceShutdown] got SERVICE_CONTROL_STOP request from Windows Service Control Manager, will terminate after current cmd ends
+2017-10-05T14:49:32.615+0300 I NETWORK  [serviceShutdown] shutdown: going to close listening sockets...
+2017-10-05T14:49:32.615+0300 I NETWORK  [serviceShutdown] closing listening socket: 560
+2017-10-05T14:49:32.615+0300 I NETWORK  [serviceShutdown] shutdown: going to flush diaglog...
+2017-10-05T14:49:32.615+0300 I FTDC     [serviceShutdown] Shutting down full-time diagnostic data capture
+2017-10-05T14:49:32.624+0300 I STORAGE  [serviceShutdown] WiredTigerKVEngine shutting down
+2017-10-05T14:49:33.235+0300 I STORAGE  [serviceShutdown] shutdown: removing fs lock...
+2017-10-05T14:49:33.235+0300 I CONTROL  [serviceShutdown] now exiting
