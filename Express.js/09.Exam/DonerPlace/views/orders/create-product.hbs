@@ -1,0 +1,32 @@
+<div class="offset-4 col-md-4">
+    <main>
+        <form action="/create-product" method="post">
+            <h2>Create Product</h2>
+            <div>
+                <label for="category">Category</label>
+                <select name="category" class="form-control" id="category">
+                    <option value="beef">Beef</option>
+                    <option value="chicken">Chicken</option>
+                    <option value="lamb">Lamb</option>
+                </select>
+            </div>
+            <div>
+                <!--set the default image for all entities-->
+                <label for="imageUrl">Image Url (default)</label>
+                <input class="form-control" id="imageUrl" name="imageUrl" type="text"
+                       value="img/beef-17.png">
+            </div>
+            <div>
+                <label for="size">Size</label>
+                <input class="form-control" id="size" name="size" type="number">
+            </div>
+            <div>
+                <strong>Toppings(comma separated)</strong><br>
+                <textarea class="form-control" name="toppings"></textarea>
+            </div>
+            <div class="text-center">
+                <input type="submit" value="Create" class="button btn-dark" style="border:0"/>
+            </div>
+        </form>
+    </main>
+</div>

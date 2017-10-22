@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Doner Place</title>
+    <link href="css/site.css" type="text/css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+<div class="container">
+    <header>
+        <span class="logo">Doner Place</span>
+        {{#if currentUser}}
+            <form action="/logout" method="POST">
+                <span class="greeting">Welcome, {{currentUser.username}}! | <input type="submit" class="btn btn-dark"
+                                                                                   value="Logout"></input>
+                </span>
+            </form>
+        {{/if}}
+        <ul class="menu">
+            <li><a class="button btn-dark" href="/">Home</a></li>
+            <li><a class="button btn-dark" href="/order-status">Order Status</a></li>
+            {{#unless currentUser}}
+                <li><a class="button btn-dark" href="/login">Login</a></li>
+                <li><a class="button btn-dark" href="/register">Register</a></li>
+            {{/unless}}
+        </ul>
+    </header>
+    <main>
+        <h1>Welcome to Doner Place!</h1>
+        <p>We offer a wide variety of tasty doner kebab, cutosmized to your liking. Choose from different sizes of
+            chicken, beef and lamb and any topping you want. Place your order now!</p>
+        {{{body}}}
+    </main>
+    <footer>Doner Place &copy; 2017</footer>
+</div>
+</body>
+</html>

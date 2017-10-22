@@ -1,0 +1,19 @@
+<div class="form-group text-center">
+    <h2>List of Doners</h2>
+
+    {{#if currentUser.isAdmin}}
+        <h2>Admin</h2>
+        <div class="product-card">
+            <img src="img/new.png">
+            <a href="/create-product" class="button product-title btn-dark">Create Product</a>
+        </div>
+    {{/if}}
+</div>
+
+{{#each products}}
+    <div class="product-card">
+        <legend>{{this.category}}</legend>
+        <img src="{{this.imageUrl}}" alt="product image">
+        <a href="/customize-order/{{this.id}}" class="button btn-dark">Order</a>
+    </div>
+{{/each}}
